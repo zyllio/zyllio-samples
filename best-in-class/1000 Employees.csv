@@ -1,0 +1,1001 @@
+First Name;Last Name;Email;Birthday;Phone number;Job Title;Company Name;Retired;Profile
+Lois;Walker;lois.walker@hotmail.com;1987-04-21;303-572-8492;Manager;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Brenda;Robinson;brenda.robinson@gmail.com;1987-03-07;225-945-4954;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Joe;Robinson;joe.robinson@gmail.com;1987-03-08;219-904-2161;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Diane;Evans;diane.evans@yahoo.com;1987-03-09;215-793-6791;Assistant officer;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Benjamin;Russell;benjamin.russell@charter.net;1987-03-10;262-404-2252;Product Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Patrick;Bailey;patrick.bailey@aol.com;1987-03-11;319-812-6957;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Nancy;Baker;nancy.baker@bp.com;1987-03-12;229-336-5117;Engineer;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Murphy;carol.murphy@gmail.com;1987-03-13;216-336-0009;Security staff;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Frances;Young;frances.young@gmail.com;1987-03-14;210-819-9765;Account assistant;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Diana;Peterson;diana.peterson@hotmail.co.uk;1987-03-15;479-783-5656;Product Manager;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ralph;Flores;ralph.flores@yahoo.com;1987-03-16;316-280-2864;Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Alexander;jack.alexander@gmail.com;1987-03-17;702-603-3769;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Melissa;King;melissa.king@comcast.net;1987-03-18;216-605-3731;Account assistant;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Wayne;Watson;wayne.watson@gmail.com;1987-03-19;701-231-9370;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cheryl;Scott;cheryl.scott@gmail.com;1987-03-20;215-288-9345;Engineer;Google;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paula;Diaz;paula.diaz@gmail.com;1987-03-21;252-531-7641;Buyer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Joshua;Stewart;joshua.stewart@yahoo.ca;1987-03-22;217-279-9342;Engineer;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Theresa;Lee;theresa.lee@gmail.com;1987-03-23;319-553-8919;Engineer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Julia;Scott;julia.scott@apple.com;1987-03-24;423-939-1010;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Thomas;Lewis;thomas.lewis@gmail.com;1987-03-06;314-679-3697;Assistant officer;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Edwards;carol.edwards@msn.com;1987-03-07;225-283-4295;Product Manager;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Matthew;Turner;matthew.turner@gmail.com;1987-03-08;236-972-7624;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Joan;Stewart;joan.stewart@yahoo.com;1987-03-09;216-637-6800;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Ruby;Rogers;ruby.rogers@gmail.com;1987-03-10;423-231-6507;Product Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carolyn;Hayes;carolyn.hayes@hotmail.co.uk;1987-03-11;239-882-8784;CEO;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Russell;anne.russell@ibm.com;1987-03-12;605-635-1306;Security staff;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Daniel;Cooper;daniel.cooper@yahoo.com;1987-03-13;701-510-8162;QA tester;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Roger;Roberts;roger.roberts@gmail.com;1987-03-14;206-497-3141;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Maria;Walker;maria.walker@microsoft.com;1987-03-15;423-668-5506;Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Brenda;Butler;brenda.butler@gmail.com;1987-03-16;480-814-8284;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Lillian;Brown;lillian.brown@aol.com;1987-03-17;239-812-9041;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amy;Howard;amy.howard@aol.com;1987-03-18;803-613-3168;Architect;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Gregory;Edwards;gregory.edwards@outlook.com;1987-03-19;503-256-9654;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Roy;Griffin;roy.griffin@yahoo.com;1987-03-20;219-506-9378;Assistant officer;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Richard;Mitchell;richard.mitchell@verizon.net;1987-03-21;205-621-5884;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Wilson;mary.wilson@sbcglobal.net;1987-03-22;423-937-8660;Architect;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Aaron;Price;aaron.price@bp.com;1987-03-23;219-287-8926;Assistant officer;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Donna;Brown;donna.brown@aol.com;1987-03-24;212-434-7910;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carl;Collins;carl.collins@yahoo.com;1987-03-06;479-740-7633;QA tester;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Joyce;Jenkins;joyce.jenkins@aol.com;1987-03-07;262-455-4187;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Bryant;mary.bryant@verizon.net;1987-03-08;319-827-3516;Product Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amanda;Hughes;amanda.hughes@rediffmail.com;1987-03-09;225-544-9700;QA tester;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Campbell;jack.campbell@gmail.com;1987-03-10;316-499-5737;Product Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Alan;Rivera;alan.rivera@apple.com;1987-03-11;423-277-6819;Security staff;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Elizabeth;Jackson;elizabeth.jackson@aol.com;1987-03-12;603-568-6118;Security staff;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Nancy;Davis;nancy.davis@ibm.com;1987-03-13;219-610-3067;Manager;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Martinez;ernest.martinez@gmail.com;1987-03-14;479-951-4138;Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Judy;Hernandez;judy.hernandez@gmail.com;1987-03-15;316-736-6126;Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Jones;nancy.jones@gmail.com;1987-03-16;212-825-1930;Architect;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Pamela;Wright;pamela.wright@aol.com;1987-03-17;307-329-8832;Assistant officer;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Larry;Miller;larry.miller@shell.com;1987-03-18;217-574-9283;Product Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Coleman;ann.coleman@ibm.com;1987-03-19;319-994-4179;Product Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Judy;Gonzales;judy.gonzales@gmail.com;1987-03-20;201-640-8645;Assistant officer;Intel;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Peter;Washington;peter.washington@bp.com;1987-03-21;231-322-0316;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Clarence;Ross;clarence.ross@apple.com;1987-03-22;423-772-0118;Engineer;Walt Disney;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Sharon;Lopez;sharon.lopez@gmail.com;1987-03-23;304-934-5548;Engineer;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Cooper;ann.cooper@exxonmobil.com;1987-03-24;406-278-6460;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Perez;anne.perez@sbcglobal.net;1987-03-06;423-837-3338;Buyer;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Howard;nancy.howard@gmail.com;1987-03-07;236-973-8086;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Antonio;Roberts;antonio.roberts@hotmail.com;1987-03-08;205-267-7304;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Frances;Watson;frances.watson@outlook.com;1987-03-09;406-530-8069;Buyer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Debra;Wood;debra.wood@hotmail.com;1987-03-10;308-646-6219;Security staff;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Henry;Jenkins;henry.jenkins@hotmail.com;1987-03-11;314-731-7135;Product Manager;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Melissa;Butler;melissa.butler@hotmail.com;1987-03-12;308-827-9016;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Todd;Hall;todd.hall@yahoo.com;1987-03-13;240-513-8668;Assistant officer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Christopher;Nelson;christopher.nelson@aol.com;1987-03-14;480-946-9780;Sales;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Andrea;Garcia;andrea.garcia@aol.com;1987-03-15;219-624-3708;Architect;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Jeremy;Sanchez;jeremy.sanchez@hotmail.com;1987-03-16;423-974-2755;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Steven;Phillips;steven.phillips@hotmail.com;1987-03-17;225-968-5952;Sales;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cynthia;Ramirez;cynthia.ramirez@btinternet.com;1987-03-18;406-961-7340;Buyer;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jason;Anderson;jason.anderson@gmail.com;1987-03-19;217-856-6752;Sales;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Cynthia;White;cynthia.white@gmail.com;1987-03-20;314-593-3092;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Margaret;Brooks;margaret.brooks@gmail.com;1987-03-21;303-960-0117;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Douglas;Flores;douglas.flores@gmail.com;1987-03-22;303-836-4721;Product Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Paul;Watson;paul.watson@hotmail.com;1987-03-23;270-556-7711;QA tester;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Linda;Moore;linda.moore@gmail.com;1987-03-24;215-793-7095;Security staff;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Cheryl;Miller;cheryl.miller@ntlworld.com;1987-03-06;270-880-3858;Manager;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Martha;Washington;martha.washington@aol.com;1987-03-07;405-945-0242;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+William;Hernandez;william.hernandez@rediffmail.com;1987-03-08;239-276-0532;Manager;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Carolyn;Price;carolyn.price@yahoo.com;1987-03-09;217-409-4338;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ruby;Stewart;ruby.stewart@gmail.com;1987-03-10;218-445-2369;Security staff;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paul;Cooper;paul.cooper@gmail.com;1987-03-11;210-984-4722;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Washington;ernest.washington@msn.com;1987-03-12;212-596-1659;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Dorothy;Edwards;dorothy.edwards@hotmail.co.uk;1987-03-13;215-902-6888;QA tester;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ryan;Alexander;ryan.alexander@shell.com;1987-03-14;225-395-3347;Engineer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Lillian;Mitchell;lillian.mitchell@shaw.ca;1987-03-15;316-876-1484;QA tester;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Kelly;Adams;kelly.adams@bp.com;1987-03-16;405-418-0037;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Jimmy;Howard;jimmy.howard@yahoo.com;1987-03-17;212-855-9316;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Margaret;Allen;margaret.allen@gmail.com;1987-03-18;216-697-6987;Security staff;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janet;Henderson;janet.henderson@ntlworld.com;1987-03-19;239-769-6347;Sales;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Eugene;Perez;eugene.perez@exxonmobil.com;1987-03-20;262-472-7112;Sales;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Deborah;Smith;deborah.smith@yahoo.com;1987-03-21;907-279-8694;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janice;Parker;janice.parker@yahoo.com;1987-03-22;314-842-5984;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Rebecca;Stewart;rebecca.stewart@gmail.com;1987-03-23;209-233-7631;Sales;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Phillip;White;phillip.white@gmail.com;1987-03-24;503-668-6592;QA tester;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jose;Hill;jose.hill@hotmail.com;1987-03-06;228-245-5000;Manager;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Harold;Nelson;harold.nelson@gmail.com;1987-03-07;217-555-9216;Manager;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nicole;Ward;nicole.ward@yahoo.com;1987-03-08;231-761-7861;Engineer;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Theresa;Murphy;theresa.murphy@gmail.com;1987-03-09;907-356-1555;Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Tammy;Young;tammy.young@comcast.net;1987-03-10;231-290-3075;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Lois;Walker;lois.walker@hotmail.com;1987-04-21;303-572-8492;Manager;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Brenda;Robinson;brenda.robinson@gmail.com;1987-03-07;225-945-4954;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Joe;Robinson;joe.robinson@gmail.com;1987-03-08;219-904-2161;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Diane;Evans;diane.evans@yahoo.com;1987-03-09;215-793-6791;Assistant officer;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Benjamin;Russell;benjamin.russell@charter.net;1987-03-10;262-404-2252;Product Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Patrick;Bailey;patrick.bailey@aol.com;1987-03-11;319-812-6957;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Nancy;Baker;nancy.baker@bp.com;1987-03-12;229-336-5117;Engineer;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Murphy;carol.murphy@gmail.com;1987-03-13;216-336-0009;Security staff;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Frances;Young;frances.young@gmail.com;1987-03-14;210-819-9765;Account assistant;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Diana;Peterson;diana.peterson@hotmail.co.uk;1987-03-15;479-783-5656;Product Manager;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ralph;Flores;ralph.flores@yahoo.com;1987-03-16;316-280-2864;Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Alexander;jack.alexander@gmail.com;1987-03-17;702-603-3769;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Melissa;King;melissa.king@comcast.net;1987-03-18;216-605-3731;Account assistant;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Wayne;Watson;wayne.watson@gmail.com;1987-03-19;701-231-9370;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cheryl;Scott;cheryl.scott@gmail.com;1987-03-20;215-288-9345;Engineer;Google;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paula;Diaz;paula.diaz@gmail.com;1987-03-21;252-531-7641;Buyer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Joshua;Stewart;joshua.stewart@yahoo.ca;1987-03-22;217-279-9342;Engineer;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Theresa;Lee;theresa.lee@gmail.com;1987-03-23;319-553-8919;Engineer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Julia;Scott;julia.scott@apple.com;1987-03-24;423-939-1010;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Thomas;Lewis;thomas.lewis@gmail.com;1987-03-06;314-679-3697;Assistant officer;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Edwards;carol.edwards@msn.com;1987-03-07;225-283-4295;Product Manager;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Matthew;Turner;matthew.turner@gmail.com;1987-03-08;236-972-7624;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Joan;Stewart;joan.stewart@yahoo.com;1987-03-09;216-637-6800;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Ruby;Rogers;ruby.rogers@gmail.com;1987-03-10;423-231-6507;Product Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carolyn;Hayes;carolyn.hayes@hotmail.co.uk;1987-03-11;239-882-8784;CEO;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Russell;anne.russell@ibm.com;1987-03-12;605-635-1306;Security staff;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Daniel;Cooper;daniel.cooper@yahoo.com;1987-03-13;701-510-8162;QA tester;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Roger;Roberts;roger.roberts@gmail.com;1987-03-14;206-497-3141;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Maria;Walker;maria.walker@microsoft.com;1987-03-15;423-668-5506;Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Brenda;Butler;brenda.butler@gmail.com;1987-03-16;480-814-8284;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Lillian;Brown;lillian.brown@aol.com;1987-03-17;239-812-9041;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amy;Howard;amy.howard@aol.com;1987-03-18;803-613-3168;Architect;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Gregory;Edwards;gregory.edwards@outlook.com;1987-03-19;503-256-9654;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Roy;Griffin;roy.griffin@yahoo.com;1987-03-20;219-506-9378;Assistant officer;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Richard;Mitchell;richard.mitchell@verizon.net;1987-03-21;205-621-5884;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Wilson;mary.wilson@sbcglobal.net;1987-03-22;423-937-8660;Architect;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Aaron;Price;aaron.price@bp.com;1987-03-23;219-287-8926;Assistant officer;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Donna;Brown;donna.brown@aol.com;1987-03-24;212-434-7910;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carl;Collins;carl.collins@yahoo.com;1987-03-06;479-740-7633;QA tester;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Joyce;Jenkins;joyce.jenkins@aol.com;1987-03-07;262-455-4187;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Bryant;mary.bryant@verizon.net;1987-03-08;319-827-3516;Product Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amanda;Hughes;amanda.hughes@rediffmail.com;1987-03-09;225-544-9700;QA tester;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Campbell;jack.campbell@gmail.com;1987-03-10;316-499-5737;Product Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Alan;Rivera;alan.rivera@apple.com;1987-03-11;423-277-6819;Security staff;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Elizabeth;Jackson;elizabeth.jackson@aol.com;1987-03-12;603-568-6118;Security staff;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Nancy;Davis;nancy.davis@ibm.com;1987-03-13;219-610-3067;Manager;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Martinez;ernest.martinez@gmail.com;1987-03-14;479-951-4138;Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Judy;Hernandez;judy.hernandez@gmail.com;1987-03-15;316-736-6126;Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Jones;nancy.jones@gmail.com;1987-03-16;212-825-1930;Architect;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Pamela;Wright;pamela.wright@aol.com;1987-03-17;307-329-8832;Assistant officer;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Larry;Miller;larry.miller@shell.com;1987-03-18;217-574-9283;Product Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Coleman;ann.coleman@ibm.com;1987-03-19;319-994-4179;Product Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Judy;Gonzales;judy.gonzales@gmail.com;1987-03-20;201-640-8645;Assistant officer;Intel;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Peter;Washington;peter.washington@bp.com;1987-03-21;231-322-0316;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Clarence;Ross;clarence.ross@apple.com;1987-03-22;423-772-0118;Engineer;Walt Disney;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Sharon;Lopez;sharon.lopez@gmail.com;1987-03-23;304-934-5548;Engineer;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Cooper;ann.cooper@exxonmobil.com;1987-03-24;406-278-6460;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Perez;anne.perez@sbcglobal.net;1987-03-06;423-837-3338;Buyer;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Howard;nancy.howard@gmail.com;1987-03-07;236-973-8086;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Antonio;Roberts;antonio.roberts@hotmail.com;1987-03-08;205-267-7304;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Frances;Watson;frances.watson@outlook.com;1987-03-09;406-530-8069;Buyer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Debra;Wood;debra.wood@hotmail.com;1987-03-10;308-646-6219;Security staff;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Henry;Jenkins;henry.jenkins@hotmail.com;1987-03-11;314-731-7135;Product Manager;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Melissa;Butler;melissa.butler@hotmail.com;1987-03-12;308-827-9016;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Todd;Hall;todd.hall@yahoo.com;1987-03-13;240-513-8668;Assistant officer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Christopher;Nelson;christopher.nelson@aol.com;1987-03-14;480-946-9780;Sales;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Andrea;Garcia;andrea.garcia@aol.com;1987-03-15;219-624-3708;Architect;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Jeremy;Sanchez;jeremy.sanchez@hotmail.com;1987-03-16;423-974-2755;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Steven;Phillips;steven.phillips@hotmail.com;1987-03-17;225-968-5952;Sales;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cynthia;Ramirez;cynthia.ramirez@btinternet.com;1987-03-18;406-961-7340;Buyer;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jason;Anderson;jason.anderson@gmail.com;1987-03-19;217-856-6752;Sales;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Cynthia;White;cynthia.white@gmail.com;1987-03-20;314-593-3092;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Margaret;Brooks;margaret.brooks@gmail.com;1987-03-21;303-960-0117;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Douglas;Flores;douglas.flores@gmail.com;1987-03-22;303-836-4721;Product Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Paul;Watson;paul.watson@hotmail.com;1987-03-23;270-556-7711;QA tester;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Linda;Moore;linda.moore@gmail.com;1987-03-24;215-793-7095;Security staff;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Cheryl;Miller;cheryl.miller@ntlworld.com;1987-03-06;270-880-3858;Manager;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Martha;Washington;martha.washington@aol.com;1987-03-07;405-945-0242;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+William;Hernandez;william.hernandez@rediffmail.com;1987-03-08;239-276-0532;Manager;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Carolyn;Price;carolyn.price@yahoo.com;1987-03-09;217-409-4338;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ruby;Stewart;ruby.stewart@gmail.com;1987-03-10;218-445-2369;Security staff;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paul;Cooper;paul.cooper@gmail.com;1987-03-11;210-984-4722;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Washington;ernest.washington@msn.com;1987-03-12;212-596-1659;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Dorothy;Edwards;dorothy.edwards@hotmail.co.uk;1987-03-13;215-902-6888;QA tester;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ryan;Alexander;ryan.alexander@shell.com;1987-03-14;225-395-3347;Engineer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Lillian;Mitchell;lillian.mitchell@shaw.ca;1987-03-15;316-876-1484;QA tester;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Kelly;Adams;kelly.adams@bp.com;1987-03-16;405-418-0037;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Jimmy;Howard;jimmy.howard@yahoo.com;1987-03-17;212-855-9316;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Margaret;Allen;margaret.allen@gmail.com;1987-03-18;216-697-6987;Security staff;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janet;Henderson;janet.henderson@ntlworld.com;1987-03-19;239-769-6347;Sales;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Eugene;Perez;eugene.perez@exxonmobil.com;1987-03-20;262-472-7112;Sales;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Deborah;Smith;deborah.smith@yahoo.com;1987-03-21;907-279-8694;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janice;Parker;janice.parker@yahoo.com;1987-03-22;314-842-5984;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Rebecca;Stewart;rebecca.stewart@gmail.com;1987-03-23;209-233-7631;Sales;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Phillip;White;phillip.white@gmail.com;1987-03-24;503-668-6592;QA tester;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jose;Hill;jose.hill@hotmail.com;1987-03-06;228-245-5000;Manager;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Harold;Nelson;harold.nelson@gmail.com;1987-03-07;217-555-9216;Manager;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nicole;Ward;nicole.ward@yahoo.com;1987-03-08;231-761-7861;Engineer;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Theresa;Murphy;theresa.murphy@gmail.com;1987-03-09;907-356-1555;Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Tammy;Young;tammy.young@comcast.net;1987-03-10;231-290-3075;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Lois;Walker;lois.walker@hotmail.com;1987-04-21;303-572-8492;Manager;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Brenda;Robinson;brenda.robinson@gmail.com;1987-03-07;225-945-4954;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Joe;Robinson;joe.robinson@gmail.com;1987-03-08;219-904-2161;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Diane;Evans;diane.evans@yahoo.com;1987-03-09;215-793-6791;Assistant officer;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Benjamin;Russell;benjamin.russell@charter.net;1987-03-10;262-404-2252;Product Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Patrick;Bailey;patrick.bailey@aol.com;1987-03-11;319-812-6957;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Nancy;Baker;nancy.baker@bp.com;1987-03-12;229-336-5117;Engineer;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Murphy;carol.murphy@gmail.com;1987-03-13;216-336-0009;Security staff;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Frances;Young;frances.young@gmail.com;1987-03-14;210-819-9765;Account assistant;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Diana;Peterson;diana.peterson@hotmail.co.uk;1987-03-15;479-783-5656;Product Manager;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ralph;Flores;ralph.flores@yahoo.com;1987-03-16;316-280-2864;Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Alexander;jack.alexander@gmail.com;1987-03-17;702-603-3769;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Melissa;King;melissa.king@comcast.net;1987-03-18;216-605-3731;Account assistant;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Wayne;Watson;wayne.watson@gmail.com;1987-03-19;701-231-9370;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cheryl;Scott;cheryl.scott@gmail.com;1987-03-20;215-288-9345;Engineer;Google;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paula;Diaz;paula.diaz@gmail.com;1987-03-21;252-531-7641;Buyer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Joshua;Stewart;joshua.stewart@yahoo.ca;1987-03-22;217-279-9342;Engineer;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Theresa;Lee;theresa.lee@gmail.com;1987-03-23;319-553-8919;Engineer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Julia;Scott;julia.scott@apple.com;1987-03-24;423-939-1010;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Thomas;Lewis;thomas.lewis@gmail.com;1987-03-06;314-679-3697;Assistant officer;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Edwards;carol.edwards@msn.com;1987-03-07;225-283-4295;Product Manager;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Matthew;Turner;matthew.turner@gmail.com;1987-03-08;236-972-7624;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Joan;Stewart;joan.stewart@yahoo.com;1987-03-09;216-637-6800;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Ruby;Rogers;ruby.rogers@gmail.com;1987-03-10;423-231-6507;Product Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carolyn;Hayes;carolyn.hayes@hotmail.co.uk;1987-03-11;239-882-8784;CEO;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Russell;anne.russell@ibm.com;1987-03-12;605-635-1306;Security staff;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Daniel;Cooper;daniel.cooper@yahoo.com;1987-03-13;701-510-8162;QA tester;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Roger;Roberts;roger.roberts@gmail.com;1987-03-14;206-497-3141;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Maria;Walker;maria.walker@microsoft.com;1987-03-15;423-668-5506;Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Brenda;Butler;brenda.butler@gmail.com;1987-03-16;480-814-8284;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Lillian;Brown;lillian.brown@aol.com;1987-03-17;239-812-9041;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amy;Howard;amy.howard@aol.com;1987-03-18;803-613-3168;Architect;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Gregory;Edwards;gregory.edwards@outlook.com;1987-03-19;503-256-9654;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Roy;Griffin;roy.griffin@yahoo.com;1987-03-20;219-506-9378;Assistant officer;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Richard;Mitchell;richard.mitchell@verizon.net;1987-03-21;205-621-5884;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Wilson;mary.wilson@sbcglobal.net;1987-03-22;423-937-8660;Architect;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Aaron;Price;aaron.price@bp.com;1987-03-23;219-287-8926;Assistant officer;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Donna;Brown;donna.brown@aol.com;1987-03-24;212-434-7910;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carl;Collins;carl.collins@yahoo.com;1987-03-06;479-740-7633;QA tester;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Joyce;Jenkins;joyce.jenkins@aol.com;1987-03-07;262-455-4187;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Bryant;mary.bryant@verizon.net;1987-03-08;319-827-3516;Product Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amanda;Hughes;amanda.hughes@rediffmail.com;1987-03-09;225-544-9700;QA tester;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Campbell;jack.campbell@gmail.com;1987-03-10;316-499-5737;Product Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Alan;Rivera;alan.rivera@apple.com;1987-03-11;423-277-6819;Security staff;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Elizabeth;Jackson;elizabeth.jackson@aol.com;1987-03-12;603-568-6118;Security staff;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Nancy;Davis;nancy.davis@ibm.com;1987-03-13;219-610-3067;Manager;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Martinez;ernest.martinez@gmail.com;1987-03-14;479-951-4138;Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Judy;Hernandez;judy.hernandez@gmail.com;1987-03-15;316-736-6126;Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Jones;nancy.jones@gmail.com;1987-03-16;212-825-1930;Architect;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Pamela;Wright;pamela.wright@aol.com;1987-03-17;307-329-8832;Assistant officer;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Larry;Miller;larry.miller@shell.com;1987-03-18;217-574-9283;Product Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Coleman;ann.coleman@ibm.com;1987-03-19;319-994-4179;Product Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Judy;Gonzales;judy.gonzales@gmail.com;1987-03-20;201-640-8645;Assistant officer;Intel;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Peter;Washington;peter.washington@bp.com;1987-03-21;231-322-0316;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Clarence;Ross;clarence.ross@apple.com;1987-03-22;423-772-0118;Engineer;Walt Disney;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Sharon;Lopez;sharon.lopez@gmail.com;1987-03-23;304-934-5548;Engineer;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Cooper;ann.cooper@exxonmobil.com;1987-03-24;406-278-6460;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Perez;anne.perez@sbcglobal.net;1987-03-06;423-837-3338;Buyer;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Howard;nancy.howard@gmail.com;1987-03-07;236-973-8086;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Antonio;Roberts;antonio.roberts@hotmail.com;1987-03-08;205-267-7304;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Frances;Watson;frances.watson@outlook.com;1987-03-09;406-530-8069;Buyer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Debra;Wood;debra.wood@hotmail.com;1987-03-10;308-646-6219;Security staff;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Henry;Jenkins;henry.jenkins@hotmail.com;1987-03-11;314-731-7135;Product Manager;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Melissa;Butler;melissa.butler@hotmail.com;1987-03-12;308-827-9016;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Todd;Hall;todd.hall@yahoo.com;1987-03-13;240-513-8668;Assistant officer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Christopher;Nelson;christopher.nelson@aol.com;1987-03-14;480-946-9780;Sales;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Andrea;Garcia;andrea.garcia@aol.com;1987-03-15;219-624-3708;Architect;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Jeremy;Sanchez;jeremy.sanchez@hotmail.com;1987-03-16;423-974-2755;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Steven;Phillips;steven.phillips@hotmail.com;1987-03-17;225-968-5952;Sales;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cynthia;Ramirez;cynthia.ramirez@btinternet.com;1987-03-18;406-961-7340;Buyer;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jason;Anderson;jason.anderson@gmail.com;1987-03-19;217-856-6752;Sales;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Cynthia;White;cynthia.white@gmail.com;1987-03-20;314-593-3092;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Margaret;Brooks;margaret.brooks@gmail.com;1987-03-21;303-960-0117;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Douglas;Flores;douglas.flores@gmail.com;1987-03-22;303-836-4721;Product Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Paul;Watson;paul.watson@hotmail.com;1987-03-23;270-556-7711;QA tester;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Linda;Moore;linda.moore@gmail.com;1987-03-24;215-793-7095;Security staff;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Cheryl;Miller;cheryl.miller@ntlworld.com;1987-03-06;270-880-3858;Manager;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Martha;Washington;martha.washington@aol.com;1987-03-07;405-945-0242;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+William;Hernandez;william.hernandez@rediffmail.com;1987-03-08;239-276-0532;Manager;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Carolyn;Price;carolyn.price@yahoo.com;1987-03-09;217-409-4338;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ruby;Stewart;ruby.stewart@gmail.com;1987-03-10;218-445-2369;Security staff;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paul;Cooper;paul.cooper@gmail.com;1987-03-11;210-984-4722;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Washington;ernest.washington@msn.com;1987-03-12;212-596-1659;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Dorothy;Edwards;dorothy.edwards@hotmail.co.uk;1987-03-13;215-902-6888;QA tester;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ryan;Alexander;ryan.alexander@shell.com;1987-03-14;225-395-3347;Engineer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Lillian;Mitchell;lillian.mitchell@shaw.ca;1987-03-15;316-876-1484;QA tester;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Kelly;Adams;kelly.adams@bp.com;1987-03-16;405-418-0037;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Jimmy;Howard;jimmy.howard@yahoo.com;1987-03-17;212-855-9316;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Margaret;Allen;margaret.allen@gmail.com;1987-03-18;216-697-6987;Security staff;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janet;Henderson;janet.henderson@ntlworld.com;1987-03-19;239-769-6347;Sales;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Eugene;Perez;eugene.perez@exxonmobil.com;1987-03-20;262-472-7112;Sales;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Deborah;Smith;deborah.smith@yahoo.com;1987-03-21;907-279-8694;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janice;Parker;janice.parker@yahoo.com;1987-03-22;314-842-5984;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Rebecca;Stewart;rebecca.stewart@gmail.com;1987-03-23;209-233-7631;Sales;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Phillip;White;phillip.white@gmail.com;1987-03-24;503-668-6592;QA tester;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jose;Hill;jose.hill@hotmail.com;1987-03-06;228-245-5000;Manager;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Harold;Nelson;harold.nelson@gmail.com;1987-03-07;217-555-9216;Manager;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nicole;Ward;nicole.ward@yahoo.com;1987-03-08;231-761-7861;Engineer;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Theresa;Murphy;theresa.murphy@gmail.com;1987-03-09;907-356-1555;Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Tammy;Young;tammy.young@comcast.net;1987-03-10;231-290-3075;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Lois;Walker;lois.walker@hotmail.com;1987-04-21;303-572-8492;Manager;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Brenda;Robinson;brenda.robinson@gmail.com;1987-03-07;225-945-4954;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Joe;Robinson;joe.robinson@gmail.com;1987-03-08;219-904-2161;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Diane;Evans;diane.evans@yahoo.com;1987-03-09;215-793-6791;Assistant officer;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Benjamin;Russell;benjamin.russell@charter.net;1987-03-10;262-404-2252;Product Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Patrick;Bailey;patrick.bailey@aol.com;1987-03-11;319-812-6957;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Nancy;Baker;nancy.baker@bp.com;1987-03-12;229-336-5117;Engineer;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Murphy;carol.murphy@gmail.com;1987-03-13;216-336-0009;Security staff;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Frances;Young;frances.young@gmail.com;1987-03-14;210-819-9765;Account assistant;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Diana;Peterson;diana.peterson@hotmail.co.uk;1987-03-15;479-783-5656;Product Manager;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ralph;Flores;ralph.flores@yahoo.com;1987-03-16;316-280-2864;Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Alexander;jack.alexander@gmail.com;1987-03-17;702-603-3769;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Melissa;King;melissa.king@comcast.net;1987-03-18;216-605-3731;Account assistant;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Wayne;Watson;wayne.watson@gmail.com;1987-03-19;701-231-9370;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cheryl;Scott;cheryl.scott@gmail.com;1987-03-20;215-288-9345;Engineer;Google;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paula;Diaz;paula.diaz@gmail.com;1987-03-21;252-531-7641;Buyer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Joshua;Stewart;joshua.stewart@yahoo.ca;1987-03-22;217-279-9342;Engineer;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Theresa;Lee;theresa.lee@gmail.com;1987-03-23;319-553-8919;Engineer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Julia;Scott;julia.scott@apple.com;1987-03-24;423-939-1010;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Thomas;Lewis;thomas.lewis@gmail.com;1987-03-06;314-679-3697;Assistant officer;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Edwards;carol.edwards@msn.com;1987-03-07;225-283-4295;Product Manager;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Matthew;Turner;matthew.turner@gmail.com;1987-03-08;236-972-7624;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Joan;Stewart;joan.stewart@yahoo.com;1987-03-09;216-637-6800;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Ruby;Rogers;ruby.rogers@gmail.com;1987-03-10;423-231-6507;Product Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carolyn;Hayes;carolyn.hayes@hotmail.co.uk;1987-03-11;239-882-8784;CEO;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Russell;anne.russell@ibm.com;1987-03-12;605-635-1306;Security staff;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Daniel;Cooper;daniel.cooper@yahoo.com;1987-03-13;701-510-8162;QA tester;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Roger;Roberts;roger.roberts@gmail.com;1987-03-14;206-497-3141;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Maria;Walker;maria.walker@microsoft.com;1987-03-15;423-668-5506;Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Brenda;Butler;brenda.butler@gmail.com;1987-03-16;480-814-8284;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Lillian;Brown;lillian.brown@aol.com;1987-03-17;239-812-9041;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amy;Howard;amy.howard@aol.com;1987-03-18;803-613-3168;Architect;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Gregory;Edwards;gregory.edwards@outlook.com;1987-03-19;503-256-9654;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Roy;Griffin;roy.griffin@yahoo.com;1987-03-20;219-506-9378;Assistant officer;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Richard;Mitchell;richard.mitchell@verizon.net;1987-03-21;205-621-5884;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Wilson;mary.wilson@sbcglobal.net;1987-03-22;423-937-8660;Architect;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Aaron;Price;aaron.price@bp.com;1987-03-23;219-287-8926;Assistant officer;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Donna;Brown;donna.brown@aol.com;1987-03-24;212-434-7910;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carl;Collins;carl.collins@yahoo.com;1987-03-06;479-740-7633;QA tester;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Joyce;Jenkins;joyce.jenkins@aol.com;1987-03-07;262-455-4187;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Bryant;mary.bryant@verizon.net;1987-03-08;319-827-3516;Product Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amanda;Hughes;amanda.hughes@rediffmail.com;1987-03-09;225-544-9700;QA tester;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Campbell;jack.campbell@gmail.com;1987-03-10;316-499-5737;Product Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Alan;Rivera;alan.rivera@apple.com;1987-03-11;423-277-6819;Security staff;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Elizabeth;Jackson;elizabeth.jackson@aol.com;1987-03-12;603-568-6118;Security staff;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Nancy;Davis;nancy.davis@ibm.com;1987-03-13;219-610-3067;Manager;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Martinez;ernest.martinez@gmail.com;1987-03-14;479-951-4138;Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Judy;Hernandez;judy.hernandez@gmail.com;1987-03-15;316-736-6126;Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Jones;nancy.jones@gmail.com;1987-03-16;212-825-1930;Architect;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Pamela;Wright;pamela.wright@aol.com;1987-03-17;307-329-8832;Assistant officer;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Larry;Miller;larry.miller@shell.com;1987-03-18;217-574-9283;Product Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Coleman;ann.coleman@ibm.com;1987-03-19;319-994-4179;Product Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Judy;Gonzales;judy.gonzales@gmail.com;1987-03-20;201-640-8645;Assistant officer;Intel;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Peter;Washington;peter.washington@bp.com;1987-03-21;231-322-0316;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Clarence;Ross;clarence.ross@apple.com;1987-03-22;423-772-0118;Engineer;Walt Disney;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Sharon;Lopez;sharon.lopez@gmail.com;1987-03-23;304-934-5548;Engineer;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Cooper;ann.cooper@exxonmobil.com;1987-03-24;406-278-6460;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Perez;anne.perez@sbcglobal.net;1987-03-06;423-837-3338;Buyer;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Howard;nancy.howard@gmail.com;1987-03-07;236-973-8086;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Antonio;Roberts;antonio.roberts@hotmail.com;1987-03-08;205-267-7304;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Frances;Watson;frances.watson@outlook.com;1987-03-09;406-530-8069;Buyer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Debra;Wood;debra.wood@hotmail.com;1987-03-10;308-646-6219;Security staff;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Henry;Jenkins;henry.jenkins@hotmail.com;1987-03-11;314-731-7135;Product Manager;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Melissa;Butler;melissa.butler@hotmail.com;1987-03-12;308-827-9016;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Todd;Hall;todd.hall@yahoo.com;1987-03-13;240-513-8668;Assistant officer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Christopher;Nelson;christopher.nelson@aol.com;1987-03-14;480-946-9780;Sales;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Andrea;Garcia;andrea.garcia@aol.com;1987-03-15;219-624-3708;Architect;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Jeremy;Sanchez;jeremy.sanchez@hotmail.com;1987-03-16;423-974-2755;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Steven;Phillips;steven.phillips@hotmail.com;1987-03-17;225-968-5952;Sales;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cynthia;Ramirez;cynthia.ramirez@btinternet.com;1987-03-18;406-961-7340;Buyer;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jason;Anderson;jason.anderson@gmail.com;1987-03-19;217-856-6752;Sales;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Cynthia;White;cynthia.white@gmail.com;1987-03-20;314-593-3092;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Margaret;Brooks;margaret.brooks@gmail.com;1987-03-21;303-960-0117;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Douglas;Flores;douglas.flores@gmail.com;1987-03-22;303-836-4721;Product Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Paul;Watson;paul.watson@hotmail.com;1987-03-23;270-556-7711;QA tester;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Linda;Moore;linda.moore@gmail.com;1987-03-24;215-793-7095;Security staff;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Cheryl;Miller;cheryl.miller@ntlworld.com;1987-03-06;270-880-3858;Manager;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Martha;Washington;martha.washington@aol.com;1987-03-07;405-945-0242;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+William;Hernandez;william.hernandez@rediffmail.com;1987-03-08;239-276-0532;Manager;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Carolyn;Price;carolyn.price@yahoo.com;1987-03-09;217-409-4338;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ruby;Stewart;ruby.stewart@gmail.com;1987-03-10;218-445-2369;Security staff;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paul;Cooper;paul.cooper@gmail.com;1987-03-11;210-984-4722;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Washington;ernest.washington@msn.com;1987-03-12;212-596-1659;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Dorothy;Edwards;dorothy.edwards@hotmail.co.uk;1987-03-13;215-902-6888;QA tester;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ryan;Alexander;ryan.alexander@shell.com;1987-03-14;225-395-3347;Engineer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Lillian;Mitchell;lillian.mitchell@shaw.ca;1987-03-15;316-876-1484;QA tester;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Kelly;Adams;kelly.adams@bp.com;1987-03-16;405-418-0037;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Jimmy;Howard;jimmy.howard@yahoo.com;1987-03-17;212-855-9316;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Margaret;Allen;margaret.allen@gmail.com;1987-03-18;216-697-6987;Security staff;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janet;Henderson;janet.henderson@ntlworld.com;1987-03-19;239-769-6347;Sales;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Eugene;Perez;eugene.perez@exxonmobil.com;1987-03-20;262-472-7112;Sales;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Deborah;Smith;deborah.smith@yahoo.com;1987-03-21;907-279-8694;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janice;Parker;janice.parker@yahoo.com;1987-03-22;314-842-5984;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Rebecca;Stewart;rebecca.stewart@gmail.com;1987-03-23;209-233-7631;Sales;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Phillip;White;phillip.white@gmail.com;1987-03-24;503-668-6592;QA tester;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jose;Hill;jose.hill@hotmail.com;1987-03-06;228-245-5000;Manager;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Harold;Nelson;harold.nelson@gmail.com;1987-03-07;217-555-9216;Manager;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nicole;Ward;nicole.ward@yahoo.com;1987-03-08;231-761-7861;Engineer;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Theresa;Murphy;theresa.murphy@gmail.com;1987-03-09;907-356-1555;Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Tammy;Young;tammy.young@comcast.net;1987-03-10;231-290-3075;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Lois;Walker;lois.walker@hotmail.com;1987-04-21;303-572-8492;Manager;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Brenda;Robinson;brenda.robinson@gmail.com;1987-03-07;225-945-4954;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Joe;Robinson;joe.robinson@gmail.com;1987-03-08;219-904-2161;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Diane;Evans;diane.evans@yahoo.com;1987-03-09;215-793-6791;Assistant officer;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Benjamin;Russell;benjamin.russell@charter.net;1987-03-10;262-404-2252;Product Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Patrick;Bailey;patrick.bailey@aol.com;1987-03-11;319-812-6957;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Nancy;Baker;nancy.baker@bp.com;1987-03-12;229-336-5117;Engineer;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Murphy;carol.murphy@gmail.com;1987-03-13;216-336-0009;Security staff;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Frances;Young;frances.young@gmail.com;1987-03-14;210-819-9765;Account assistant;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Diana;Peterson;diana.peterson@hotmail.co.uk;1987-03-15;479-783-5656;Product Manager;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ralph;Flores;ralph.flores@yahoo.com;1987-03-16;316-280-2864;Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Alexander;jack.alexander@gmail.com;1987-03-17;702-603-3769;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Melissa;King;melissa.king@comcast.net;1987-03-18;216-605-3731;Account assistant;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Wayne;Watson;wayne.watson@gmail.com;1987-03-19;701-231-9370;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cheryl;Scott;cheryl.scott@gmail.com;1987-03-20;215-288-9345;Engineer;Google;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paula;Diaz;paula.diaz@gmail.com;1987-03-21;252-531-7641;Buyer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Joshua;Stewart;joshua.stewart@yahoo.ca;1987-03-22;217-279-9342;Engineer;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Theresa;Lee;theresa.lee@gmail.com;1987-03-23;319-553-8919;Engineer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Julia;Scott;julia.scott@apple.com;1987-03-24;423-939-1010;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Thomas;Lewis;thomas.lewis@gmail.com;1987-03-06;314-679-3697;Assistant officer;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Edwards;carol.edwards@msn.com;1987-03-07;225-283-4295;Product Manager;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Matthew;Turner;matthew.turner@gmail.com;1987-03-08;236-972-7624;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Joan;Stewart;joan.stewart@yahoo.com;1987-03-09;216-637-6800;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Ruby;Rogers;ruby.rogers@gmail.com;1987-03-10;423-231-6507;Product Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carolyn;Hayes;carolyn.hayes@hotmail.co.uk;1987-03-11;239-882-8784;CEO;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Russell;anne.russell@ibm.com;1987-03-12;605-635-1306;Security staff;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Daniel;Cooper;daniel.cooper@yahoo.com;1987-03-13;701-510-8162;QA tester;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Roger;Roberts;roger.roberts@gmail.com;1987-03-14;206-497-3141;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Maria;Walker;maria.walker@microsoft.com;1987-03-15;423-668-5506;Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Brenda;Butler;brenda.butler@gmail.com;1987-03-16;480-814-8284;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Lillian;Brown;lillian.brown@aol.com;1987-03-17;239-812-9041;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amy;Howard;amy.howard@aol.com;1987-03-18;803-613-3168;Architect;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Gregory;Edwards;gregory.edwards@outlook.com;1987-03-19;503-256-9654;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Roy;Griffin;roy.griffin@yahoo.com;1987-03-20;219-506-9378;Assistant officer;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Richard;Mitchell;richard.mitchell@verizon.net;1987-03-21;205-621-5884;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Wilson;mary.wilson@sbcglobal.net;1987-03-22;423-937-8660;Architect;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Aaron;Price;aaron.price@bp.com;1987-03-23;219-287-8926;Assistant officer;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Donna;Brown;donna.brown@aol.com;1987-03-24;212-434-7910;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carl;Collins;carl.collins@yahoo.com;1987-03-06;479-740-7633;QA tester;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Joyce;Jenkins;joyce.jenkins@aol.com;1987-03-07;262-455-4187;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Bryant;mary.bryant@verizon.net;1987-03-08;319-827-3516;Product Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amanda;Hughes;amanda.hughes@rediffmail.com;1987-03-09;225-544-9700;QA tester;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Campbell;jack.campbell@gmail.com;1987-03-10;316-499-5737;Product Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Alan;Rivera;alan.rivera@apple.com;1987-03-11;423-277-6819;Security staff;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Elizabeth;Jackson;elizabeth.jackson@aol.com;1987-03-12;603-568-6118;Security staff;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Nancy;Davis;nancy.davis@ibm.com;1987-03-13;219-610-3067;Manager;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Martinez;ernest.martinez@gmail.com;1987-03-14;479-951-4138;Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Judy;Hernandez;judy.hernandez@gmail.com;1987-03-15;316-736-6126;Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Jones;nancy.jones@gmail.com;1987-03-16;212-825-1930;Architect;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Pamela;Wright;pamela.wright@aol.com;1987-03-17;307-329-8832;Assistant officer;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Larry;Miller;larry.miller@shell.com;1987-03-18;217-574-9283;Product Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Coleman;ann.coleman@ibm.com;1987-03-19;319-994-4179;Product Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Judy;Gonzales;judy.gonzales@gmail.com;1987-03-20;201-640-8645;Assistant officer;Intel;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Peter;Washington;peter.washington@bp.com;1987-03-21;231-322-0316;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Clarence;Ross;clarence.ross@apple.com;1987-03-22;423-772-0118;Engineer;Walt Disney;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Sharon;Lopez;sharon.lopez@gmail.com;1987-03-23;304-934-5548;Engineer;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Cooper;ann.cooper@exxonmobil.com;1987-03-24;406-278-6460;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Perez;anne.perez@sbcglobal.net;1987-03-06;423-837-3338;Buyer;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Howard;nancy.howard@gmail.com;1987-03-07;236-973-8086;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Antonio;Roberts;antonio.roberts@hotmail.com;1987-03-08;205-267-7304;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Frances;Watson;frances.watson@outlook.com;1987-03-09;406-530-8069;Buyer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Debra;Wood;debra.wood@hotmail.com;1987-03-10;308-646-6219;Security staff;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Henry;Jenkins;henry.jenkins@hotmail.com;1987-03-11;314-731-7135;Product Manager;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Melissa;Butler;melissa.butler@hotmail.com;1987-03-12;308-827-9016;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Todd;Hall;todd.hall@yahoo.com;1987-03-13;240-513-8668;Assistant officer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Christopher;Nelson;christopher.nelson@aol.com;1987-03-14;480-946-9780;Sales;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Andrea;Garcia;andrea.garcia@aol.com;1987-03-15;219-624-3708;Architect;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Jeremy;Sanchez;jeremy.sanchez@hotmail.com;1987-03-16;423-974-2755;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Steven;Phillips;steven.phillips@hotmail.com;1987-03-17;225-968-5952;Sales;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cynthia;Ramirez;cynthia.ramirez@btinternet.com;1987-03-18;406-961-7340;Buyer;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jason;Anderson;jason.anderson@gmail.com;1987-03-19;217-856-6752;Sales;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Cynthia;White;cynthia.white@gmail.com;1987-03-20;314-593-3092;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Margaret;Brooks;margaret.brooks@gmail.com;1987-03-21;303-960-0117;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Douglas;Flores;douglas.flores@gmail.com;1987-03-22;303-836-4721;Product Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Paul;Watson;paul.watson@hotmail.com;1987-03-23;270-556-7711;QA tester;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Linda;Moore;linda.moore@gmail.com;1987-03-24;215-793-7095;Security staff;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Cheryl;Miller;cheryl.miller@ntlworld.com;1987-03-06;270-880-3858;Manager;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Martha;Washington;martha.washington@aol.com;1987-03-07;405-945-0242;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+William;Hernandez;william.hernandez@rediffmail.com;1987-03-08;239-276-0532;Manager;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Carolyn;Price;carolyn.price@yahoo.com;1987-03-09;217-409-4338;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ruby;Stewart;ruby.stewart@gmail.com;1987-03-10;218-445-2369;Security staff;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paul;Cooper;paul.cooper@gmail.com;1987-03-11;210-984-4722;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Washington;ernest.washington@msn.com;1987-03-12;212-596-1659;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Dorothy;Edwards;dorothy.edwards@hotmail.co.uk;1987-03-13;215-902-6888;QA tester;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ryan;Alexander;ryan.alexander@shell.com;1987-03-14;225-395-3347;Engineer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Lillian;Mitchell;lillian.mitchell@shaw.ca;1987-03-15;316-876-1484;QA tester;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Kelly;Adams;kelly.adams@bp.com;1987-03-16;405-418-0037;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Jimmy;Howard;jimmy.howard@yahoo.com;1987-03-17;212-855-9316;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Margaret;Allen;margaret.allen@gmail.com;1987-03-18;216-697-6987;Security staff;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janet;Henderson;janet.henderson@ntlworld.com;1987-03-19;239-769-6347;Sales;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Eugene;Perez;eugene.perez@exxonmobil.com;1987-03-20;262-472-7112;Sales;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Deborah;Smith;deborah.smith@yahoo.com;1987-03-21;907-279-8694;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janice;Parker;janice.parker@yahoo.com;1987-03-22;314-842-5984;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Rebecca;Stewart;rebecca.stewart@gmail.com;1987-03-23;209-233-7631;Sales;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Phillip;White;phillip.white@gmail.com;1987-03-24;503-668-6592;QA tester;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jose;Hill;jose.hill@hotmail.com;1987-03-06;228-245-5000;Manager;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Harold;Nelson;harold.nelson@gmail.com;1987-03-07;217-555-9216;Manager;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nicole;Ward;nicole.ward@yahoo.com;1987-03-08;231-761-7861;Engineer;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Theresa;Murphy;theresa.murphy@gmail.com;1987-03-09;907-356-1555;Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Tammy;Young;tammy.young@comcast.net;1987-03-10;231-290-3075;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Lois;Walker;lois.walker@hotmail.com;1987-04-21;303-572-8492;Manager;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Brenda;Robinson;brenda.robinson@gmail.com;1987-03-07;225-945-4954;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Joe;Robinson;joe.robinson@gmail.com;1987-03-08;219-904-2161;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Diane;Evans;diane.evans@yahoo.com;1987-03-09;215-793-6791;Assistant officer;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Benjamin;Russell;benjamin.russell@charter.net;1987-03-10;262-404-2252;Product Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Patrick;Bailey;patrick.bailey@aol.com;1987-03-11;319-812-6957;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Nancy;Baker;nancy.baker@bp.com;1987-03-12;229-336-5117;Engineer;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Murphy;carol.murphy@gmail.com;1987-03-13;216-336-0009;Security staff;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Frances;Young;frances.young@gmail.com;1987-03-14;210-819-9765;Account assistant;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Diana;Peterson;diana.peterson@hotmail.co.uk;1987-03-15;479-783-5656;Product Manager;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ralph;Flores;ralph.flores@yahoo.com;1987-03-16;316-280-2864;Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Alexander;jack.alexander@gmail.com;1987-03-17;702-603-3769;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Melissa;King;melissa.king@comcast.net;1987-03-18;216-605-3731;Account assistant;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Wayne;Watson;wayne.watson@gmail.com;1987-03-19;701-231-9370;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cheryl;Scott;cheryl.scott@gmail.com;1987-03-20;215-288-9345;Engineer;Google;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paula;Diaz;paula.diaz@gmail.com;1987-03-21;252-531-7641;Buyer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Joshua;Stewart;joshua.stewart@yahoo.ca;1987-03-22;217-279-9342;Engineer;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Theresa;Lee;theresa.lee@gmail.com;1987-03-23;319-553-8919;Engineer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Julia;Scott;julia.scott@apple.com;1987-03-24;423-939-1010;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Thomas;Lewis;thomas.lewis@gmail.com;1987-03-06;314-679-3697;Assistant officer;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Edwards;carol.edwards@msn.com;1987-03-07;225-283-4295;Product Manager;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Matthew;Turner;matthew.turner@gmail.com;1987-03-08;236-972-7624;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Joan;Stewart;joan.stewart@yahoo.com;1987-03-09;216-637-6800;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Ruby;Rogers;ruby.rogers@gmail.com;1987-03-10;423-231-6507;Product Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carolyn;Hayes;carolyn.hayes@hotmail.co.uk;1987-03-11;239-882-8784;CEO;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Russell;anne.russell@ibm.com;1987-03-12;605-635-1306;Security staff;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Daniel;Cooper;daniel.cooper@yahoo.com;1987-03-13;701-510-8162;QA tester;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Roger;Roberts;roger.roberts@gmail.com;1987-03-14;206-497-3141;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Maria;Walker;maria.walker@microsoft.com;1987-03-15;423-668-5506;Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Brenda;Butler;brenda.butler@gmail.com;1987-03-16;480-814-8284;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Lillian;Brown;lillian.brown@aol.com;1987-03-17;239-812-9041;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amy;Howard;amy.howard@aol.com;1987-03-18;803-613-3168;Architect;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Gregory;Edwards;gregory.edwards@outlook.com;1987-03-19;503-256-9654;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Roy;Griffin;roy.griffin@yahoo.com;1987-03-20;219-506-9378;Assistant officer;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Richard;Mitchell;richard.mitchell@verizon.net;1987-03-21;205-621-5884;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Wilson;mary.wilson@sbcglobal.net;1987-03-22;423-937-8660;Architect;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Aaron;Price;aaron.price@bp.com;1987-03-23;219-287-8926;Assistant officer;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Donna;Brown;donna.brown@aol.com;1987-03-24;212-434-7910;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carl;Collins;carl.collins@yahoo.com;1987-03-06;479-740-7633;QA tester;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Joyce;Jenkins;joyce.jenkins@aol.com;1987-03-07;262-455-4187;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Bryant;mary.bryant@verizon.net;1987-03-08;319-827-3516;Product Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amanda;Hughes;amanda.hughes@rediffmail.com;1987-03-09;225-544-9700;QA tester;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Campbell;jack.campbell@gmail.com;1987-03-10;316-499-5737;Product Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Alan;Rivera;alan.rivera@apple.com;1987-03-11;423-277-6819;Security staff;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Elizabeth;Jackson;elizabeth.jackson@aol.com;1987-03-12;603-568-6118;Security staff;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Nancy;Davis;nancy.davis@ibm.com;1987-03-13;219-610-3067;Manager;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Martinez;ernest.martinez@gmail.com;1987-03-14;479-951-4138;Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Judy;Hernandez;judy.hernandez@gmail.com;1987-03-15;316-736-6126;Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Jones;nancy.jones@gmail.com;1987-03-16;212-825-1930;Architect;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Pamela;Wright;pamela.wright@aol.com;1987-03-17;307-329-8832;Assistant officer;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Larry;Miller;larry.miller@shell.com;1987-03-18;217-574-9283;Product Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Coleman;ann.coleman@ibm.com;1987-03-19;319-994-4179;Product Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Judy;Gonzales;judy.gonzales@gmail.com;1987-03-20;201-640-8645;Assistant officer;Intel;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Peter;Washington;peter.washington@bp.com;1987-03-21;231-322-0316;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Clarence;Ross;clarence.ross@apple.com;1987-03-22;423-772-0118;Engineer;Walt Disney;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Sharon;Lopez;sharon.lopez@gmail.com;1987-03-23;304-934-5548;Engineer;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Cooper;ann.cooper@exxonmobil.com;1987-03-24;406-278-6460;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Perez;anne.perez@sbcglobal.net;1987-03-06;423-837-3338;Buyer;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Howard;nancy.howard@gmail.com;1987-03-07;236-973-8086;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Antonio;Roberts;antonio.roberts@hotmail.com;1987-03-08;205-267-7304;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Frances;Watson;frances.watson@outlook.com;1987-03-09;406-530-8069;Buyer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Debra;Wood;debra.wood@hotmail.com;1987-03-10;308-646-6219;Security staff;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Henry;Jenkins;henry.jenkins@hotmail.com;1987-03-11;314-731-7135;Product Manager;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Melissa;Butler;melissa.butler@hotmail.com;1987-03-12;308-827-9016;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Todd;Hall;todd.hall@yahoo.com;1987-03-13;240-513-8668;Assistant officer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Christopher;Nelson;christopher.nelson@aol.com;1987-03-14;480-946-9780;Sales;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Andrea;Garcia;andrea.garcia@aol.com;1987-03-15;219-624-3708;Architect;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Jeremy;Sanchez;jeremy.sanchez@hotmail.com;1987-03-16;423-974-2755;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Steven;Phillips;steven.phillips@hotmail.com;1987-03-17;225-968-5952;Sales;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cynthia;Ramirez;cynthia.ramirez@btinternet.com;1987-03-18;406-961-7340;Buyer;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jason;Anderson;jason.anderson@gmail.com;1987-03-19;217-856-6752;Sales;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Cynthia;White;cynthia.white@gmail.com;1987-03-20;314-593-3092;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Margaret;Brooks;margaret.brooks@gmail.com;1987-03-21;303-960-0117;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Douglas;Flores;douglas.flores@gmail.com;1987-03-22;303-836-4721;Product Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Paul;Watson;paul.watson@hotmail.com;1987-03-23;270-556-7711;QA tester;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Linda;Moore;linda.moore@gmail.com;1987-03-24;215-793-7095;Security staff;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Cheryl;Miller;cheryl.miller@ntlworld.com;1987-03-06;270-880-3858;Manager;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Martha;Washington;martha.washington@aol.com;1987-03-07;405-945-0242;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+William;Hernandez;william.hernandez@rediffmail.com;1987-03-08;239-276-0532;Manager;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Carolyn;Price;carolyn.price@yahoo.com;1987-03-09;217-409-4338;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ruby;Stewart;ruby.stewart@gmail.com;1987-03-10;218-445-2369;Security staff;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paul;Cooper;paul.cooper@gmail.com;1987-03-11;210-984-4722;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Washington;ernest.washington@msn.com;1987-03-12;212-596-1659;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Dorothy;Edwards;dorothy.edwards@hotmail.co.uk;1987-03-13;215-902-6888;QA tester;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ryan;Alexander;ryan.alexander@shell.com;1987-03-14;225-395-3347;Engineer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Lillian;Mitchell;lillian.mitchell@shaw.ca;1987-03-15;316-876-1484;QA tester;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Kelly;Adams;kelly.adams@bp.com;1987-03-16;405-418-0037;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Jimmy;Howard;jimmy.howard@yahoo.com;1987-03-17;212-855-9316;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Margaret;Allen;margaret.allen@gmail.com;1987-03-18;216-697-6987;Security staff;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janet;Henderson;janet.henderson@ntlworld.com;1987-03-19;239-769-6347;Sales;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Eugene;Perez;eugene.perez@exxonmobil.com;1987-03-20;262-472-7112;Sales;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Deborah;Smith;deborah.smith@yahoo.com;1987-03-21;907-279-8694;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janice;Parker;janice.parker@yahoo.com;1987-03-22;314-842-5984;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Rebecca;Stewart;rebecca.stewart@gmail.com;1987-03-23;209-233-7631;Sales;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Phillip;White;phillip.white@gmail.com;1987-03-24;503-668-6592;QA tester;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jose;Hill;jose.hill@hotmail.com;1987-03-06;228-245-5000;Manager;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Harold;Nelson;harold.nelson@gmail.com;1987-03-07;217-555-9216;Manager;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nicole;Ward;nicole.ward@yahoo.com;1987-03-08;231-761-7861;Engineer;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Theresa;Murphy;theresa.murphy@gmail.com;1987-03-09;907-356-1555;Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Tammy;Young;tammy.young@comcast.net;1987-03-10;231-290-3075;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Lois;Walker;lois.walker@hotmail.com;1987-04-21;303-572-8492;Manager;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Brenda;Robinson;brenda.robinson@gmail.com;1987-03-07;225-945-4954;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Joe;Robinson;joe.robinson@gmail.com;1987-03-08;219-904-2161;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Diane;Evans;diane.evans@yahoo.com;1987-03-09;215-793-6791;Assistant officer;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Benjamin;Russell;benjamin.russell@charter.net;1987-03-10;262-404-2252;Product Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Patrick;Bailey;patrick.bailey@aol.com;1987-03-11;319-812-6957;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Nancy;Baker;nancy.baker@bp.com;1987-03-12;229-336-5117;Engineer;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Murphy;carol.murphy@gmail.com;1987-03-13;216-336-0009;Security staff;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Frances;Young;frances.young@gmail.com;1987-03-14;210-819-9765;Account assistant;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Diana;Peterson;diana.peterson@hotmail.co.uk;1987-03-15;479-783-5656;Product Manager;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ralph;Flores;ralph.flores@yahoo.com;1987-03-16;316-280-2864;Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Alexander;jack.alexander@gmail.com;1987-03-17;702-603-3769;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Melissa;King;melissa.king@comcast.net;1987-03-18;216-605-3731;Account assistant;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Wayne;Watson;wayne.watson@gmail.com;1987-03-19;701-231-9370;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cheryl;Scott;cheryl.scott@gmail.com;1987-03-20;215-288-9345;Engineer;Google;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paula;Diaz;paula.diaz@gmail.com;1987-03-21;252-531-7641;Buyer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Joshua;Stewart;joshua.stewart@yahoo.ca;1987-03-22;217-279-9342;Engineer;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Theresa;Lee;theresa.lee@gmail.com;1987-03-23;319-553-8919;Engineer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Julia;Scott;julia.scott@apple.com;1987-03-24;423-939-1010;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Thomas;Lewis;thomas.lewis@gmail.com;1987-03-06;314-679-3697;Assistant officer;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Edwards;carol.edwards@msn.com;1987-03-07;225-283-4295;Product Manager;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Matthew;Turner;matthew.turner@gmail.com;1987-03-08;236-972-7624;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Joan;Stewart;joan.stewart@yahoo.com;1987-03-09;216-637-6800;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Ruby;Rogers;ruby.rogers@gmail.com;1987-03-10;423-231-6507;Product Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carolyn;Hayes;carolyn.hayes@hotmail.co.uk;1987-03-11;239-882-8784;CEO;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Russell;anne.russell@ibm.com;1987-03-12;605-635-1306;Security staff;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Daniel;Cooper;daniel.cooper@yahoo.com;1987-03-13;701-510-8162;QA tester;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Roger;Roberts;roger.roberts@gmail.com;1987-03-14;206-497-3141;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Maria;Walker;maria.walker@microsoft.com;1987-03-15;423-668-5506;Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Brenda;Butler;brenda.butler@gmail.com;1987-03-16;480-814-8284;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Lillian;Brown;lillian.brown@aol.com;1987-03-17;239-812-9041;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amy;Howard;amy.howard@aol.com;1987-03-18;803-613-3168;Architect;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Gregory;Edwards;gregory.edwards@outlook.com;1987-03-19;503-256-9654;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Roy;Griffin;roy.griffin@yahoo.com;1987-03-20;219-506-9378;Assistant officer;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Richard;Mitchell;richard.mitchell@verizon.net;1987-03-21;205-621-5884;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Wilson;mary.wilson@sbcglobal.net;1987-03-22;423-937-8660;Architect;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Aaron;Price;aaron.price@bp.com;1987-03-23;219-287-8926;Assistant officer;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Donna;Brown;donna.brown@aol.com;1987-03-24;212-434-7910;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carl;Collins;carl.collins@yahoo.com;1987-03-06;479-740-7633;QA tester;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Joyce;Jenkins;joyce.jenkins@aol.com;1987-03-07;262-455-4187;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Bryant;mary.bryant@verizon.net;1987-03-08;319-827-3516;Product Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amanda;Hughes;amanda.hughes@rediffmail.com;1987-03-09;225-544-9700;QA tester;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Campbell;jack.campbell@gmail.com;1987-03-10;316-499-5737;Product Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Alan;Rivera;alan.rivera@apple.com;1987-03-11;423-277-6819;Security staff;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Elizabeth;Jackson;elizabeth.jackson@aol.com;1987-03-12;603-568-6118;Security staff;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Nancy;Davis;nancy.davis@ibm.com;1987-03-13;219-610-3067;Manager;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Martinez;ernest.martinez@gmail.com;1987-03-14;479-951-4138;Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Judy;Hernandez;judy.hernandez@gmail.com;1987-03-15;316-736-6126;Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Jones;nancy.jones@gmail.com;1987-03-16;212-825-1930;Architect;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Pamela;Wright;pamela.wright@aol.com;1987-03-17;307-329-8832;Assistant officer;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Larry;Miller;larry.miller@shell.com;1987-03-18;217-574-9283;Product Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Coleman;ann.coleman@ibm.com;1987-03-19;319-994-4179;Product Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Judy;Gonzales;judy.gonzales@gmail.com;1987-03-20;201-640-8645;Assistant officer;Intel;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Peter;Washington;peter.washington@bp.com;1987-03-21;231-322-0316;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Clarence;Ross;clarence.ross@apple.com;1987-03-22;423-772-0118;Engineer;Walt Disney;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Sharon;Lopez;sharon.lopez@gmail.com;1987-03-23;304-934-5548;Engineer;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Cooper;ann.cooper@exxonmobil.com;1987-03-24;406-278-6460;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Perez;anne.perez@sbcglobal.net;1987-03-06;423-837-3338;Buyer;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Howard;nancy.howard@gmail.com;1987-03-07;236-973-8086;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Antonio;Roberts;antonio.roberts@hotmail.com;1987-03-08;205-267-7304;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Frances;Watson;frances.watson@outlook.com;1987-03-09;406-530-8069;Buyer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Debra;Wood;debra.wood@hotmail.com;1987-03-10;308-646-6219;Security staff;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Henry;Jenkins;henry.jenkins@hotmail.com;1987-03-11;314-731-7135;Product Manager;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Melissa;Butler;melissa.butler@hotmail.com;1987-03-12;308-827-9016;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Todd;Hall;todd.hall@yahoo.com;1987-03-13;240-513-8668;Assistant officer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Christopher;Nelson;christopher.nelson@aol.com;1987-03-14;480-946-9780;Sales;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Andrea;Garcia;andrea.garcia@aol.com;1987-03-15;219-624-3708;Architect;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Jeremy;Sanchez;jeremy.sanchez@hotmail.com;1987-03-16;423-974-2755;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Steven;Phillips;steven.phillips@hotmail.com;1987-03-17;225-968-5952;Sales;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cynthia;Ramirez;cynthia.ramirez@btinternet.com;1987-03-18;406-961-7340;Buyer;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jason;Anderson;jason.anderson@gmail.com;1987-03-19;217-856-6752;Sales;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Cynthia;White;cynthia.white@gmail.com;1987-03-20;314-593-3092;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Margaret;Brooks;margaret.brooks@gmail.com;1987-03-21;303-960-0117;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Douglas;Flores;douglas.flores@gmail.com;1987-03-22;303-836-4721;Product Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Paul;Watson;paul.watson@hotmail.com;1987-03-23;270-556-7711;QA tester;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Linda;Moore;linda.moore@gmail.com;1987-03-24;215-793-7095;Security staff;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Cheryl;Miller;cheryl.miller@ntlworld.com;1987-03-06;270-880-3858;Manager;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Martha;Washington;martha.washington@aol.com;1987-03-07;405-945-0242;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+William;Hernandez;william.hernandez@rediffmail.com;1987-03-08;239-276-0532;Manager;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Carolyn;Price;carolyn.price@yahoo.com;1987-03-09;217-409-4338;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ruby;Stewart;ruby.stewart@gmail.com;1987-03-10;218-445-2369;Security staff;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paul;Cooper;paul.cooper@gmail.com;1987-03-11;210-984-4722;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Washington;ernest.washington@msn.com;1987-03-12;212-596-1659;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Dorothy;Edwards;dorothy.edwards@hotmail.co.uk;1987-03-13;215-902-6888;QA tester;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ryan;Alexander;ryan.alexander@shell.com;1987-03-14;225-395-3347;Engineer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Lillian;Mitchell;lillian.mitchell@shaw.ca;1987-03-15;316-876-1484;QA tester;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Kelly;Adams;kelly.adams@bp.com;1987-03-16;405-418-0037;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Jimmy;Howard;jimmy.howard@yahoo.com;1987-03-17;212-855-9316;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Margaret;Allen;margaret.allen@gmail.com;1987-03-18;216-697-6987;Security staff;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janet;Henderson;janet.henderson@ntlworld.com;1987-03-19;239-769-6347;Sales;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Eugene;Perez;eugene.perez@exxonmobil.com;1987-03-20;262-472-7112;Sales;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Deborah;Smith;deborah.smith@yahoo.com;1987-03-21;907-279-8694;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janice;Parker;janice.parker@yahoo.com;1987-03-22;314-842-5984;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Rebecca;Stewart;rebecca.stewart@gmail.com;1987-03-23;209-233-7631;Sales;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Phillip;White;phillip.white@gmail.com;1987-03-24;503-668-6592;QA tester;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jose;Hill;jose.hill@hotmail.com;1987-03-06;228-245-5000;Manager;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Harold;Nelson;harold.nelson@gmail.com;1987-03-07;217-555-9216;Manager;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nicole;Ward;nicole.ward@yahoo.com;1987-03-08;231-761-7861;Engineer;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Theresa;Murphy;theresa.murphy@gmail.com;1987-03-09;907-356-1555;Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Tammy;Young;tammy.young@comcast.net;1987-03-10;231-290-3075;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Lois;Walker;lois.walker@hotmail.com;1987-04-21;303-572-8492;Manager;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Brenda;Robinson;brenda.robinson@gmail.com;1987-03-07;225-945-4954;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Joe;Robinson;joe.robinson@gmail.com;1987-03-08;219-904-2161;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Diane;Evans;diane.evans@yahoo.com;1987-03-09;215-793-6791;Assistant officer;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Benjamin;Russell;benjamin.russell@charter.net;1987-03-10;262-404-2252;Product Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Patrick;Bailey;patrick.bailey@aol.com;1987-03-11;319-812-6957;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Nancy;Baker;nancy.baker@bp.com;1987-03-12;229-336-5117;Engineer;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Murphy;carol.murphy@gmail.com;1987-03-13;216-336-0009;Security staff;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Frances;Young;frances.young@gmail.com;1987-03-14;210-819-9765;Account assistant;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Diana;Peterson;diana.peterson@hotmail.co.uk;1987-03-15;479-783-5656;Product Manager;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ralph;Flores;ralph.flores@yahoo.com;1987-03-16;316-280-2864;Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Alexander;jack.alexander@gmail.com;1987-03-17;702-603-3769;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Melissa;King;melissa.king@comcast.net;1987-03-18;216-605-3731;Account assistant;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Wayne;Watson;wayne.watson@gmail.com;1987-03-19;701-231-9370;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cheryl;Scott;cheryl.scott@gmail.com;1987-03-20;215-288-9345;Engineer;Google;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paula;Diaz;paula.diaz@gmail.com;1987-03-21;252-531-7641;Buyer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Joshua;Stewart;joshua.stewart@yahoo.ca;1987-03-22;217-279-9342;Engineer;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Theresa;Lee;theresa.lee@gmail.com;1987-03-23;319-553-8919;Engineer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Julia;Scott;julia.scott@apple.com;1987-03-24;423-939-1010;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Thomas;Lewis;thomas.lewis@gmail.com;1987-03-06;314-679-3697;Assistant officer;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Edwards;carol.edwards@msn.com;1987-03-07;225-283-4295;Product Manager;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Matthew;Turner;matthew.turner@gmail.com;1987-03-08;236-972-7624;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Joan;Stewart;joan.stewart@yahoo.com;1987-03-09;216-637-6800;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Ruby;Rogers;ruby.rogers@gmail.com;1987-03-10;423-231-6507;Product Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carolyn;Hayes;carolyn.hayes@hotmail.co.uk;1987-03-11;239-882-8784;CEO;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Russell;anne.russell@ibm.com;1987-03-12;605-635-1306;Security staff;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Daniel;Cooper;daniel.cooper@yahoo.com;1987-03-13;701-510-8162;QA tester;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Roger;Roberts;roger.roberts@gmail.com;1987-03-14;206-497-3141;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Maria;Walker;maria.walker@microsoft.com;1987-03-15;423-668-5506;Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Brenda;Butler;brenda.butler@gmail.com;1987-03-16;480-814-8284;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Lillian;Brown;lillian.brown@aol.com;1987-03-17;239-812-9041;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amy;Howard;amy.howard@aol.com;1987-03-18;803-613-3168;Architect;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Gregory;Edwards;gregory.edwards@outlook.com;1987-03-19;503-256-9654;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Roy;Griffin;roy.griffin@yahoo.com;1987-03-20;219-506-9378;Assistant officer;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Richard;Mitchell;richard.mitchell@verizon.net;1987-03-21;205-621-5884;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Wilson;mary.wilson@sbcglobal.net;1987-03-22;423-937-8660;Architect;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Aaron;Price;aaron.price@bp.com;1987-03-23;219-287-8926;Assistant officer;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Donna;Brown;donna.brown@aol.com;1987-03-24;212-434-7910;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carl;Collins;carl.collins@yahoo.com;1987-03-06;479-740-7633;QA tester;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Joyce;Jenkins;joyce.jenkins@aol.com;1987-03-07;262-455-4187;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Bryant;mary.bryant@verizon.net;1987-03-08;319-827-3516;Product Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amanda;Hughes;amanda.hughes@rediffmail.com;1987-03-09;225-544-9700;QA tester;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Campbell;jack.campbell@gmail.com;1987-03-10;316-499-5737;Product Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Alan;Rivera;alan.rivera@apple.com;1987-03-11;423-277-6819;Security staff;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Elizabeth;Jackson;elizabeth.jackson@aol.com;1987-03-12;603-568-6118;Security staff;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Nancy;Davis;nancy.davis@ibm.com;1987-03-13;219-610-3067;Manager;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Martinez;ernest.martinez@gmail.com;1987-03-14;479-951-4138;Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Judy;Hernandez;judy.hernandez@gmail.com;1987-03-15;316-736-6126;Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Jones;nancy.jones@gmail.com;1987-03-16;212-825-1930;Architect;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Pamela;Wright;pamela.wright@aol.com;1987-03-17;307-329-8832;Assistant officer;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Larry;Miller;larry.miller@shell.com;1987-03-18;217-574-9283;Product Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Coleman;ann.coleman@ibm.com;1987-03-19;319-994-4179;Product Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Judy;Gonzales;judy.gonzales@gmail.com;1987-03-20;201-640-8645;Assistant officer;Intel;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Peter;Washington;peter.washington@bp.com;1987-03-21;231-322-0316;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Clarence;Ross;clarence.ross@apple.com;1987-03-22;423-772-0118;Engineer;Walt Disney;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Sharon;Lopez;sharon.lopez@gmail.com;1987-03-23;304-934-5548;Engineer;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Cooper;ann.cooper@exxonmobil.com;1987-03-24;406-278-6460;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Perez;anne.perez@sbcglobal.net;1987-03-06;423-837-3338;Buyer;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Howard;nancy.howard@gmail.com;1987-03-07;236-973-8086;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Antonio;Roberts;antonio.roberts@hotmail.com;1987-03-08;205-267-7304;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Frances;Watson;frances.watson@outlook.com;1987-03-09;406-530-8069;Buyer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Debra;Wood;debra.wood@hotmail.com;1987-03-10;308-646-6219;Security staff;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Henry;Jenkins;henry.jenkins@hotmail.com;1987-03-11;314-731-7135;Product Manager;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Melissa;Butler;melissa.butler@hotmail.com;1987-03-12;308-827-9016;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Todd;Hall;todd.hall@yahoo.com;1987-03-13;240-513-8668;Assistant officer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Christopher;Nelson;christopher.nelson@aol.com;1987-03-14;480-946-9780;Sales;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Andrea;Garcia;andrea.garcia@aol.com;1987-03-15;219-624-3708;Architect;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Jeremy;Sanchez;jeremy.sanchez@hotmail.com;1987-03-16;423-974-2755;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Steven;Phillips;steven.phillips@hotmail.com;1987-03-17;225-968-5952;Sales;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cynthia;Ramirez;cynthia.ramirez@btinternet.com;1987-03-18;406-961-7340;Buyer;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jason;Anderson;jason.anderson@gmail.com;1987-03-19;217-856-6752;Sales;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Cynthia;White;cynthia.white@gmail.com;1987-03-20;314-593-3092;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Margaret;Brooks;margaret.brooks@gmail.com;1987-03-21;303-960-0117;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Douglas;Flores;douglas.flores@gmail.com;1987-03-22;303-836-4721;Product Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Paul;Watson;paul.watson@hotmail.com;1987-03-23;270-556-7711;QA tester;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Linda;Moore;linda.moore@gmail.com;1987-03-24;215-793-7095;Security staff;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Cheryl;Miller;cheryl.miller@ntlworld.com;1987-03-06;270-880-3858;Manager;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Martha;Washington;martha.washington@aol.com;1987-03-07;405-945-0242;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+William;Hernandez;william.hernandez@rediffmail.com;1987-03-08;239-276-0532;Manager;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Carolyn;Price;carolyn.price@yahoo.com;1987-03-09;217-409-4338;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ruby;Stewart;ruby.stewart@gmail.com;1987-03-10;218-445-2369;Security staff;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paul;Cooper;paul.cooper@gmail.com;1987-03-11;210-984-4722;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Washington;ernest.washington@msn.com;1987-03-12;212-596-1659;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Dorothy;Edwards;dorothy.edwards@hotmail.co.uk;1987-03-13;215-902-6888;QA tester;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ryan;Alexander;ryan.alexander@shell.com;1987-03-14;225-395-3347;Engineer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Lillian;Mitchell;lillian.mitchell@shaw.ca;1987-03-15;316-876-1484;QA tester;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Kelly;Adams;kelly.adams@bp.com;1987-03-16;405-418-0037;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Jimmy;Howard;jimmy.howard@yahoo.com;1987-03-17;212-855-9316;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Margaret;Allen;margaret.allen@gmail.com;1987-03-18;216-697-6987;Security staff;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janet;Henderson;janet.henderson@ntlworld.com;1987-03-19;239-769-6347;Sales;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Eugene;Perez;eugene.perez@exxonmobil.com;1987-03-20;262-472-7112;Sales;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Deborah;Smith;deborah.smith@yahoo.com;1987-03-21;907-279-8694;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janice;Parker;janice.parker@yahoo.com;1987-03-22;314-842-5984;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Rebecca;Stewart;rebecca.stewart@gmail.com;1987-03-23;209-233-7631;Sales;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Phillip;White;phillip.white@gmail.com;1987-03-24;503-668-6592;QA tester;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jose;Hill;jose.hill@hotmail.com;1987-03-06;228-245-5000;Manager;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Harold;Nelson;harold.nelson@gmail.com;1987-03-07;217-555-9216;Manager;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nicole;Ward;nicole.ward@yahoo.com;1987-03-08;231-761-7861;Engineer;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Theresa;Murphy;theresa.murphy@gmail.com;1987-03-09;907-356-1555;Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Tammy;Young;tammy.young@comcast.net;1987-03-10;231-290-3075;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Lois;Walker;lois.walker@hotmail.com;1987-04-21;303-572-8492;Manager;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Brenda;Robinson;brenda.robinson@gmail.com;1987-03-07;225-945-4954;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Joe;Robinson;joe.robinson@gmail.com;1987-03-08;219-904-2161;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Diane;Evans;diane.evans@yahoo.com;1987-03-09;215-793-6791;Assistant officer;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Benjamin;Russell;benjamin.russell@charter.net;1987-03-10;262-404-2252;Product Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Patrick;Bailey;patrick.bailey@aol.com;1987-03-11;319-812-6957;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Nancy;Baker;nancy.baker@bp.com;1987-03-12;229-336-5117;Engineer;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Murphy;carol.murphy@gmail.com;1987-03-13;216-336-0009;Security staff;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Frances;Young;frances.young@gmail.com;1987-03-14;210-819-9765;Account assistant;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Diana;Peterson;diana.peterson@hotmail.co.uk;1987-03-15;479-783-5656;Product Manager;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ralph;Flores;ralph.flores@yahoo.com;1987-03-16;316-280-2864;Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Alexander;jack.alexander@gmail.com;1987-03-17;702-603-3769;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Melissa;King;melissa.king@comcast.net;1987-03-18;216-605-3731;Account assistant;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Wayne;Watson;wayne.watson@gmail.com;1987-03-19;701-231-9370;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cheryl;Scott;cheryl.scott@gmail.com;1987-03-20;215-288-9345;Engineer;Google;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paula;Diaz;paula.diaz@gmail.com;1987-03-21;252-531-7641;Buyer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Joshua;Stewart;joshua.stewart@yahoo.ca;1987-03-22;217-279-9342;Engineer;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Theresa;Lee;theresa.lee@gmail.com;1987-03-23;319-553-8919;Engineer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Julia;Scott;julia.scott@apple.com;1987-03-24;423-939-1010;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Thomas;Lewis;thomas.lewis@gmail.com;1987-03-06;314-679-3697;Assistant officer;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Edwards;carol.edwards@msn.com;1987-03-07;225-283-4295;Product Manager;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Matthew;Turner;matthew.turner@gmail.com;1987-03-08;236-972-7624;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Joan;Stewart;joan.stewart@yahoo.com;1987-03-09;216-637-6800;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Ruby;Rogers;ruby.rogers@gmail.com;1987-03-10;423-231-6507;Product Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carolyn;Hayes;carolyn.hayes@hotmail.co.uk;1987-03-11;239-882-8784;CEO;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Russell;anne.russell@ibm.com;1987-03-12;605-635-1306;Security staff;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Daniel;Cooper;daniel.cooper@yahoo.com;1987-03-13;701-510-8162;QA tester;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Roger;Roberts;roger.roberts@gmail.com;1987-03-14;206-497-3141;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Maria;Walker;maria.walker@microsoft.com;1987-03-15;423-668-5506;Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Brenda;Butler;brenda.butler@gmail.com;1987-03-16;480-814-8284;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Lillian;Brown;lillian.brown@aol.com;1987-03-17;239-812-9041;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amy;Howard;amy.howard@aol.com;1987-03-18;803-613-3168;Architect;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Gregory;Edwards;gregory.edwards@outlook.com;1987-03-19;503-256-9654;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Roy;Griffin;roy.griffin@yahoo.com;1987-03-20;219-506-9378;Assistant officer;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Richard;Mitchell;richard.mitchell@verizon.net;1987-03-21;205-621-5884;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Wilson;mary.wilson@sbcglobal.net;1987-03-22;423-937-8660;Architect;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Aaron;Price;aaron.price@bp.com;1987-03-23;219-287-8926;Assistant officer;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Donna;Brown;donna.brown@aol.com;1987-03-24;212-434-7910;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carl;Collins;carl.collins@yahoo.com;1987-03-06;479-740-7633;QA tester;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Joyce;Jenkins;joyce.jenkins@aol.com;1987-03-07;262-455-4187;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Bryant;mary.bryant@verizon.net;1987-03-08;319-827-3516;Product Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amanda;Hughes;amanda.hughes@rediffmail.com;1987-03-09;225-544-9700;QA tester;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Campbell;jack.campbell@gmail.com;1987-03-10;316-499-5737;Product Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Alan;Rivera;alan.rivera@apple.com;1987-03-11;423-277-6819;Security staff;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Elizabeth;Jackson;elizabeth.jackson@aol.com;1987-03-12;603-568-6118;Security staff;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Nancy;Davis;nancy.davis@ibm.com;1987-03-13;219-610-3067;Manager;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Martinez;ernest.martinez@gmail.com;1987-03-14;479-951-4138;Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Judy;Hernandez;judy.hernandez@gmail.com;1987-03-15;316-736-6126;Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Jones;nancy.jones@gmail.com;1987-03-16;212-825-1930;Architect;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Pamela;Wright;pamela.wright@aol.com;1987-03-17;307-329-8832;Assistant officer;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Larry;Miller;larry.miller@shell.com;1987-03-18;217-574-9283;Product Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Coleman;ann.coleman@ibm.com;1987-03-19;319-994-4179;Product Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Judy;Gonzales;judy.gonzales@gmail.com;1987-03-20;201-640-8645;Assistant officer;Intel;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Peter;Washington;peter.washington@bp.com;1987-03-21;231-322-0316;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Clarence;Ross;clarence.ross@apple.com;1987-03-22;423-772-0118;Engineer;Walt Disney;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Sharon;Lopez;sharon.lopez@gmail.com;1987-03-23;304-934-5548;Engineer;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Cooper;ann.cooper@exxonmobil.com;1987-03-24;406-278-6460;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Perez;anne.perez@sbcglobal.net;1987-03-06;423-837-3338;Buyer;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Howard;nancy.howard@gmail.com;1987-03-07;236-973-8086;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Antonio;Roberts;antonio.roberts@hotmail.com;1987-03-08;205-267-7304;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Frances;Watson;frances.watson@outlook.com;1987-03-09;406-530-8069;Buyer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Debra;Wood;debra.wood@hotmail.com;1987-03-10;308-646-6219;Security staff;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Henry;Jenkins;henry.jenkins@hotmail.com;1987-03-11;314-731-7135;Product Manager;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Melissa;Butler;melissa.butler@hotmail.com;1987-03-12;308-827-9016;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Todd;Hall;todd.hall@yahoo.com;1987-03-13;240-513-8668;Assistant officer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Christopher;Nelson;christopher.nelson@aol.com;1987-03-14;480-946-9780;Sales;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Andrea;Garcia;andrea.garcia@aol.com;1987-03-15;219-624-3708;Architect;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Jeremy;Sanchez;jeremy.sanchez@hotmail.com;1987-03-16;423-974-2755;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Steven;Phillips;steven.phillips@hotmail.com;1987-03-17;225-968-5952;Sales;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cynthia;Ramirez;cynthia.ramirez@btinternet.com;1987-03-18;406-961-7340;Buyer;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jason;Anderson;jason.anderson@gmail.com;1987-03-19;217-856-6752;Sales;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Cynthia;White;cynthia.white@gmail.com;1987-03-20;314-593-3092;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Margaret;Brooks;margaret.brooks@gmail.com;1987-03-21;303-960-0117;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Douglas;Flores;douglas.flores@gmail.com;1987-03-22;303-836-4721;Product Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Paul;Watson;paul.watson@hotmail.com;1987-03-23;270-556-7711;QA tester;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Linda;Moore;linda.moore@gmail.com;1987-03-24;215-793-7095;Security staff;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Cheryl;Miller;cheryl.miller@ntlworld.com;1987-03-06;270-880-3858;Manager;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Martha;Washington;martha.washington@aol.com;1987-03-07;405-945-0242;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+William;Hernandez;william.hernandez@rediffmail.com;1987-03-08;239-276-0532;Manager;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Carolyn;Price;carolyn.price@yahoo.com;1987-03-09;217-409-4338;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ruby;Stewart;ruby.stewart@gmail.com;1987-03-10;218-445-2369;Security staff;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paul;Cooper;paul.cooper@gmail.com;1987-03-11;210-984-4722;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Washington;ernest.washington@msn.com;1987-03-12;212-596-1659;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Dorothy;Edwards;dorothy.edwards@hotmail.co.uk;1987-03-13;215-902-6888;QA tester;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ryan;Alexander;ryan.alexander@shell.com;1987-03-14;225-395-3347;Engineer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Lillian;Mitchell;lillian.mitchell@shaw.ca;1987-03-15;316-876-1484;QA tester;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Kelly;Adams;kelly.adams@bp.com;1987-03-16;405-418-0037;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Jimmy;Howard;jimmy.howard@yahoo.com;1987-03-17;212-855-9316;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Margaret;Allen;margaret.allen@gmail.com;1987-03-18;216-697-6987;Security staff;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janet;Henderson;janet.henderson@ntlworld.com;1987-03-19;239-769-6347;Sales;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Eugene;Perez;eugene.perez@exxonmobil.com;1987-03-20;262-472-7112;Sales;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Deborah;Smith;deborah.smith@yahoo.com;1987-03-21;907-279-8694;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janice;Parker;janice.parker@yahoo.com;1987-03-22;314-842-5984;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Rebecca;Stewart;rebecca.stewart@gmail.com;1987-03-23;209-233-7631;Sales;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Phillip;White;phillip.white@gmail.com;1987-03-24;503-668-6592;QA tester;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jose;Hill;jose.hill@hotmail.com;1987-03-06;228-245-5000;Manager;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Harold;Nelson;harold.nelson@gmail.com;1987-03-07;217-555-9216;Manager;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nicole;Ward;nicole.ward@yahoo.com;1987-03-08;231-761-7861;Engineer;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Theresa;Murphy;theresa.murphy@gmail.com;1987-03-09;907-356-1555;Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Tammy;Young;tammy.young@comcast.net;1987-03-10;231-290-3075;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Lois;Walker;lois.walker@hotmail.com;1987-04-21;303-572-8492;Manager;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Brenda;Robinson;brenda.robinson@gmail.com;1987-03-07;225-945-4954;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Joe;Robinson;joe.robinson@gmail.com;1987-03-08;219-904-2161;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Diane;Evans;diane.evans@yahoo.com;1987-03-09;215-793-6791;Assistant officer;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Benjamin;Russell;benjamin.russell@charter.net;1987-03-10;262-404-2252;Product Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Patrick;Bailey;patrick.bailey@aol.com;1987-03-11;319-812-6957;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Nancy;Baker;nancy.baker@bp.com;1987-03-12;229-336-5117;Engineer;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Murphy;carol.murphy@gmail.com;1987-03-13;216-336-0009;Security staff;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Frances;Young;frances.young@gmail.com;1987-03-14;210-819-9765;Account assistant;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Diana;Peterson;diana.peterson@hotmail.co.uk;1987-03-15;479-783-5656;Product Manager;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ralph;Flores;ralph.flores@yahoo.com;1987-03-16;316-280-2864;Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Alexander;jack.alexander@gmail.com;1987-03-17;702-603-3769;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Melissa;King;melissa.king@comcast.net;1987-03-18;216-605-3731;Account assistant;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Wayne;Watson;wayne.watson@gmail.com;1987-03-19;701-231-9370;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cheryl;Scott;cheryl.scott@gmail.com;1987-03-20;215-288-9345;Engineer;Google;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paula;Diaz;paula.diaz@gmail.com;1987-03-21;252-531-7641;Buyer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Joshua;Stewart;joshua.stewart@yahoo.ca;1987-03-22;217-279-9342;Engineer;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Theresa;Lee;theresa.lee@gmail.com;1987-03-23;319-553-8919;Engineer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Julia;Scott;julia.scott@apple.com;1987-03-24;423-939-1010;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Thomas;Lewis;thomas.lewis@gmail.com;1987-03-06;314-679-3697;Assistant officer;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carol;Edwards;carol.edwards@msn.com;1987-03-07;225-283-4295;Product Manager;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Matthew;Turner;matthew.turner@gmail.com;1987-03-08;236-972-7624;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Joan;Stewart;joan.stewart@yahoo.com;1987-03-09;216-637-6800;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Ruby;Rogers;ruby.rogers@gmail.com;1987-03-10;423-231-6507;Product Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carolyn;Hayes;carolyn.hayes@hotmail.co.uk;1987-03-11;239-882-8784;CEO;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Russell;anne.russell@ibm.com;1987-03-12;605-635-1306;Security staff;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Daniel;Cooper;daniel.cooper@yahoo.com;1987-03-13;701-510-8162;QA tester;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Roger;Roberts;roger.roberts@gmail.com;1987-03-14;206-497-3141;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Maria;Walker;maria.walker@microsoft.com;1987-03-15;423-668-5506;Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Brenda;Butler;brenda.butler@gmail.com;1987-03-16;480-814-8284;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Lillian;Brown;lillian.brown@aol.com;1987-03-17;239-812-9041;Manager;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amy;Howard;amy.howard@aol.com;1987-03-18;803-613-3168;Architect;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Gregory;Edwards;gregory.edwards@outlook.com;1987-03-19;503-256-9654;Engineer;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Roy;Griffin;roy.griffin@yahoo.com;1987-03-20;219-506-9378;Assistant officer;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Richard;Mitchell;richard.mitchell@verizon.net;1987-03-21;205-621-5884;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Wilson;mary.wilson@sbcglobal.net;1987-03-22;423-937-8660;Architect;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Aaron;Price;aaron.price@bp.com;1987-03-23;219-287-8926;Assistant officer;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Donna;Brown;donna.brown@aol.com;1987-03-24;212-434-7910;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Carl;Collins;carl.collins@yahoo.com;1987-03-06;479-740-7633;QA tester;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Joyce;Jenkins;joyce.jenkins@aol.com;1987-03-07;262-455-4187;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Mary;Bryant;mary.bryant@verizon.net;1987-03-08;319-827-3516;Product Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Amanda;Hughes;amanda.hughes@rediffmail.com;1987-03-09;225-544-9700;QA tester;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jack;Campbell;jack.campbell@gmail.com;1987-03-10;316-499-5737;Product Manager;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Alan;Rivera;alan.rivera@apple.com;1987-03-11;423-277-6819;Security staff;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Elizabeth;Jackson;elizabeth.jackson@aol.com;1987-03-12;603-568-6118;Security staff;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Nancy;Davis;nancy.davis@ibm.com;1987-03-13;219-610-3067;Manager;Dell Technologies;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Martinez;ernest.martinez@gmail.com;1987-03-14;479-951-4138;Manager;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Judy;Hernandez;judy.hernandez@gmail.com;1987-03-15;316-736-6126;Manager;PayPal;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Jones;nancy.jones@gmail.com;1987-03-16;212-825-1930;Architect;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Pamela;Wright;pamela.wright@aol.com;1987-03-17;307-329-8832;Assistant officer;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Larry;Miller;larry.miller@shell.com;1987-03-18;217-574-9283;Product Manager;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Coleman;ann.coleman@ibm.com;1987-03-19;319-994-4179;Product Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Judy;Gonzales;judy.gonzales@gmail.com;1987-03-20;201-640-8645;Assistant officer;Intel;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Peter;Washington;peter.washington@bp.com;1987-03-21;231-322-0316;Engineer;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Clarence;Ross;clarence.ross@apple.com;1987-03-22;423-772-0118;Engineer;Walt Disney;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Sharon;Lopez;sharon.lopez@gmail.com;1987-03-23;304-934-5548;Engineer;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ann;Cooper;ann.cooper@exxonmobil.com;1987-03-24;406-278-6460;Engineer;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Anne;Perez;anne.perez@sbcglobal.net;1987-03-06;423-837-3338;Buyer;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nancy;Howard;nancy.howard@gmail.com;1987-03-07;236-973-8086;Account assistant;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Antonio;Roberts;antonio.roberts@hotmail.com;1987-03-08;205-267-7304;Manager;Microsoft;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Frances;Watson;frances.watson@outlook.com;1987-03-09;406-530-8069;Buyer;IBM;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Debra;Wood;debra.wood@hotmail.com;1987-03-10;308-646-6219;Security staff;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Henry;Jenkins;henry.jenkins@hotmail.com;1987-03-11;314-731-7135;Product Manager;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Melissa;Butler;melissa.butler@hotmail.com;1987-03-12;308-827-9016;Product Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Todd;Hall;todd.hall@yahoo.com;1987-03-13;240-513-8668;Assistant officer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Christopher;Nelson;christopher.nelson@aol.com;1987-03-14;480-946-9780;Sales;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Andrea;Garcia;andrea.garcia@aol.com;1987-03-15;219-624-3708;Architect;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Jeremy;Sanchez;jeremy.sanchez@hotmail.com;1987-03-16;423-974-2755;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Steven;Phillips;steven.phillips@hotmail.com;1987-03-17;225-968-5952;Sales;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Cynthia;Ramirez;cynthia.ramirez@btinternet.com;1987-03-18;406-961-7340;Buyer;Samsung Electronics;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jason;Anderson;jason.anderson@gmail.com;1987-03-19;217-856-6752;Sales;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Cynthia;White;cynthia.white@gmail.com;1987-03-20;314-593-3092;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Margaret;Brooks;margaret.brooks@gmail.com;1987-03-21;303-960-0117;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Douglas;Flores;douglas.flores@gmail.com;1987-03-22;303-836-4721;Product Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Paul;Watson;paul.watson@hotmail.com;1987-03-23;270-556-7711;QA tester;Verizon Communications;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Linda;Moore;linda.moore@gmail.com;1987-03-24;215-793-7095;Security staff;Apple;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Cheryl;Miller;cheryl.miller@ntlworld.com;1987-03-06;270-880-3858;Manager;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Martha;Washington;martha.washington@aol.com;1987-03-07;405-945-0242;Manager;Walt Disney;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+William;Hernandez;william.hernandez@rediffmail.com;1987-03-08;239-276-0532;Manager;Facebook;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Carolyn;Price;carolyn.price@yahoo.com;1987-03-09;217-409-4338;Product Manager;AT&T;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ruby;Stewart;ruby.stewart@gmail.com;1987-03-10;218-445-2369;Security staff;Amazon;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Paul;Cooper;paul.cooper@gmail.com;1987-03-11;210-984-4722;Architect;Amazon;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Ernest;Washington;ernest.washington@msn.com;1987-03-12;212-596-1659;QA tester;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Dorothy;Edwards;dorothy.edwards@hotmail.co.uk;1987-03-13;215-902-6888;QA tester;IBM;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Ryan;Alexander;ryan.alexander@shell.com;1987-03-14;225-395-3347;Engineer;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Lillian;Mitchell;lillian.mitchell@shaw.ca;1987-03-15;316-876-1484;QA tester;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Kelly;Adams;kelly.adams@bp.com;1987-03-16;405-418-0037;Product Manager;PayPal;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Jimmy;Howard;jimmy.howard@yahoo.com;1987-03-17;212-855-9316;Manager;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Margaret;Allen;margaret.allen@gmail.com;1987-03-18;216-697-6987;Security staff;Google;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janet;Henderson;janet.henderson@ntlworld.com;1987-03-19;239-769-6347;Sales;Dell Technologies;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Eugene;Perez;eugene.perez@exxonmobil.com;1987-03-20;262-472-7112;Sales;AT&T;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Deborah;Smith;deborah.smith@yahoo.com;1987-03-21;907-279-8694;Manager;Intel;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Janice;Parker;janice.parker@yahoo.com;1987-03-22;314-842-5984;Product Manager;Apple;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Rebecca;Stewart;rebecca.stewart@gmail.com;1987-03-23;209-233-7631;Sales;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Phillip;White;phillip.white@gmail.com;1987-03-24;503-668-6592;QA tester;Samsung Electronics;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Jose;Hill;jose.hill@hotmail.com;1987-03-06;228-245-5000;Manager;Orange;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
+Harold;Nelson;harold.nelson@gmail.com;1987-03-07;217-555-9216;Manager;Microsoft;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
+Nicole;Ward;nicole.ward@yahoo.com;1987-03-08;231-761-7861;Engineer;Verizon Communications;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
+Theresa;Murphy;theresa.murphy@gmail.com;1987-03-09;907-356-1555;Manager;Facebook;TRUE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
+Tammy;Young;tammy.young@comcast.net;1987-03-10;231-290-3075;Engineer;Orange;FALSE;https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
