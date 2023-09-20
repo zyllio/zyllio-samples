@@ -1,11 +1,11 @@
-Name,Email,Birthday,Phone number,Profile
-Eugene Perez,eugene.perez@exxonmobil.com,1987-03-20,262-472-7112,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
-Deborah Smith,deborah.smith@yahoo.com,1987-03-21,907-279-8694,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
-Janice Parker,janice.parker@yahoo.com,1987-03-22,314-842-5984,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
-Rebecca Stewart,rebecca.stewart@gmail.com,1987-03-23,209-233-7631,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
-Phillip White,phillip.white@gmail.com,1987-03-24,503-668-6592,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
-Jose Hill,jose.hill@hotmail.com,1987-03-06,228-245-5000,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg
-Harold Nelson,harold.nelson@gmail.com,1987-03-07,217-555-9216,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg
-Nicole Ward,nicole.ward@yahoo.com,1987-03-08,231-761-7861,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg
-Theresa Murphy,theresa.murphy@gmail.com,1987-03-09,907-356-1555,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg
-Tammy Young,tammy.young@comcast.net,1987-03-10,231-290-3075,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg
+Name,Email,Birthday,Phone number,Profile,Specialty,Classes,Examinations,Password
+Eugene Perez,t@gmail.com,1987-03-20,262-472-7112,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg,Physics science,,,0000
+Deborah Smith,deborah.smith@yahoo.com,1987-03-21,907-279-8694,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg,Mathematics,,,
+Janice Parker,janice.parker@yahoo.com,1987-03-22,314-842-5984,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg,Chemistry,,,
+Rebecca Stewart,rebecca.stewart@gmail.com,1987-03-23,209-233-7631,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg,English language,,,
+Phillip White,phillip.white@gmail.com,1987-03-24,503-668-6592,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg,Sport education,,,
+Jose Hill,jose.hill@hotmail.com,1987-03-06,228-245-5000,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile1.jpg,Biology,,,
+Harold Nelson,harold.nelson@gmail.com,1987-03-07,217-555-9216,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile5.jpg,Arabic language,,,
+Nicole Ward,nicole.ward@yahoo.com,1987-03-08,231-761-7861,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile4.jpg,Mathematics,,,
+Theresa Murphy,theresa.murphy@gmail.com,1987-03-09,907-356-1555,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile2.jpg,Art education,,,
+Tammy Young,tammy.young@comcast.net,1987-03-10,231-290-3075,https://zyllio.github.io/zyllio-samples/best-in-class/students/profile3.jpg,Physics science,,,
