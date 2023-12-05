@@ -1,4 +1,4 @@
-Titre,Prix,Surface,Pièces,Description,Autres,Référence,Photo,Type
+Titre,Prix,Surface,Pièces,Description,Autres,Référence,Photo,Type,Performance énergétique
 CHAMONIX - SAVOIE,598000 €,71 m²,5,"Idéalement situé proche du lac des Gaillands et du rocher d'escalade, à distance à pieds du centre- ville de Chamonix, jolie maison mitoyenne pleine de charme avec son cachet d'époque.
 Nous vous invitons à venir découvrir ce bien immobilier à l'achat sur Chamonix.
 Il se compose d'une entrée desservant un séjour avec cheminée, une cuisine équipée avec cellier et une salle d'eau avec WC.
@@ -6,7 +6,7 @@ Il se compose d'une entrée desservant un séjour avec cheminée, une cuisine é
 Au deuxième étage se trouvent une chambre mansardée ainsi qu'une mezzanine.
 Cette maison présente de nombreuses possibilités d'aménagement pour un logement à l'année ou pour une résidence secondaire.
 Rénovation à prévoir.","Chauffage : Individuel convecteurs electricité
-Eau chaude : Ballon électrique",14AZ23,https://zyllio.github.io/zyllio-samples/agency/houses/1/1.jpg,Maison
+Eau chaude : Ballon électrique",14AZ23,https://zyllio.github.io/zyllio-samples/agency/houses/1/1.jpg,Maison,2
 "LULLY - SAVOIE
 ",355000 €,165 m²,9,"A proximité directe de Bons en Chablais et de la douane de Moniaz, à 5 minutes environ de la gare ferroviaire de Perrignier et du CEVA pour un accès direct et simplifié à Genève, de l'école publique primaire et maternelle de Lully, dans un environnement calme et agréable, jolie maison de village indépendante au charme indéniable de plus de 165 m² utiles sur sous-sol total comprenant entre autres un spacieux séjour de plus de 40 m² et 6 chambres dont une en rez-de-chaussée.
 Cette grande maison familiale est implantée sur une parcelle d'environ 616 m².
@@ -14,13 +14,13 @@ A noter que des travaux de rénovation sont à prévoir.","Chauffage : Central
 Eau chaude : Chaudière
 façade : Crépi
 Cheminée : 1
-Cheminée, placards, poutres",11XC74,https://zyllio.github.io/zyllio-samples/agency/houses/2/1.jpg,Maison
+Cheminée, placards, poutres",11XC74,https://zyllio.github.io/zyllio-samples/agency/houses/2/1.jpg,Maison,3
 FETERNES - SAVOIE,550000 €,114 m²,4,"Villa entièrement rénovée avec énormément de goût et de très bonne qualité. Elle offre un vaste terrain et un cadre à 280° sur les montagnes avoisinantes. Un cadre majestueux pour cette maison édifiée sur un sous sol complet et surélevée de deux niveaux. Un terrain clos où vous pourrez bénéficier de sa piscine à l'eau salée et chauffée. La maison propose un style à la fois moderne et épuré avec du caractère grâce à l'emploie de matériaux naturels et nobles comme le bois, le fer et la pierre. D'autres possibilités sont offertes afin d'amener votre touche personnelle vite vite ne tardez pas.....","parking exterieur : 3 place(s)
 Chauffage : Individuel chauffage au sol electricité
 Eau chaude : Cumulus
 façade : Bois / crépi
 Double vitrage, placards, poutres
-Clôture",78PI12,https://zyllio.github.io/zyllio-samples/agency/houses/3/1.jpg,Maison
+Clôture",78PI12,https://zyllio.github.io/zyllio-samples/agency/houses/3/1.jpg,Maison,5
 VIRY - SAVOIE,270000 €,37 m²,2,"Venez découvrir ce charmant chalet situé au cœur de son écrin de verdure bucolique arboré de plus de 3000 m².
 Le chalet est composé d'une pièce de vie avec kitchenette, une chambre séparée, un dégagement et une pièce d'eau avec cabine de douche et WC.
 L'intégralité du terrain est en zone naturelle et entouré de terrains agricoles donc non constructible.
@@ -33,7 +33,7 @@ Eau chaude : Cumulus
 façade : Bois
 Balcon
 Plain pied, poutres
-Clôture",54SA90,https://zyllio.github.io/zyllio-samples/agency/houses/4/1.jpg,Maison
+Clôture",54SA90,https://zyllio.github.io/zyllio-samples/agency/houses/4/1.jpg,Maison,4
 CHAMONIX - SAVOIE,455000 €,37 m²,2,"Idéalement situé sur le secteur des Gaillands, cet appartement à l'achat sur Chamonix saura vous séduire par son cadre privilégié au bord du lac et par sa vue imprenable sur le massif du Mont-Blanc.
 Ce bien immobilier vous offre un agréable espace de vie lumineux ouvert sur une cuisine entièrement équipée, une belle chambre avec rangements intégrés, une entrée et une salle d'eau avec coin buanderie.
 Une terrasse conviviale de 10m2 bénéficiant d'un ensoleillement optimal complète ce bien.
@@ -41,11 +41,11 @@ L'arrêt de bus se trouve au pied de la résidence et le centre-ville est à pro
 Vous disposez également en annexe d'une cave, d'un casier à skis et d'une place de stationnement privative équipée d'une borne électrique dans un parking souterrain sécurisé.
 Un local à vélos commun est mis à disposition dans la résidence.
 Les atouts de cet appartement sont : sa situation au calme et idéalement placée, sa vue, sa luminosité et ses matériaux de qualité utilisés pour sa rénovation.
-Ce bien constitue un choix idéal tant pour un pied-à-terre à la montagne que pour un investissement locatif.",Chauffage : Central gaz,WX56RE,https://zyllio.github.io/zyllio-samples/agency/houses/5/1.jpg,Appartement
+Ce bien constitue un choix idéal tant pour un pied-à-terre à la montagne que pour un investissement locatif.",Chauffage : Central gaz,WX56RE,https://zyllio.github.io/zyllio-samples/agency/houses/5/1.jpg,Appartement,2
 MORZINE - SAVOIE,625000 €,88 m²,6,"Coup de cœur pour ce très bel appartement,particulièrement chaleureux et accueillant. Dès l'entrée, vous apprécierez la vaste pièce à vivre, gorgée de lumière. La cuisine ouverte est très fonctionnelle. La pièce de vie s'ouvre sur une terrasse et un petit jardin, avec une superbe vue sur la Pointe de Nyon et les pistes de ski.
 L'agencement de cet appartement en demi-niveau est atypique et offre un espace nuit bien séparé. Il abrite 3 belles chambres doubles et un large coin montagne avec lits superposés pour le plus grand plaisir des enfants. Toutes les chambres sont très lumineuses et bénéficient chacune d'un balcon avec vue sur les montagnes environnantes et les pistes. La première chambre possède une salle de douche en suite, avec toilettes. Une douche et un lavabo équipent la seconde chambre, tandis que la troisième chambre et le coin montagne se partagent une salle de bain.
 Niché au pied du téléphérique de Nyon, au cœur des Portes du Soleil, cet appartement est un excellent point de départ pour rejoindre les pistes de ski, l'hiver, et les alpages pour de belles balades ou descentes de VTT, l'été. Le centre du village de Morzine se trouve à quelques minutes en navette. Le chemin du Renard, le long de la rivière Dranse, mène également au centre, à pied, en vélo ou en raquettes lorsqu'il est enneigé !
 L'appartement est vendu meublé, accompagné d'un garage, d'une place de parking extérieure et d'une cave.","Chauffage : Individuel chauffage au sol et radiateurs electricité
 Eau chaude : Ballon électrique
 Ascenseur
-Digicode",TY32AN,https://zyllio.github.io/zyllio-samples/agency/houses/6/1.jpg,Appartement
+Digicode",TY32AN,https://zyllio.github.io/zyllio-samples/agency/houses/6/1.jpg,Appartement,2
