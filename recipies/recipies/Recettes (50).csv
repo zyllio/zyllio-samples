@@ -1,0 +1,714 @@
+Id,Nom,Catégorie,Description,Préparation,Cuisson,Image,Portions,Difficulté,Coût,Régime,Ingrédients,Instructions,Calories,Glucides,Protéines,Sucres,Lipides,Fibres,Amidon,Calcium,Choléstérol,Cuivre,Fer,Magnésium,Manganèse,Phosphore,Potassium
+0,Risotto aux champignons,Entrées,Un crémeux risotto italien aux champignons de Paris.,,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/0.jpg,4,3,2,Équilibre acido-basique,"200 g Riz complet
+100 g Feta, émiettée
+100 g Olives noires, dénoyautées
+1 Concombre, coupé en dés
+2 cuillère à soupe Huile d'olive
+1 Citron, jus
+Sel, au goût
+Poivre, au goût","Utiliser le menu riz du Thermochef spécifique pour le riz complet. Comme le riz complet a besoin d'un temps de cuisson plus long, si il dépasse les 20 minutes de cuisson sur le paquet, utiliser le mode légumes sec, pression 7, puissance 2 en divisant le temps de cuisson par 3.
+Ajouter 200g de riz complet et 400ml d'eau dans la cuve du Thermochef. Fermer le couvercle et démarrer la cuisson.
+Une fois le riz cuit, le transférer dans un grand bol et laisser refroidir à température ambiante. Vous pouvez accélérer le processus en étalant le riz sur une plaque à pâtisserie.
+Dans le bol contenant le riz refroidi, ajouter les dés de concombre, les olives noires dénoyautées, et la feta émiettée.
+Arroser la salade avec l'huile d'olive et le jus de citron. Assaisonner avec du sel et du poivre selon le goût. Mélanger délicatement pour bien combiner tous les ingrédients sans écraser la feta.
+Laisser la salade reposer au réfrigérateur pendant au moins 30 minutes avant de servir pour permettre aux saveurs de se mélanger.",226.45,18.78375,6.3645,1.5066,17.5635,3.308,15.8225,99.20875000000001,17.055,0.135525,2.4771,43.667375,0.67845,130.7145,190.81175
+24,Paëlla aux fruits de mer,Entrées,Un délicieux plat espagnol riche en saveurs et généreux en fruits de mer.,,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/24.jpg,6,4,4,Équilibre acido-basique,"200 g Riz basmati
+200 g Petits pois, cuits
+2 cuillère à soupe Beurre
+300 ml Eau
+1 Menthe fraîche, hachée
+Sel, au goût
+Poivre, au goût","Utiliser le menu riz du Thermochef pour cuire le riz basmati. Choisir le mode 2 pour un temps de cuisson moyen. Ajouter 200g de riz basmati et 300ml d'eau dans la cuve du Thermochef. Fermer le couvercle et démarrer la cuisson.
+Si les petits pois ne sont pas déjà cuits, vous pouvez les cuire à la vapeur dans le Thermochef en utilisant le panier vapeur.
+Une fois le riz cuit, ajoutez le beurre et mélangez jusqu'à ce qu'il soit complètement fondu et que le riz soit bien enrobé.
+Incorporer les petits pois cuits et une bonne quantité de menthe fraîche hachée au riz. Mélanger délicatement pour combiner tous les ingrédients sans écraser les petits pois.
+Assaisonner avec du sel et du poivre selon le goût.",119.4,16.1975,4.59575,3.2351,6.86375,3.77675,11.8,35.63075000000001,16.35,0.132325,1.480175,23.905375,0.42481,81.90125,183.26725
+62,Riz noir à la méditerranéenne,Accompagnements,"Un plat d'accompagnement qui marie le riz noir avec des légumes aromatiques dans un style méditerranéen, préparé avec un Thermochef.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/62.jpg,4,3,4,Riz,"200 g Lentilles vertes
+1 Oignon, émincé
+2 Tomates, coupées en dés
+1 Gousse d'ail, émincée
+1 pincée Herbes de Provence
+500 ml Bouillon de légumes
+Sel, au goût
+Poivre, au goût","Émincer l'oignon et l'ail, couper les tomates en dés.
+Dans le Thermochef, utiliser le menu thermo grill pour faire revenir l'oignon et l'ail avec un peu d'huile, couvercle ouvert.
+Ajouter les lentilles, les tomates, les herbes, le bouillon, le sel et le poivre.
+Fermer le couvercle, programmer le menu légumes secs, pression 7, puissance 3, pour 8 min.",86.1,12.51375,6.453825,3.33035,0.8674999999999999,5.698,8.282625,38.91375,0.0,0.152275,1.6564975,30.212875,0.356,110.0325,357.14225
+63,Poulet aux olives et citron confit,Entrées,Un plat savoureux combinant les saveurs acidulées du citron confit avec l'onctuosité des olives vertes.,,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/63.jpg,4,3,3,Équilibre acido-basique,"1 Légumes de saison, carottes, courgettes, poivrons, etc.
+2 Gousses d'ail, haché
+1 pincée Herbes de Provence
+Sel, au goût
+Poivre, au goût","Couper les légumes en morceaux ou en julienne.
+Dans le Thermochef, utiliser le menu thermo grill pour faire sauter les légumes avec un peu d'huile, couvercle ouvert.
+Ajouter l'ail haché, les herbes, le sel et le poivre.
+Cuire pendant 10 min, en remuant de temps en temps.",52.02249999999999,4.71775,1.83665,1.70085,2.03175,3.7765,2.635250000000001,30.79825,0.0,0.07812499999999999,0.962175,19.542875,0.2338,47.3875,175.91725
+66,Riz noir aux palourdes et au chorizo,Plats,"Plat principal équilibrant les saveurs de la mer et de la terre avec du riz noir, des palourdes et du chorizo cuit au Thermochef.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/66.jpg,4,4,4,Riz,"500 g Carottes, épluchées et coupées en rondelles
+50 g Beurre
+1 cuillère à soupe Sucre
+Sel, au goût
+Poivre, au goût","Éplucher et couper les carottes en rondelles.
+Dans le Thermochef, mettre les carottes, le beurre, le sucre, un peu d'eau, le sel et le poivre.
+Programmer le menu pression, niveau 6, puissance 1, pour 5 min.",145.2,12.69275,0.90825,10.59935,11.00625,3.43925,0.5,34.81895,27.25,0.06879,0.348785,13.288625,0.163214,30.945,295.44725
+68,Salade de quinoa aux légumes,Entrées,Une salade fraîche et nutritive à base de quinoa et de légumes variés.,,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/68.jpg,4,2,2,Équilibre acido-basique,"500 g Carottes
+3 Œufs
+200 ml Crème fraîche légère
+1 cuillère à café Cumin, en poudre
+Sel, au goût
+Poivre, au goût","Couper les carottes en rondelles et les cuire dans le panier vapeur, 2 mesures d’eau dans la cuve du Thermochef, menu pression, 3 minutes, pression 6, puissance 3.
+Mixer les carottes cuites avec les œufs, la crème, le cumin, le sel et poivre.
+Verser la préparation dans des moules à flan, mettre sur la grille.
+Cuire avec le menu four vapeur, 2 mesures d’eau, pression 7, pendant 12 minutes, puissance 3.",202.71,11.301,6.98225,9.0591,13.7915,4.991750000000001,0.5,115.43825,171.25,0.09385,1.400225,23.937875,0.193075,148.94,414.74225
+70,Riz noir aux poivrons et saucisse,Plats,"Un mélange savoureux de riz noir, poivrons et saucisse préparé avec le Thermochef",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/70.jpg,4,3,3,Riz,"300 g Épinards, frais
+200 g Feta, émiéttée
+4 Œufs
+200 ml Crème légère
+Sel, au goût
+Poivre, au goût","Battez les œufs avec la crème, salez et poivrez.
+Ajoutez les épinards et la feta, mélangez bien.
+Versez la préparation dans la cuve du Thermochef.
+Programmer le menu 'pression' puissance 3, pression 6, pendant 12 min.",310.325,3.69125,17.20825,1.8266,26.80875,3.34175,1.4475,284.63325,253.6,0.128875,3.750725,56.357875,1.0398,273.345,546.04225
+74,Riz complet aux légumes grillés,Plats,Plat sain et coloré associant le riz complet à des légumes grillés pour un repas nutritif et savoureux.,,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/74.jpg,4,2,3,Riz,"3 Poivrons rouges, coupés en morceaux
+4 Tomates mûres, coupées en morceaux
+1 Oignon, émincé
+2 Gousses d'ail
+500 ml Bouillon de légumes
+1 cuillère à soupe Huile d'olive
+Sel, au goût
+Poivre, au goût","Couper les poivrons et les tomates en morceaux.
+Émincer l'oignon et l'ail.
+Faire revenir l'oignon et l'ail avec l'huile d'olive, menu thermo grill, 5 minutes, puissance 3.
+Ajouter les poivrons, les tomates, le bouillon, le sel et le poivre. Cuire avec le menu soupe, mode 2 (20 minutes).
+Mixer dans un plat à part jusqu'à obtenir une consistance lisse.",108.59,13.21525,3.31165,10.5771,4.580500000000001,5.97625,0.7739999999999999,26.51475,0.0,0.094575,0.5955975,29.9095,0.267625,72.92975000000001,656.002
+75,Poisson à la provençale,Entrées,"Filets de poisson blanc cuisinés avec des légumes à la provençale, le tout préparé dans un Thermochef.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/75.jpg,4,3,3,Équilibre acido-basique,"500 g Carottes, coupées en rondelles
+1 Oignon, émincé
+1 cuillère à café Cumin
+750 ml Bouillon de légumes
+Sel, au goût
+Poivre, au goût","Mettez les carottes, l'oignon, le cumin et le bouillon dans la cuve.
+Programmez en mode ""soupe"" Mode 2.
+Fermez le couvercle et lancez la cuisson.
+Mixez le tout après la cuisson dans un plat à part et assaisonnez avant de servir.",63.2975,12.536,1.82225,9.0691,1.21025,3.91675,1.0,45.26325,0.0,0.06975,0.8627724999999999,20.812875,0.2232,39.69,362.99225
+88,Riz rouge à la tomate et au basilic,Accompagnements,"Un accompagnement simple et savoureux alliant le riz rouge à la fraîcheur de la tomate et du basilic, préparé facilement avec le Thermochef.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/88.jpg,4,2,2,Riz,"3 Courgettes, râpées
+4 Œufs
+100 ml Crème fraîche
+1 Basilic frais, haché
+Sel, au goût
+Poivre, au goût","Râper les courgettes.
+Battre les œufs avec la crème, le basilic haché, le sel et le poivre.
+Ajouter les courgettes râpées au mélange.
+Verser dans un moule à flan.
+Utiliser le menu 'four vapeur' avec pression 7 pour 30 min, puissance 3.
+Laisser refroidir avant de démouler.",172.88,3.729375,9.103874999999999,3.500475,13.016375,2.519375,0.05,97.14574999999999,222.7,0.124875,1.739725,36.612875,0.364875,187.595,500.35475
+92,Riz basmati à la courgette et au yaourt,Plats,"Un plat léger et rafraîchissant mêlant la douceur des courgettes avec l'onctuosité du yaourt, idéal pour un repas d'été ou comme accompagnement.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/92.jpg,4,2,2,Riz,"500 g Navets, épluchés et coupés en rondelles fines
+200 ml Crème de soja
+1 Thym frais, parsemé
+Sel, au goût
+Poivre, au goût","Éplucher et couper les navets en rondelles fines.
+Blanchir les navets dans le Thermochef avec le menu 'pression' dans le panier vapeur, avec 150 ml d’eau, puissance 3, pression 7, pendant 5 min.
+Dans la cuve, disposer les navets.
+Verser la crème de soja, parsemer de thym, saler et poivrer.
+Utiliser le menu 'four vapeur' avec pression 5 pour 8 min, puissance 2.",2.1625,7.12,2.67775,5.5516,7.514749999999999,2.61425,1.0375,64.29575,0.0,0.143625,0.996975,23.857875,0.2743,80.895,372.90475
+101,Tajine de poulet aux pruneaux,Entrées,Un plat savoureux et parfumé où le poulet rencontre la douceur des pruneaux et les épices chaudes.,,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/101.jpg,4,3,3,Équilibre acido-basique,"3 Poivrons jaunes, épépinés et coupés en lamelles
+1 Oignon, émincé
+2 Gousses d'ail, émincées
+1 cuillère à café Curry en poudre
+750 ml Bouillon de légumes
+Sel, au goût
+Poivre, au goût","Épépiner les poivrons et les couper en lamelles.
+Émincer l'oignon et l'ail.
+Faire revenir l'oignon, l'ail et le curry dans le Thermochef avec le menu 'Thermo grill' pendant 5 min.
+Ajouter les poivrons et le bouillon.
+Choisir le menu 'soupe' mode 1 (10 min).
+Mixer la soupe jusqu'à obtenir une consistance lisse.
+Assaisonner de sel et poivre.",48.62,8.4934,2.1554,6.4265,0.88875,2.19225,0.8989999999999999,21.82325,0.0,0.09050000000000001,0.5719725,21.557875,0.2498,39.355,327.84225
+133,Velouté de courgettes,Entrées,Un velouté de courgettes facile et rapide à préparer avec un Thermochef.,,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/133.jpg,4,1,1,Équilibre acido-basique,"1 botte Asperges vertes
+1 Citron, jus et zeste
+Sel, au goût
+Poivre, au goût
+1 cuillère à soupe Huile d'olive","Lavez et coupez les extrémités des asperges.
+Programmer le menu thermogrill 10 minutes puissance 3.
+Mettre une cuillère d’huile d’olive.
+Ajoutez les asperges et les retournez après qu’elles aient commencé à colorer.
+Une fois cuites, assaisonnez les asperges avec le zeste et le jus de citron, sel, poivre et un filet d'huile d'olive.",35.25,1.66,1.68075,1.0891,3.528,1.50175,0.0,17.30225,0.0,0.0107,0.697975,9.59075,0.041875,56.14225,197.177
+159,Riz noir à la betterave et chèvre,Plats,"Un plat principal visuellement impressionnant et riche en saveurs, mariant la douceur de la betterave, la richesse du fromage de chèvre et la texture unique du riz noir.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/159.jpg,4,3,4,Riz,"500 g Carottes
+2 cuillère à soupe Miel
+1 cuillère à café Cumin en poudre
+2 cuillère à soupe Huile d'olive
+Sel, au goût
+Poivre, au goût","Épluchez les carottes et coupez-les en bâtonnets.
+Dans un bol, mélangez le miel, le cumin, l'huile d'olive, du sel et du poivre.
+Enrobez les carottes avec ce mélange.
+Placez les carottes dans la cuve du Thermochef, couvercle ouvert, et réglez sur le menu ""thermo grill"", puissance 3, pour 20 minutes, en les retournant à de temps en temps.
+Servez chaud comme accompagnement.",111.71,18.33325,1.00105,15.89185,7.248750000000001,3.491750000000001,0.5,37.9839,0.0,0.07216,0.6973750000000001,15.263425,0.1969,31.0475,307.89325
+161,Riz basmati aux petits pois et menthe,Accompagnements,"Un plat frais et léger comprenant du riz basmati enrobé de beurre avec des petits pois cuits et de la menthe fraîche hachée, parfait pour le printemps ou l'été.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/161.jpg,4,1,2,Riz,"4 Courgettes, coupées en rondelles
+1 pincée Herbes de Provence
+1 pincée Ail en poudre
+1 filet Huile d'olive
+Sel, au goût
+Poivre, au goût","Placez les courgettes dans le panier vapeur du Thermochef.
+Ajoutez 2 mesures d'eau au fond de la cuve.
+Programmez le Thermochef sur le mode pression, niveau de pression 6, puissance 3 pour 6 minutes.
+Assaisonnez avec les herbes de Provence, l'ail, sel, poivre et un filet d'huile d'olive.",35.3925,3.913250000000001,2.56375,3.633925,0.558675,2.288125,0.005,43.482,0.0,0.11085,0.948225,36.411625,0.41325,91.62750000000001,535.84225
+171,Curry de légumes,Entrées,"Un savoureux curry de légumes mélangés au lait de coco, relevé avec une patte de curry.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/171.jpg,4,2,2,Équilibre acido-basique,"1 Courgette, coupée en dés
+1 Poivron rouge, coupé en dés
+1 Citron, jus et zeste
+2 cuillère à soupe Huile d'olive
+Sel, au goût
+Poivre, au goût
+200 g Quinoa","Rincez le quinoa sous l'eau froide.
+Coupez la courgette et le poivron en dés.
+Placez le quinoa et les légumes dans la cuve du Thermochef.
+Ajoutez 400 ml d'eau, le zeste et le jus de citron, l'huile d'olive, du sel et du poivre.
+Fermez le couvercle et réglez sur le menu 'riz', mode 1.
+Laissez reposer 5 minutes après la cuisson avant de servir.",160.975,17.48375,3.502,3.2816,7.473500000000001,3.782999999999999,12.28125,25.95875,0.0,0.157025,1.13335,49.292375,0.5122,122.1895,338.81175
+186,Riz rouge aux épinards et aux noix,Plats,"Un plat nutritif et savoureux combinant la richesse du riz rouge avec la fraîcheur des épinards et le croquant des noix, relevé d'une touche d'huile d'olive pour une gourmandise harmonieuse.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/186.jpg,4,2,3,Riz,"4 Filets de saumon
+1 Citron, tranché
+1 bouquet Aneth frais, haché
+Sel, au goût
+Poivre, au goût
+300 ml Eau","Assaisonner les filets de saumon avec du sel, du poivre, et de l'aneth haché.
+Trancher le citron et disposer les tranches sur les filets.
+Placer les filets dans le panier vapeur du Thermochef.
+Ajouter 300 ml d'eau dans la cuve.
+Utiliser le menu pression, couvercle fermé, pression 6 ou 7, puissance 3. Cuire pendant 10 minutes.
+Servir chaud, accompagné de légumes verts ou d'une salade.",324.345,1.26875,35.51125,0.4216,19.11,0.9455000000000001,0.0,65.99575,85.94999999999999,0.127375,1.83385,51.16412500000001,0.6835500000000001,378.8725,750.36725
+197,Terrine de poisson aux épinards,Entrées,"Une terrine de poisson moelleuse avec des épinards, préparée au Thermochef.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/197.jpg,6,3,3,Équilibre acido-basique,"400 g Tofu ferme
+1 Brocoli
+1 Carotte
+1 Poivron rouge
+2 cuillère à soupe Sauce soja
+1 cuillère à soupe Huile de sésame
+Sel, au goût
+Poivre, au goût","Couper le tofu en cubes et les légumes en morceaux.
+Dans un bol, mélanger la sauce soja et l'huile de sésame.
+Mariner le tofu dans ce mélange pendant 10 minutes.
+Utiliser le menu Thermogrill, couvercle ouvert, puissance 3. Faire sauter le tofu et les légumes pendant environ 10 minutes.
+Assaisonner avec du sel et du poivre.
+Servir chaud.",200.92,9.037600000000001,20.4717,5.7904,12.74775,6.52915,0.5762499999999999,177.46525,0.0,0.356585,3.846775,145.190875,1.6517,346.59,825.02225
+198,Cassoulet,Entrées,"Un plat traditionnel du sud-ouest de la France à base de haricots blancs, de saucisse de Toulouse et de cuisses de canard confites.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/198.jpg,6,4,4,Équilibre acido-basique,"400 g Tofu ferme
+1 Courgette, en lanières
+1 Poivron rouge, en lanières
+2 cuillère à soupe Sauce soja
+1 cuillère à soupe Huile de sésame
+Sel, au goût
+Poivre, au goût","Couper le tofu en tranches et les légumes en lanières.
+Dans un bol, mélanger la sauce soja et l'huile de sésame.
+Mariner le tofu dans ce mélange pendant 10 minutes.
+Utiliser le menu Thermogrill, couvercle ouvert, puissance 3. Griller le tofu et les légumes pendant environ 10 minutes de chaque côté.
+Assaisonner avec du sel et du poivre.
+Servir chaud.",204.145,6.43885,15.08295,3.3854,12.09525,2.36665,0.52625,114.84025,0.0,0.287835,2.856775,119.840875,1.1292,251.44,391.77225
+200,Riz rouge mexicain aux haricots,Plats,"Un plat plein de saveurs mexicaines combinant riz rouge et haricots noirs, parfumé au cumin et au piment, et prêt en quelques étapes simples avec le Thermochef.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/200.jpg,4,2,2,Riz,"200 g Riz basmati
+1 Carotte, en petits dés
+1 Courgette, en petits dés
+1 Poivron rouge, en petits dés
+1 Oignon, en petits dés
+Sel, au goût
+Poivre, au goût
+Huile d'olive, au goût","Couper la carotte, la courgette, le poivron et l'oignon en petits dés.
+Dans le Thermochef, utiliser le menu Thermogrill, couvercle ouvert, puissance 3. Faire revenir l'oignon avec un peu d'huile d'olive.
+Ajouter le riz et les légumes, faire revenir pendant 5 minutes.
+Ajouter 1mesure et demi d’eau pour 1 mesure de riz, le sel et le poivre.
+Fermer le couvercle, utiliser le menu riz, mode 3.
+Servir chaud.",97.575,17.9525,2.77575,4.6516,2.1025,3.05175,12.10625,27.26075,0.0,0.09027500000000001,0.4176475,19.3585,0.310425,57.92375,287.796
+202,Riz thaï à l'ananas et au poulet,Plats,"Une combinaison parfaite de riz thaï, de poulet, d'ananas et de légumes, préparée avec des saveurs sucrées, salées et umami.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/202.jpg,4,2,3,Riz,"2 Carottes, coupées en fines lamelles
+1 Courgette, coupée en fines lamelles
+1 Poivron rouge, coupé en fines lamelles
+4 Œufs
+200 ml Crème fraîche
+1 pincée Herbes de Provence
+Sel, au goût
+Poivre, au goût","Coupez les légumes en fines lamelles.
+Battez les œufs avec la crème, herbes, sel et poivre.
+Alternez les couches de légumes et mélange œufs-crème dans un moule à cake.
+Cuisez en mode four vapeur, pression 7, 40 min puissance 3.",170.3716666666667,4.4875,6.054666666666666,3.805233333333334,13.8295,2.709666666666667,0.2241666666666667,66.7555,164.2666666666667,0.06018333333333334,1.010983333333333,16.68525,0.1401333333333333,113.4416666666667,254.9781666666667
+210,Ratatouille,Entrées,"Un mélange de légumes colorés mijotés, parfait pour un repas santé et savoureux.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/210.jpg,4,2,2,Équilibre acido-basique,"250 g Pois chiches secs
+2 Gousses d'ail
+1 Citron, jus
+2 cuillère à soupe Tahini
+375 ml Eau
+1 filet Huile d'olive
+Sel, au goût
+1 pincée Cumin","Mettre les pois chiches dans le Thermochef avec 375 ml d'eau.
+Sélectionner le menu Légumes secs, pression 7.
+Cuire pendant 40 minutes.
+Égoutter et laisser refroidir les pois chiches.
+Mixer les pois chiches avec l'ail, le jus de citron, le tahini, un filet d'huile d'olive, le sel et le cumin.",7.907500000000001,31.37825,14.3579,4.272875,7.81825,9.0445,25.00525,82.45075,0.0,0.5774,4.05605,84.829125,1.499875,235.0425,545.86725
+216,Quiche aux légumes,Entrées,"Une quiche riche et saine remplie de légumes variés, parfaite pour un repas léger.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/216.jpg,6,3,2,Équilibre acido-basique,"12 Champignons de Paris, gros
+1 Échalote
+2 Gousses d'ail
+Persil haché, au goût
+Huile d'olive, au goût
+Sel, au goût
+Poivre, au goût","Nettoyer les champignons et retirer les pieds.
+Hacher finement les pieds des champignons, l'échalote, l'ail et le persil.
+Faire revenir le mélange dans le Thermochef en mode Thermo grill, couvercle ouvert, puissance 3, pendant 5 minutes.
+Farcir les têtes de champignons avec le mélange.
+Placer les champignons farcis dans du Thermochef.
+Cuire au mode thermogrill, couvercle fermé, puissance 3, pendant 10 minutes. pression 2",119.8775,10.40625,11.056775,6.878975000000001,2.380375,8.27,0.0535,40.32325,0.0,1.4561,3.231675,51.26475,0.346675,394.16125,1581.471
+221,Riz noir aux champignons et à la truffe,Plats,"Un délice gastronomique alliant les saveurs riches et terreuses du riz noir avec la sophistication de la truffe, préparé avec le Thermochef.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/221.jpg,4,4,5,Riz,"4 Grosses tomates
+150 g Riz
+1 Oignon, finement haché
+1 Poivron vert, haché finement
+1 Carotte, hachée finement
+1 pincée Herbes de Provence
+Sel, au goût
+Poivre, au goût
+Huile d'olive, au goût","Cuire le riz dans le Thermochef en mode Riz, Mode 2.
+Couper le haut des tomates et évider l'intérieur.
+Hacher finement l'oignon, le poivron et la carotte.
+Faire revenir les légumes dans le Thermochef en mode Thermo grill, couvercle ouvert, puissance 3, pendant 10 minutes.
+Mélanger le riz cuit avec les légumes, le sel, le poivre et les herbes.
+Farcir les tomates avec le mélange.
+Placer les tomates dans la cuve du Thermochef.
+Cuire en mode thermo grill , puissance 3, pendant 12 minutes Pression 3",110.7825,21.27875,3.537,8.045350000000001,2.278,4.1895,10.755,39.67825000000001,0.28125,0.133675,0.6533975,32.0685,0.321675,87.95375,661.346
+227,Riz thaï aux noix de cajou et poulet,Plats,"Un plat complet aux saveurs riches et satisfaisantes comprenant du riz thaï, du poulet et des noix de cajou, le tout rehaussé par la sauce soja.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/227.jpg,4,2,3,Riz,"500 g Épinards, frais
+400 g Tofu, ferme
+1 Oignon
+2 Gousses d'ail
+700 ml Sauce tomate
+Huile d'olive
+Sel, au goût
+Poivre, au goût
+Noix de muscade
+250 g Feuilles de lasagne","Faites chauffer 2 l’eau dans la cuve à 80 degrés menu thermodiet couvercle fermé. Mettre cette eau dans un saladier et mettre les plaques de lasagne à tremper pendant 10 minutes.
+Hacher l'oignon et l'ail. Émietter le tofu.
+Faire revenir l'oignon et l'ail dans le Thermochef en mode Thermo grill, couvercle ouvert, puissance 3, pendant 5 minutes.
+Ajouter les épinards et cuire jusqu'à ce qu'ils réduisent.
+Ajouter le tofu, la noix de muscade, le sel et le poivre.
+Monter les lasagnes en alternant couches de sauce tomate, feuilles de lasagne et mélange épinards-tofu.
+Cuire dans le Thermochef en mode Four vapeur, puissance 2, pression 5 pendant 8 minutes.",315.5016666666667,25.18266666666667,15.02693333333333,8.13115,28.8675,6.535833333333334,10.97016666666667,206.9488333333333,0.5291666666666667,0.4389166666666666,5.583648333333334,152.9219166666667,2.0672,245.7216666666667,1221.128166666667
+245,Riz thaï sauté aux crevettes,Accompagnements,"Un plat thaï classique combinant riz sauté, crevettes, œufs et légumes, préparé avec le Thermochef.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/245.jpg,4,2,3,Riz,"400 g Seitan, en lanières
+1 Poivron rouge, émincé
+1 Poivron vert, émincé
+1 Oignon, émincé
+2 Gousses d'ail
+1 filet Sauce soja
+1 filet Huile d'olive
+Sel, au goût
+Poivre, au goût","Couper le seitan en lanières.
+Émincer les poivrons, l'oignon et l'ail.
+Faire revenir le seitan dans le Thermochef en mode Thermo grill, couvercle ouvert, puissance 3, pendant 5 minutes.
+Ajouter les poivrons, l'oignon, l'ail et un filet de sauce soja.
+Cuire 5 minutes supplémentaires.
+Assaisonner de sel et de poivre.",167.2775,13.994,24.3404,5.3371,3.0075,3.56125,6.5665,42.57325,0.0,0.30475,2.4264725,59.957875,0.9158,137.2075,465.24225
+247,Soupe de pois chiches au cumin,Entrées,"Une délicieuse soupe de pois chiches parfumée au cumin, parfaite pour un repas réconfortant.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/247.jpg,4,2,2,Équilibre acido-basique,"400 g Seitan, coupé en cubes
+200 g Champignons de Paris, émincés
+2 Carottes, coupées en rondelles
+1 Oignon, haché
+2 Gousses d'ail, hachées
+750 ml Vin rouge
+1 pincée Thym
+1 feuille Laurier
+Sel, au goût
+Poivre, au goût","Faire revenir l'oignon et l'ail dans le Thermochef en mode Thermo grill, couvercle ouvert, puissance 3, pendant 5 minutes.
+Ajouter le seitan, les champignons, les carottes, le vin rouge, le thym, le laurier, le sel et le poivre.
+Sélectionner le menu Ragoût, pression 6, puissance 3.
+Cuire pendant 12 minutes.",312.4775,16.59675,22.494575,5.5286,2.94635,3.112,6.16025,52.06075,0.0,0.428325,3.1589725,43.051625,0.932275,157.555,586.58725
+255,Riz complet aux légumes de printemps,Plats,"Un plat sain et coloré parfait pour accueillir la nouvelle saison, alliant riz complet tendre et légumes de printemps.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/255.jpg,4,2,2,Riz,"400 g Seitan, coupé en cubes
+1 Poivron rouge, coupé en dés
+1 Poivron vert, coupé en dés
+1 Oignon, coupé en dés
+2 Gousses d'ail, haché
+50 g Cacahuètes
+4 cuillère à soupe Sauce soja
+2 cuillère à soupe Vinaigre de riz
+1 cuillère à soupe Sirop d'érable
+1 cuillère à café Pâte de piment
+1 Huile d'olive, pour la cuisson","Couper le seitan en cubes.
+Couper les poivrons et l'oignon en dés.
+Hacher l'ail.
+Faire revenir le seitan dans le Thermochef en mode Thermo grill, couvercle ouvert, puissance 3, pendant 5 minutes.
+Ajouter les poivrons, l'oignon, l'ail et les cacahuètes.
+Mélanger la sauce soja, le vinaigre de riz, le sirop d'érable et la pâte de piment pour faire la sauce.
+Ajouter la sauce et cuire 5 minutes supplémentaires.",388.862,18.80135,26.05635,9.07715,34.308,4.7443,7.093999999999999,50.9715,0.0,0.359345,2.3892475,70.727,1.1313,166.97,482.021
+261,Riz complet à la patate douce et cannelle,Plats,"Un plat réconfortant associant la douceur de la patate douce à l'arôme de la cannelle, parfait pour un dîner automnal ou hivernal.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/261.jpg,4,2,2,Riz,"400 g Seitan, en cubes
+1 Oignon
+2 Gousses d'ail
+1 cuillère à soupe Pâte de curry
+400 ml Lait de coco
+Huile d'olive, au goût
+Sel, au goût
+Poivre, au goût","Émincer l'oignon et l'ail.
+Faire revenir l'oignon et l'ail dans le Thermochef en mode Thermo grill, couvercle ouvert, puissance 3, pendant 5 minutes.
+Ajouter le seitan et la pâte de curry, cuire 5 minutes.
+Verser le lait de coco et cuire en mode ragoût, pression 6, puissance 3, pendant 10 minutes. Assaisonner de sel et de poivre.",150.6425,15.29775,24.3624,8.468225,37.5485,10.52425,6.1315,42.49075000000001,0.28125,0.683375,4.002097500000001,53.47975,2.183425,187.065,495.7085
+263,Lasagnes aux épinards et ricotta,Entrées,"Un plat réconfortant alliant pâtes, épinards frais et ricotta avec une touche de fromage râpé.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/263.jpg,6,4,3,Équilibre acido-basique,"400 g Seitan
+1 Oignon, émincé
+2 Gousses d'ail, émincées
+250 g Champignons
+200 ml Crème de soja
+1 cuillère à soupe Moutarde
+Huile d'olive, au goût
+Sel, au goût
+Poivre, au goût
+pincée Paprika","Couper le seitan en lanières.
+Émincer l'oignon, l'ail et les champignons.
+Faire revenir l'oignon et l'ail dans le Thermochef en mode Thermo grill, couvercle ouvert, puissance 3, pendant 5 minutes.
+Ajouter le seitan, les champignons, la moutarde, la crème de soja, le paprika, le sel et le poivre.
+Sélectionner le menu Ragoût, pression 6, puissance 3.
+Cuire pendant 10 minutes.",167.8,11.080375,24.39515,3.81135,11.876,2.676,6.33275,44.322,0.0,0.495725,2.3409725,39.60225,0.82265,163.80875,423.946
+265,Gratin de courgettes au chèvre,Entrées,Un gratin fondant de courgettes avec fromage de chèvre et crème fraîche.,,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/265.jpg,4,2,2,Équilibre acido-basique,"400 g Seitan
+250 g Champignons de Paris
+1 Oignon, émincé
+2 Gousses d'ail, émincées
+200 ml Crème de soja
+Sel, au goût
+Poivre, au goût
+Persil, haché, au goût
+Huile d'olive, pour la cuisson, au goût","Couper le seitan en lanières.
+Émincer l'oignon, l'ail et les champignons.
+Faire revenir l'oignon et l'ail dans le Thermochef en mode Thermo grill, couvercle ouvert, puissance 3, pendant 5 minutes.
+Ajouter le seitan et les champignons, cuire 10 minutes.
+Ajouter la crème de soja, le persil, le sel et le poivre.
+Sélectionner le menu Ragoût, pression 6, puissance 3.
+Cuire pendant 5 minutes supplémentaires.",161.84,10.91375,24.146775,3.735225,11.431625,2.605,6.23975,43.23825,0.0,0.492375,2.2779725,37.83975,0.8253,158.96125,420.096
+295,Riz noir aux champignons et parmesan,Accompagnements,"Un plat riche et savoureux, parfait pour une soirée spéciale ou comme accompagnement gourmet avec riz noir, champignons et parmesan.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/295.jpg,4,3,3,Riz,"1 Carotte, épluchée et coupée en petits dés
+1 Concombre, lavé et coupé en petits dés
+1 Poivron rouge, lavé et coupé en petits dés
+1 Poivron jaune, lavé et coupé en petits dés
+1 Oignon rouge, pelé et coupé en petits dés
+2 cuillère à soupe Huile d'olive
+1 cuillère à soupe Vinaigre balsamique
+Sel, au goût
+Poivre, au goût","Laver et éplucher tous les légumes.
+Couper les légumes en petits dés de taille égale.
+Dans un saladier, mélanger les légumes avec l'huile d'olive, le vinaigre balsamique, du sel et du poivre.
+Laisser mariner au réfrigérateur pendant 30 minutes avant de servir.",105.0375,10.55525,1.8902,8.1496,7.254250000000001,3.28175,1.16,35.58625,0.0,0.07147,0.3600605,23.921125,0.23665,54.8595,390.86175
+310,Riz rouge louisianais aux saucisses,Plats,Un plat principal épicé et fumé de la cuisine louisianaise facile à préparer avec le Thermochef.,,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/310.jpg,4,3,3,Riz,"4 Poitrines de poulet désossées et sans peau
+200 g Épinards frais
+100 g Feta, émiettée
+2 Gousses d'ail, hachées
+Sel, au goût
+Poivre, au goût
+1 filet Huile d'olive","Blanchir les épinards dans de l'eau bouillante pendant 1 minute, puis les égoutter et les hacher grossièrement.
+Mélanger les épinards avec la feta et l'ail. Saler et poivrer.
+Ouvrir les poitrines de poulet en portefeuille et les farcir avec le mélange d'épinards et feta.
+Fermer les poitrines de poulet avec des cure-dents.
+Placer les poitrines de poulet farcies dans un sachet sous vide avec un filet d'huile d'olive.
+Utiliser l'appareil Thermochef vacuum pour mettre le sachet sous vide.
+Remplir la cuve du Thermochef aux 2/3 avec de l'eau.
+Placer le sachet sous vide dans l'eau.
+Fermer le couvercle et régler la température à 65°C.
+Programmer le temps de cuisson pour 1 heure 30 minutes.
+Valider par cuisiner.
+Une fois la cuisson terminée, retirer le sachet du Thermochef.
+Ouvrir le sachet et extraire les poitrines de poulet.
+Pour une finition dorée, utiliser le menu four/plancha du Thermochef à 160°C couvercle ouvert pendant 2 minutes de chaque côté.
+Servir chaud, accompagné de légumes grillés ou d'une salade.",271.14,1.66525,47.3379,0.1961,9.151250000000001,1.33625,0.9702499999999998,119.97825,136.56,0.107725,2.423675,81.832875,0.7098,450.495,896.49225
+313,Asperges vertes à la vinaigrette,Entrées,Des asperges vertes fraîches servies avec une vinaigrette au vinaigre balsamique et huile d'olive.,,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/313.jpg,4,1,3,Équilibre acido-basique,"4 Blancs de poulet
+400 ml Lait de coco
+2 cuillère à soupe Pâte de curry
+1 Oignon, émincé
+2 Gousses d'ail, émincées
+1 morceau Gingembre frais, râpé
+Sel, au goût
+Poivre, au goût
+Huile d'olive, au goût","Préparez vos ingrédients en éminçant l'oignon et l'ail, et en râpant le gingembre.
+Dans un bol, mélangez le lait de coco avec la pâte de curry, l'oignon émincé, l'ail émincé, le gingembre râpé, du sel et du poivre.
+Placez les blancs de poulet dans un sachet sous vide et ajoutez la préparation au lait de coco.
+Utilisez l'appareil Thermochef vacuum pour mettre le sachet sous vide.
+Remplissez la cuve du Thermochef aux 2/3 avec de l'eau.
+Placez le sachet sous vide dans l'eau, fermez le couvercle et réglez la température à 65°C.
+Programmez le temps de cuisson pour 1 heure et validez par cuisiner.
+Une fois la cuisson terminée, retirez le sachet du Thermochef.
+Ouvrez le sachet et servez le poulet nappé de sauce au curry et lait de coco.
+Accompagnez de riz basmati ou de légumes vapeur.",235.1575,9.38025,49.08815,8.01685,38.3045,10.00975,0.52275,31.75575,129.4125,0.5121249999999999,3.1558475,94.676,2.470925,533.7312499999999,1125.921
+333,Carpaccio de betteraves à l'orange,Entrées,"Un plat léger et coloré, combinant la douceur de la betterave et l'acidité de l'orange, assaisonné d'une touche d'huile d'olive.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/333.jpg,4,2,2,Équilibre acido-basique,"200 g Panais, épluché et coupé en morceaux
+200 g Carottes, épluchées et coupées en morceaux
+200 g Navets, épluchés et coupés en morceaux
+2 cuillère à soupe Huile d'olive
+1 Branche de romarin
+Sel, au goût
+Poivre, au goût","Éplucher les légumes racines et les couper en morceaux.
+Dans un sachet sous vide, placer les légumes, l'huile d'olive, le romarin, du sel et du poivre.
+Utiliser l'appareil Thermochef vacuum pour mettre le sachet sous vide.
+Remplir la cuve du Thermochef aux 2/3 avec de l'eau.
+Placer le sachet sous vide dans l'eau.
+Fermer le couvercle et régler la température à 85°C.
+Programmer le temps de cuisson pour 1 heure.
+Valider par cuisiner.
+Une fois la cuisson terminée, retirer le sachet du Thermochef.
+Ouvrir le sachet et verser les légumes dans la cuve du Thermochef.
+Utiliser le menu Thermogrill couvercle ouvert puissance 3 pour faire rôtir les légumes jusqu'à ce qu'ils soient dorés.
+Servir chaud comme accompagnement.",111.6,11.45875,1.6135,7.3016,7.158750000000001,5.06675,0.5449999999999999,64.42125,0.0,0.132525,0.882725,27.261125,0.40245,73.6145,506.76175
+338,Riz rouge créole aux crevettes,Plats,Un plat savoureux qui combine le riz rouge avec des crevettes et des épices créoles cuisinés avec un Thermochef.,,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/338.jpg,4,3,3,Riz,"500 g Tomates cerises
+3 Gousses d'ail, épluchées
+1 branche Thym
+1 branche Romarin
+1 filet Huile d'olive
+Sel, au goût
+Poivre, au goût","Laver les tomates cerises.
+Éplucher les gousses d'ail.
+Dans un sachet sous vide, placer les tomates, l'ail, le thym, le romarin, verser un filet d'huile d'olive, ajouter du sel et du poivre.
+Utiliser l'appareil Thermochef vacuum pour mettre le sachet sous vide.
+Remplir la cuve du Thermochef aux 2/3 avec de l'eau.
+Placer le sachet sous vide dans l'eau.
+Fermer le couvercle et régler la température à 85°C.
+Programmer le temps de cuisson pour 2 heures et valider par l'option cuisiner.
+Une fois la cuisson terminée, retirer le sachet du Thermochef.
+Ouvrir le sachet et servir les tomates confites chaudes ou froides, selon la préférence.",48.2975,7.756,1.9011,6.0286,0.74925,2.046,0.445375,18.75575,0.0,0.0804,0.821775,17.820375,0.2758,44.27,444.42975
+418,Riz thaï aux crevettes et lait de coco,Plats,"Un plat délicieusement parfumé combinant la douceur du lait de coco avec la saveur umami de la sauce de poisson et la fraîcheur des crevettes, facile à préparer avec le Thermochef.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/418.jpg,4,2,3,Riz,"1 Courge butternut, pelée et découpée en dés
+2 Oignons, ciselés en rondelles
+250 g Ricotta
+10 g Beurre","Commencez par peler la courge butternut et l'oignon. Découpez la courge en dés et ciselez l'oignon en rondelles.
+Faites fondre le beurre dans la cuve du Thermochef en utilisant le mode 'thermo grill' (couvercle ouvert, puissance 3) et faites-y suer les oignons pendant quelques minutes.
+Ajoutez ensuite les dés de courge butternut dans la cuve. Versez 1 litre d'eau et programmez le Thermochef sur le mode 'soupe' pour une cuisson de 25 minutes.
+Une fois la cuisson terminée, utilisez un mixeur plongeant pour mixer la soupe dans un autre plat jusqu'à obtenir un velouté lisse.
+Incorporez la ricotta à la soupe mixée et mixez à nouveau pour bien mélanger.
+Servez la soupe bien chaude, en ajustant l'assaisonnement selon votre goût.",18.825,15.7725,7.936249999999999,7.952,10.0075,4.6,6.25,299.195,37.325,0.148825,1.550745,75.17625000000001,0.428795,179.725,821.325
+419,Poulet basmati à la noix de coco et au curry,Plats,"Un plat de poulet aromatisé au curry et lait de coco, servi avec du riz basmati et garni de coriandre fraîche.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/419.jpg,4,3,3,Riz,"1.5 Litre Bouillon de volaille
+100 g Orge perlé
+1 Branche de céleri, émincé
+1 Branche de thym
+1 Grosse échalote, hachée
+3 cuillère à soupe Huile d’olive
+400 g Viande hachée
+1 cuillère à soupe Huile d’olive
+1 cuillère à café Cumin en poudre
+10 Boutons floraux d’ail des ours, pour la soupe
+Boutons floraux d’ail des ours, pour garnir, au goût","Faites tremper l’orge quelques minutes dans l'eau, puis rincez-le soigneusement jusqu'à ce que l'eau soit claire.
+Dans la cuve du Thermochef, faites suer l’échalote hachée avec 3 cuillères à soupe d’huile d’olive en utilisant le mode 'thermo grill' (couvercle ouvert, puissance 3).
+Ajoutez la branche de thym, le céleri émincé, 10 boutons floraux d’ail des ours et l’orge.
+Couvrez de bouillon de volaille, puis programmez le menu 'soupe 1' et réservez.
+Préparez les boulettes de viande : mélangez la viande hachée avec le cumin et formez des petites boulettes.
+Faites dorer les boulettes avec 1 cuillère à soupe d’huile d'olive, menu thermogrill puissance 3, couvercle ouvert, 3 minutes.
+Une fois la soupe et les boulettes prêtes, ajoutez les boulettes à la soupe et laissez-les réchauffer quelques minutes dans la cuve du Thermochef.
+Au moment de servir, ajoutez à la soupe le jus de citron (si désiré) et garnissez avec les boutons floraux d’ail des ours restants.",327.285,11.56775,25.48525,1.64375,19.5145,2.257875,0.13125,53.258,62.0,0.1485,3.981,40.512,0.20455,216.087,550.217
+424,Boeuf bourguignon,Entrées,"Un classique de la cuisine française, le bœuf bourguignon est un plat mijoté riche en saveurs et parfait pour réchauffer les soirées froides.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/424.jpg,6,4,4,Équilibre acido-basique,"1 kg Fèves fraîches
+200 g Haricots rouges
+2 Tomates, écossées, pelées, épépinées et coupées en morceaux
+1 Oignon, pelé et haché
+2 Ail, gousses, pelées et hachées
+500 g Poitrine fumée, coupée en lardons
+1 morceau Couenne de porc
+1 feuille Laurier
+1 brin Thym
+500 ml Vin rouge","Mettre les haricots rouges à tremper dans de l'eau froide pendant 2 heures.
+Écosser les fèves. Blanchissez rapidement les tomates, pelez-les, épépinez-les et coupez-les en morceaux.
+Pelez et hachez l'oignon et l'ail. Coupez la poitrine fumée en petits lardons.
+Tapissez le fond de la cuve avec la couenne. Ajoutez les haricots rouges égouttés, ainsi que les lardons, les tomates, l'oignon, l'ail, la feuille de laurier et le brin de thym.
+Versez le vin rouge et complétez avec de l'eau froide pour que les légumes soient juste recouverts. Salez et poivrez. Programmez le Thermochef sur le mode 'ragoût' (couvercle fermé, pression 6, puissance 2) et faites 45 minutes.
+Ajoutez ensuite les fèves et poursuivez la cuisson couvercle ouvert pour réduire le bouillon pendant 15 minutes supplémentaires.
+Retirez la feuille de laurier et le brin de thym avant de servir. Rectifiez l'assaisonnement si nécessaire.",551.015,17.191,39.28835,4.499333333333333,38.05086666666667,15.7145,10.30466666666667,96.652,40.46666666666666,0.7498166666666667,4.591098333333334,95.72166666666668,1.244483333333333,371.105,1204.445
+449,Riz thaï au tofu et brocoli,Plats,"Un plat complet, sain et délicieux, parfait pour un repas végétarien ou vegan avec des saveurs umami apportées par la sauce soja et l'huile de sésame.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/449.jpg,4,2,2,Riz,"2 tasses Fèves fraîches ou surgelées, pelées
+0.5 tasse Feta, émiettée
+0.25 tasse Huile d'olive extra vierge
+2 cuillère à soupe Jus de citron
+0.25 tasse Menthe fraîche, hachée
+0.25 tasse Persil frais, haché
+Sel, au goût
+Poivre, au goût","Cuisson des fèves: Placez les fèves dans le panier de la cuve du Thermochef avec un 300 ml d'eau. Fermez le couvercle du Thermochef. Sélectionnez le menu légume sec, couvercle fermé. Pression 7, puissance 3, 5 minutes de cuisson. Validez par cuisiner.
+Préparation de la vinaigrette: Dans un grand saladier, mélangez l'huile d'olive, le jus de citron, le sel et le poivre.
+Assemblage de la salade: Une fois les fèves cuites et légèrement refroidies, égouttez-les et ajoutez-les au saladier avec la vinaigrette. Incorporez la feta, la menthe et le persil. Mélangez délicatement.
+Service: Servez la salade de fèves fraîches aux herbes et feta fraîche ou à température ambiante.",190.02375,10.78025,12.4794375,2.9881625,19.7594375,4.813625000000001,0.00675,51.56925,13.2625,0.0221375,0.321975,5.4215625,0.097975,39.25525,44.961875
+468,Mousse d'avocat au saumon fumé,Entrées,"Une mousse d'avocat onctueuse garnie de saumon fumé, idéale pour une entrée raffinée.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/468.jpg,4,3,4,Équilibre acido-basique,"1 tasse Riz arborio
+2 tasses Petits pois, frais ou surgelés
+1 Oignon, moyen, haché
+3 tasses Bouillon de légumes
+0.5 tasse Vin blanc
+0.5 tasse Parmesan, râpé
+2 cuillère à soupe Beurre
+Sel, au goût
+Poivre, au goût","Préparation du risotto: Utilisez le menu thermo grill avec le couvercle ouvert pour faire revenir l'oignon avec une cuillère à soupe de beurre.
+Ajoutez le riz et faites-le nacrer pendant 2 minutes. Déglacez avec le vin blanc.
+Ajoutez le bouillon de légumes chaud et les petits pois. Fermez le couvercle du Thermochef.
+Sélectionnez le menu riz, couvercle fermé. Laissez cuire selon le programme automatique.
+Une fois le programme terminé, incorporez le parmesan râpé et le reste du beurre. Mélangez bien jusqu'à obtenir une consistance crémeuse.
+Assaisonnement: Ajustez l'assaisonnement avec du sel et du poivre selon votre goût.
+Service: Servez le risotto aux petits pois chaud, garni de parmesan supplémentaire si désiré.",285.7876,47.633025,13.80085,6.946949999999999,11.5652,6.048,37.434,178.732,28.50075,0.31755,2.5957725,56.735375,0.94956,261.69375,415.886
+478,Riz thaï à la mangue et au poulet grillé,Plats,"Un plat qui combine des saveurs sucrées, salées et aromatiques dans un mélange coloré.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/478.jpg,4,2,3,Riz,"1 tasse Lentilles corail
+1.5 tasse Eau
+1 Oignon, moyen, haché
+2 Gousses d'ail, émincées
+1 cuillère à soupe Gingembre frais, râpé
+1 cuillère à café Curcuma moulu
+1 cuillère à café Cumin moulu
+0.5 cuillère à café Coriandre moulue
+0.25 cuillère à café Piment de Cayenne, optionnel
+400 g Tomates concassées, en boîte
+Sel, au goût
+Poivre, au goût
+Huile d'olive, pour le menu thermo grill, au goût
+Coriandre fraîche, pour garnir, au goût","Préparation des épices: Utilisez le menu thermo grill avec le couvercle ouvert pour faire revenir l'oignon, l'ail et le gingembre avec un peu d'huile d'olive. Ajoutez le curcuma, le cumin, la coriandre moulue et le piment de Cayenne. Réglez le temps de cuisson à 5 minutes, puissance 3. Validez par cuisiner.
+Ajout des lentilles et des tomates: Ajoutez les lentilles corail et les tomates concassées dans la cuve avec les épices. Ajoutez l'eau.
+Cuisson sous pression: Fermez le couvercle du Thermochef. Sélectionnez le menu légumes secs, couvercle fermé. Réglez la pression sur 5, puissance 1. Programmez 3 minutes de cuisson. Validez par cuisiner.
+Fin de cuisson: Laissez la pression se libérer naturellement avant d'ouvrir le couvercle.
+Assaisonnement: Ajustez l'assaisonnement avec du sel et du poivre selon votre goût.
+Service: Servez le dahl de lentilles corail chaud, garni de coriandre fraîche. Accompagnez de riz basmati ou de pains naans.",38.4775,11.928375,7.015425,3.318149999999999,2.201625,6.38725,7.55525,47.95325,0.0,0.2293875,2.6179725,29.9185,0.7247,91.6025,388.046
+481,Salade de riz basmati à l'orientale,Plats,"Une salade de riz aux saveurs orientales avec des légumes frais, des pois chiches, de la feta et de la coriandre.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/481.jpg,4,2,2,Riz,"1 tasse Pois chiches secs, trempés 4 heures
+3 tasses Eau
+1 Oignon, moyen, haché
+2 Gousses d'ail, émincées
+1 cuillère à soupe Pâte de curry
+1 cuillère à café Cumin, moulu
+1 cuillère à café Coriandre, moulue
+0.5 cuillère à café Curcuma, moulu
+400 g Tomates concassées, en boîte
+Sel, au goût
+Poivre, au goût
+Huile d'olive, pour le menu thermo grill, au goût","Préparation des épices: Utilisez le menu thermo grill avec le couvercle ouvert pour faire revenir l'oignon et l'ail avec un peu d'huile d'olive. Ajoutez la pâte de curry, le cumin, la coriandre et le curcuma. Réglez le temps de cuisson à 5 minutes, puissance 3. Validez par cuisiner pour libérer les arômes des épices.
+Ajout des pois chiches: Égouttez les pois chiches trempés et ajoutez-les dans la cuve avec les épices. Mélangez bien pour enrober les pois chiches d'épices.
+Cuisson sous pression: Ajouter les tomates concassées et l'eau. Fermez le couvercle du Thermochef.
+Réglage du Thermochef: Sélectionnez le menu légumes secs, couvercle fermé. Réglez la pression sur 7, puissance 3. Les pois chiches nécessitent normalement 40 minutes de cuisson, divisez donc le temps par 3, ce qui donne 13 minutes de cuisson. Validez par cuisiner.
+Fin de cuisson: Laissez la pression se libérer naturellement avant d'ouvrir le couvercle. Ajustez l'assaisonnement avec du sel et du poivre selon votre goût.
+Service: Servez les pois chiches épicés au curry chauds, accompagnés de riz basmati ou de naans pour un repas complet.",37.9165,27.0741,11.36375,6.429349999999999,4.729475,8.335,19.2015,77.98825000000001,0.28125,0.419375,3.8664475,72.15975,1.259725,164.6475,631.9884999999999
+485,Riz complet aux pois chiches et aux épices,Plats,"Un plat nutritif et savoureux, parfait pour un repas équilibré et riche en protéines, avec des épices qui ajoutent une profondeur de goût.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/485.jpg,4,2,2,Riz,"800 ml Eau, (pour la cuisson des pâtes)
+400 g Linguines
+300 g Mélange de fruits de mer, (moules, crevettes, calamars)
+2 Citrons, jus et zeste
+2 Gousses d'ail
+1 Échalote
+4 cuillère à soupe Huile d'olive
+Sel, au goût
+Poivre, au goût
+1 branche Persil frais, (pour servir)","Si nécessaire, nettoyez et préparez les fruits de mer.
+Mettez les fruits de mer dans un sachet sous vide avec le jus d'un citron, 2 cuillères à soupe d'huile d'olive, du sel et du poivre.
+Utilisez le menu sous vide à 60°C pour 15 minutes pour une cuisson parfaite qui préserve la tendreté des fruits de mer.
+Une fois cuits, retirez les fruits de mer du sachet et réservez le jus de cuisson.
+Remplissez le Thermochef d'eau jusqu'à couvrir les linguines (environ 800 ml d'eau).
+Ajoutez les linguines dans le Thermochef.
+Sélectionnez le menu pâtes, Mode 3 (cuisson 9 à 10 minutes pour des linguines al dente).
+Une fois la cuisson terminée, égouttez les linguines.
+Pelez et hachez finement l'échalote et l'ail.
+Utilisez le Thermochef avec le menu Thermogrill puissance 3, couvercle ouvert 5 minutes, pour faire revenir l'échalote et l'ail avec 2 cuillères à soupe d'huile d'olive.
+Ajoutez le jus de cuisson des fruits de mer, le jus et le zeste du second citron.
+Laissez mijoter jusqu'à l'obtention d'une sauce légèrement réduite.
+Mélangez les linguines avec la sauce citronnée dans un grand plat de service.
+Disposez les fruits de mer sur le dessus.
+Assaisonnez avec du sel, du poivre et du persil frais haché selon votre goût.
+Servez immédiatement, offrant un équilibre parfait entre la fraîcheur du citron, la tendreté des fruits de mer et la texture al dente des linguines.",407.4775,32.58025,11.113525,2.291475,24.352625,3.8075,21.7715,174.61175,29.245,0.195775,2.5773,41.183125,0.51335,125.2465,281.15625
+490,"Salade de riz complet, feta et olives",Entrées,"Une salade légère et rafraîchissante, parfaite pour un déjeuner d'été ou comme accompagnement lors d'un barbecue.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/490.jpg,4,1,2,Riz,"800 ml Eau, pour la cuisson des nouilles
+400 g Nouilles Soba
+2 Poitrines de poulet, en lanières
+1 Courgette
+1 Carotte
+1 Poivron rouge
+4 cuillère à soupe Sauce soja
+2 cuillère à soupe Miel
+2 cuillère à soupe Vinaigre de riz
+1 Gousse d'ail, émincée
+1 cuillère à café Gingembre frais, râpé
+Graines de sésame, pour garnir, au goût
+Ciboulette ou oignon vert, haché pour garnir, au goût","Coupez les poitrines de poulet en lanières.
+Mettez les lanières de poulet dans un sachet sous vide avec 2 cuillères à soupe de sauce soja.
+Utilisez le menu sous vide à 65°C pour 20 minutes.
+Après cuisson, retirez le poulet du sachet et réservez.
+Remplissez le Thermochef d'eau (environ 800 ml d'eau).
+Programmer le menu pression 5 minutes couvercle ouvert, puissance 3, plongez vos nouilles Soba une fois que l’eau boue dans le Thermochef pendant 2 minutes à 2 minutes 30 secondes maximum.
+Égouttez et rincez les nouilles à l'eau froide. Réservez.
+Dans la cuve, combiner la sauce soja restante, le miel, le vinaigre de riz, l'ail émincé et le gingembre.
+Faites chauffer le menu Thermogrill 10 minutes, puissance 1 et laissez mijoter jusqu'à ce que la sauce épaississe légèrement. Réservez.
+Lavez et coupez la courgette, la carotte et le poivron en lanières ou en dés.
+Utilisez le menu four/plancha du Thermochef à 160 degrés pour faire sauter rapidement les légumes, avec un peu d’huile d’olive en veillant à garder leur croquant. Réservez.
+Dans un grand bol, mélangez les nouilles soba avec les légumes sautés et le poulet.
+Versez la sauce Teriyaki maison sur le mélange et remuez délicatement pour bien enrober tous les ingrédients.
+Servez les nouilles Soba garnies de graines de sésame et de ciboulette ou d'oignon vert haché pour une touche finale de fraîcheur et de croquant.",359.68675,35.1176,27.303575,12.13965,16.0205,3.47505,20.090125,55.09914999999999,64.0,0.15778125,1.971377375,67.9268,0.53635,295.248,595.9275
+495,Riz rouge à l'avocat et tomates cerise,Accompagnements,"Une salade de riz rouge rafraîchissante avec des avocats et des tomates cerise, assaisonnée de jus de citron et d'huile d'olive, idéale pour un déjeuner d'été ou comme accompagnement lors d'un barbecue.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/495.jpg,4,1,2,Riz,"Quelques feuilles Basilic frais
+800 ml Eau, pour la cuisson des pâtes
+400 g Fusilli tricolores
+1 Concombre
+1 Poivron rouge
+10 Radis
+150 g Tomates cerises
+4 cuillère à soupe Pesto, maison ou du commerce
+2 cuillère à soupe Vinaigre balsamique
+4 cuillère à soupe Huile d'olive
+Sel, au goût
+Poivre, au goût","Cuisson des fusilli tricolores: Remplissez le Thermochef d'eau jusqu'à couvrir les fusilli tricolores (environ 800 ml d'eau). Ajoutez les fusilli dans le Thermochef. Sélectionnez le menu pâtes, Mode 3 (cuisson 9 à 10 minutes pour des fusilli al dente). Égouttez les pâtes et rincez-les sous l'eau froide pour arrêter la cuisson. Réservez.
+Préparation des légumes: Lavez et coupez le concombre en demi-lunes, le poivron en lanières, les radis en rondelles et coupez les tomates cerises en deux.
+Préparation de la vinaigrette au pesto: Dans un petit bol, mélangez le pesto, le vinaigre balsamique, l'huile d'olive, du sel et du poivre jusqu'à obtenir une vinaigrette homogène.
+Assemblage de la salade: Dans un grand saladier, mélangez les fusilli tricolores refroidis, les légumes préparés, et versez la vinaigrette au pesto sur le tout. Mélangez délicatement pour que tous les ingrédients soient bien enrobés de vinaigrette.
+Service: Garnissez la salade de feuilles de basilic frais juste avant de servir pour ajouter une touche de couleur et de fraîcheur.",360.6925,35.517375,7.155025,8.193975,19.876875,5.999375,23.22,85.75175,4.0,0.24585,1.536725,49.609375,0.6543749999999999,134.399,647.74375
+499,Riz basmati aux amandes et raisins secs,Accompagnements,"Un plat d'accompagnement simple et élégant qui combine la douceur des raisins secs avec le croquant des amandes grillées, le tout enrichi par le beurre.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/499.jpg,4,1,2,Riz,"Eau, pour la cuisson des lentilles, au goût
+800 ml Eau, pour la cuisson des pâtes
+400 g Pâtes, de votre choix (spaghetti, rigatoni, etc.)
+200 g Lentilles vertes, rincées
+1 Carotte, finement hachée
+1 branche Céleri, finement haché
+1 Oignon, finement haché
+2 Gousses d'ail, émincées
+400 g Tomates concassées, en conserve
+2 cuillère à soupe Concentré de tomate
+1 cuillère à café Herbes de Provence
+1 feuille Laurier
+3 cuillère à soupe Huile d'olive
+Sel, au goût
+Poivre, au goût
+Parmesan végétal ou traditionnel, râpé pour servir, au goût
+1 verre Vin rouge, optionnel","Préparation de la sauce bolognaise de lentilles : Faites chauffer le menu Thermogrill 10 minutes, puissance 3, mettez l'huile d'olive.
+Ajoutez l'oignon, la carotte, le céleri, et l'ail. Faites-les revenir jusqu'à ce qu'ils soient tendres.
+Incorporez les lentilles, puis ajoutez les tomates concassées, le concentré de tomate, les herbes de Provence, la feuille de laurier, et le vin rouge si utilisé.
+Couvrez avec de l'eau (1 verre d'eau pour ¼ de verre de lentille), programmer légumes , 7 minutes puissance 2, pression 6.
+Assaisonnez avec du sel et du poivre selon votre goût.
+Cuisson des pâtes : Remplissez le Thermochef d'eau jusqu'à couvrir les pâtes (environ 800 ml d'eau).
+Ajoutez les pâtes dans le Thermochef.
+Sélectionnez le menu pâtes, Mode 3 (cuisson 9 à 10 minutes ou selon les instructions du paquet) pour que les pâtes soient al dente.
+Égouttez les pâtes et réservez-les.
+Assemblage et finition : Mélangez les pâtes égouttées avec la sauce bolognaise de lentilles. Assurez-vous que les pâtes soient bien enrobées de sauce.
+Service : Servez les pâtes à la bolognaise de lentilles chaudes, garnies de parmesan râpé et d'un filet d'huile d'olive extra vierge si désiré.",388.185,43.64675,12.182425,5.556349999999999,12.2509,9.145,29.869,119.50275,3.6525,0.3547,3.3350975,57.239,0.8059499999999999,206.02925,595.194
+512,Riz complet à la courge et au thym,Plats,"Plat principal alliant la saveur du thym au goût sucré de la courge et la texture ferme du riz complet, idéal pour un dîner sain.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/512.jpg,4,2,2,Riz,"800 ml Eau, pour la cuisson des pâtes
+400 g Tagliatelle
+300 g Filets de saumon, sans peau
+200 g Asperges fraîches, extrémités dures enlevées et coupées en tronçons
+2 cuillère à soupe Huile d'olive
+1 Citron, jus et zeste
+1 Gousse d'ail, émincée
+Sel, au goût
+Poivre, au goût
+1 portion Crème fraîche ou fromage frais, optionnel, pour la sauce
+1 portion Brins d'aneth frais, pour garnir","Remplissez le Thermochef d'eau jusqu'à couvrir les tagliatelles (environ 800 ml d'eau).
+Ajoutez les tagliatelles dans le Thermochef.
+Sélectionnez le menu pâtes, Mode 3 (cuisson 9 à 10 minutes ou selon les instructions du paquet) pour que les tagliatelles soient al dente.
+Égouttez les pâtes et réservez-les.
+Séchez le bol du Thermochef, puis réglez-le sur le menu thermo grill à puissance 2, avec le couvercle ouvert.
+Ajoutez 1 cuillère à soupe d'huile d'olive, l'ail émincé et les tronçons d'asperges. Faites-les revenir brièvement jusqu'à ce qu'ils soient légèrement tendres.
+Assaisonnez les filets de saumon avec du sel et du poivre, puis ajoutez-les dans le Thermochef à côté des asperges.
+Faites cuire le saumon environ 3-4 minutes de chaque côté, ou jusqu'à ce qu'il soit cuit à votre convenance.
+Retirez le saumon et les asperges, et gardez-les au chaud.
+Dans le Thermochef, combinez délicatement les tagliatelles égouttées, le saumon émietté, et les asperges.
+Si vous utilisez de la crème fraîche ou du fromage frais, ajoutez-le maintenant pour créer une sauce légère. Utilisez un peu d'eau de cuisson des pâtes pour ajuster la consistance de la sauce.
+Zestez le citron au-dessus des pâtes et ajoutez un filet de jus de citron. Mélangez bien pour combiner tous les ingrédients.
+Servez les tagliatelles au saumon et asperges immédiatement, garnies d'aneth frais haché et d'un supplément de zeste de citron si désiré.",502.2875,34.87825,25.452575,2.1281,28.92975,3.889,17.577625,81.00375,98.52499999999999,1.1145125,2.269325,53.887375,1.209125,325.237,537.58675
+515,Tartelettes aux légumes et chèvre,Entrées,"Des tartelettes savoureuses avec des courgettes, des tomates et du fromage de chèvre, rehaussées d'herbes de Provence.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/512.jpg,6,4,3,Équilibre acido-basique,"800 ml Eau, pour la cuisson des raviolis
+12 feuilles Feuilles de sauge, fraîche
+400 g Raviolis aux champignons sauvages
+100 g Beurre
+2 Gousses d'ail, émincées
+Sel, au goût
+Poivre noir, au goût
+Parmesan, râpé pour servir, au goût","Remplissez le Thermochef d'eau jusqu'à atteindre environ 800 ml, ajoutez une pincée de sel et portez à ébullition, programmez le menu thermogrill couvercle fermé 1 minute puissance 3. Après ajouter 5 minutes de cuisson, couvercle ouvert, puissance 3.
+Ajoutez les raviolis et cuisez selon les instructions du paquet, généralement environ 2 à 4 minutes pour des raviolis frais jusqu'à ce qu'ils soient al dente.
+Égoutter les raviolis et réservez, en gardant un peu d'eau de cuisson.
+Videz l'eau des raviolis du Thermochef. Réglez-le sur le menu thermo grill à puissance 2, couvercle ouvert 10 minutes.
+Ajoutez le beurre dans le Thermochef pour le faire fondre.
+Une fois le beurre fondu et commencer à mousser, ajoutez l'ail émincé et les feuilles de sauge.
+Laissez le beurre infuser avec l'ail et la sauge jusqu'à ce qu'il commence à prendre une couleur légèrement dorée, ce qui devrait prendre environ 2 à 3 minutes. Faites attention à ne pas brûler l'ail.
+Ajoutez délicatement les raviolis égouttés au Thermochef avec la sauce au beurre et à la sauge.
+Mélangez doucement pour enrober les raviolis de sauce. Si la sauce semble trop épaisse, ajoutez avec un peu d'eau de cuisson des raviolis.
+Servez immédiatement les raviolis aux champignons sauvages en sauce au beurre et à la sauge, garnis de parmesan râpé et d'un tour de poivre noir.",369.991,32.6321,6.945399999999999,0.23635,22.84125,1.86125,17.51575,61.34825,76.88250000000001,1.033875,1.299675,24.815375,1.09875,113.855,98.04225
+517,Tartare d'avocat et crevettes,Entrées,"Un mélange frais et savoureux d'avocats en dés et de crevettes cuites, assaisonné de citron et d'huile d'olive.",,,https://zyllio.github.io/zyllio-samples/recipies/recipies/images/517.jpg,4,2,4,Équilibre acido-basique,"800 ml Eau, pour la cuisson des raviolis
+400 g Pâtes, de votre choix (par exemple, fettuccine, penne)
+2 Poitrines de poulet, coupées en lanières
+2 cuillère à soupe Assaisonnement Cajun
+1 cuillère à soupe Huile d'olive
+1 Oignon, petit, finement haché
+2 gousses Ail, émincées
+200 ml Crème épaisse
+1 Poivron, rouge ou vert, coupé en lanières
+Sel, au goût
+Poivre, au goût
+Persil frais, haché pour la garniture, au goût
+Parmesan râpé, pour servir, au goût","Remplissez la cuve du Thermochef d'eau jusqu'à couvrir les pâtes (environ 800 ml d'eau).
+Sélectionnez le menu pâtes, ajusté pour une cuisson de 9 à 10 minutes pour que les pâtes soient al dente.
+Égouttez les pâtes et rincez sous l'eau froide pour arrêter la cuisson. Réservez.
+Assaisonnez les lanières de poulet avec l'assaisonnement Cajun.
+Réglez le Thermochef sur le mode thermo grill, 10 minutes à puissance 3, couvercle ouvert.
+Ajoutez l'huile d'olive et les lanières de poulet assaisonnées. Faites cuire jusqu'à ce que le poulet soit doré et bien cuit, environ 5 minutes de chaque côté. Retirez le poulet et réservez.
+Dans le même Thermochef, ajoutez l'oignon et l'ail. Faites revenir jusqu'à ce qu'ils soient translucides.
+Ajoutez le poivron et continuez à faire revenir quelques minutes.
+Versez la crème épaisse et laissez mijoter jusqu'à obtenir une sauce onctueuse.
+Remettez le poulet dans le Thermochef, mélangez avec la sauce et ajustez l'assaisonnement avec du sel et du poivre.
+Incorporer les pâtes égouttées à la sauce et au poulet dans le Thermochef.
+Si nécessaire, ajoutez un peu d'eau de cuisson réservée pour détendre la sauce.
+Mélangez délicatement pour que les pâtes soient bien enrobées de sauce.
+Servez les pâtes Cajun au poulet crémeux garni de persil frais haché et de parmesan râpé.",478.5375,30.27625,28.171125,4.186225,28.297125,4.6505,22.12575,104.32725,115.0525,0.227475,1.5615225,55.15075,0.456275,314.95475,437.652
