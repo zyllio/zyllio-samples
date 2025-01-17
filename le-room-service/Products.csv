@@ -1,80 +1,80 @@
 Name,Description,Image,Category,Price,Currency,PriceId
-Coca-Cola 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/coca cola.png,Boissons softs canette,2,EUR,
-Coca-Cola Cherry 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/coca cola cherry.png,Boissons softs canette,2,EUR,
-Coca-Cola zero sucres 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/coca zero.png,Boissons softs canette,2,EUR,
-Fanta Orange 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/fanta orange.png,Boissons softs canette,2,EUR,
-Orangina 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/orangina.png,Boissons softs canette,2,EUR,
-Ice tea Pêche 33 cl,TVA à 10% inclus,,Boissons softs canette,2,EUR,
-Minute Maid Pomme 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/minute maid pomme.png,Boissons softs canette,2,EUR,
-Minute Maid Orange 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/minute maid orange.png,Boissons softs canette,2,EUR,
-Minute Maid Tropical 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/minute tropical.png,Boissons softs canette,2,EUR,
-Docteur Pepper 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/dr pepper.jpg,Boissons softs canette,2.5,EUR,
-Canada Dry 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/canada dry.jpg,Boissons softs canette,2.5,EUR,
-Red Bull 25 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/red bull.png,Boissons softs canette,3.5,EUR,
-Häagen Dazs 100 ml - Macadamia,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen daz 100ml.jpg,Glaces,6,EUR,
-Häagen Dazs 100 ml - Praline cream,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen daz 100ml.jpg,Glaces,6,EUR,
-Häagen Dazs 100 ml - Dulce de leche,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen daz 100ml.jpg,Glaces,6,EUR,
-Häagen Dazs 100 ml - Vanille caramel brownie,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen daz 100ml.jpg,Glaces,6,EUR,
-Häagen Dazs 500 ml - Macadamia,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen 500.jpg,Glaces,12,EUR,
-Häagen Dazs 500 ml - Praline cream,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen 500.jpg,Glaces,12,EUR,
-Häagen Dazs 500 ml - Dulce de leche,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen 500.jpg,Glaces,12,EUR,
-Häagen Dazs 500 ml - Vanille caramel brownie,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen 500.jpg,Glaces,12,EUR,
-Häagen Dazs 500 ml - Biscuit speculos,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen 500.jpg,Glaces,12,EUR,
-"Coca-Cola 1,25L",TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs/coca 1.25.png,Boissons softs,4,EUR,
-"Coca-Cola Zero 1,25L",TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs/coca zero 1.25.png,Boissons softs,4,EUR,
-"Fanta Orange 1,5L",TVA à 10% inclus,,Boissons softs,4,EUR,
-"Sprite Citron - Citron Vert 1,25 L",TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs/sprite 1.25.jpg,Boissons softs,4,EUR,
-"Schweppes Agrum' 1,5L",TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs/schweppes agrumes 1.5.png,Boissons softs,5,EUR,
-Schweppes Tonic 1.5L,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs/schweppes tonic 1.5.png,Boissons softs,5,EUR,
-Oasis Tropical 2L,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs/oasis 2 l.png,Boissons softs,5,EUR,
-Pack Heineken 6x25cl,TVA à 20% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/bieres/HEINEKEN PAR 6.png,Bières,12,EUR,
-Heineken 25 cl,TVA à 20% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/bieres/heineken 25cl.jpg,Bières,3,EUR,
-Corona 33 cl,TVA à 20% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/bieres/corona.jpg,Bières,4,EUR,
-Smirnoff Ice 27.5 cl,TVA à 20% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/bieres/smirnoff ice.png,Bières,4,EUR,
-Asahi 50 cl,TVA à 20% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/bieres/asa.jpg,Bières,4,EUR,
+Coca-Cola 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/coca cola.png,Boissons softs canette,2,EUR,0001
+Coca-Cola Cherry 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/coca cola cherry.png,Boissons softs canette,2,EUR,0002
+Coca-Cola zero sucres 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/coca zero.png,Boissons softs canette,2,EUR,0003
+Fanta Orange 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/fanta orange.png,Boissons softs canette,2,EUR,0004
+Orangina 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/orangina.png,Boissons softs canette,2,EUR,0005
+Ice tea Pêche 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/Ice Tea Pêche 33cl.png,Boissons softs canette,2,EUR,0006
+Minute Maid Pomme 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/minute maid pomme.png,Boissons softs canette,2,EUR,0007
+Minute Maid Orange 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/minute maid orange.png,Boissons softs canette,2,EUR,0008
+Minute Maid Tropical 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/minute tropical.png,Boissons softs canette,2,EUR,0009
+Docteur Pepper 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/dr pepper.jpg,Boissons softs canette,2.5,EUR,0010
+Canada Dry 33 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/canada dry.jpg,Boissons softs canette,2.5,EUR,0011
+Red Bull 25 cl,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs-canette/red bull.png,Boissons softs canette,3.5,EUR,0012
+Häagen Dazs 100 ml - Macadamia,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen daz 100ml.jpg,Glaces,6,EUR,0013
+Häagen Dazs 100 ml - Praline cream,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen daz 100ml.jpg,Glaces,6,EUR,0014
+Häagen Dazs 100 ml - Dulce de leche,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen daz 100ml.jpg,Glaces,6,EUR,0015
+Häagen Dazs 100 ml - Vanille caramel brownie,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen daz 100ml.jpg,Glaces,6,EUR,0016
+Häagen Dazs 500 ml - Macadamia,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen 500.jpg,Glaces,12,EUR,0017
+Häagen Dazs 500 ml - Praline cream,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen 500.jpg,Glaces,12,EUR,0018
+Häagen Dazs 500 ml - Dulce de leche,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen 500.jpg,Glaces,12,EUR,0019
+Häagen Dazs 500 ml - Vanille caramel brownie,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen 500.jpg,Glaces,12,EUR,0020
+Häagen Dazs 500 ml - Biscuit speculos,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/glaces/haagen 500.jpg,Glaces,12,EUR,0021
+"Coca-Cola 1,25L",TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs/coca 1.25.png,Boissons softs,4,EUR,0022
+"Coca-Cola Zero 1,25L",TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs/coca zero 1.25.png,Boissons softs,4,EUR,0023
+"Fanta Orange 1,5L",TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs/Fanta Orange 1.5l.png,Boissons softs,4,EUR,0024
+"Sprite Citron - Citron Vert 1,25 L",TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs/sprite 1.25.jpg,Boissons softs,4,EUR,0025
+"Schweppes Agrum' 1,5L",TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs/schweppes agrumes 1.5.png,Boissons softs,5,EUR,0026
+Schweppes Tonic 1.5L,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs/schweppes tonic 1.5.png,Boissons softs,5,EUR,0027
+Oasis Tropical 2L,TVA à 10% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/boissons-softs/oasis 2 l.png,Boissons softs,5,EUR,0028
+Pack Heineken 6x25cl,TVA à 20% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/bieres/HEINEKEN PAR 6.png,Bières,12,EUR,0029
+Heineken 25 cl,TVA à 20% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/bieres/heineken 25cl.jpg,Bières,3,EUR,0030
+Corona 33 cl,TVA à 20% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/bieres/corona.jpg,Bières,4,EUR,0031
+Smirnoff Ice 27.5 cl,TVA à 20% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/bieres/smirnoff ice.png,Bières,4,EUR,0032
+Asahi 50 cl,TVA à 20% inclus,https://zyllio.github.io/zyllio-samples/le-room-service/products/bieres/asa.jpg,Bières,4,EUR,0033
 Muscadet Sèvre et Maine Michel Laurent 75 cl,"Robe jaune doré pâle. Fraîcheur citronnée au nez souligné de saveurs florales et fruits blancs. La bouche est droite et nette, bien balancée par une noble acidité rafraîchissante et de bon aloi. La chair vineuse est bien définie assurant gourmandise, tension minérale et surtout équilibre ! Ensemble croquant, tonique et savoureux ! Servir vers 10° sur fruits de mer, poissons et coquillages
 
 TVA à 20% inclus
-",,Vins blancs,16,EUR,
+",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-blancs/Muscadet Sèvre et Maine.jpeg,Vins blancs,16,EUR,0034
 Sauvignon Vigne Antique 75cl,"Vin intense et équilibré, avec une finale acidulée sur des arômes de fruits frais très prononcés. Cépages : Sauvignon Robe jaune très pâle aux reflets brillants. Arômes intenses de fruits exotiques. Attaque vive et rafraîchissante. Température de service : 10° - 12°
 
-TVA à 20% inclus",,Vins blancs,17,EUR,
+TVA à 20% inclus",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-blancs/Sauvignon Vigne Antique.jpeg,Vins blancs,17,EUR,0035
 Chardonnay Maison Ventenac Préjugés 75 cl,"Robe jaune doré, brillance. Nez gourmand et enjôleur, fruits blancs finement agrumés, touches de pêches, nuances d'un boisé brioché adroitement vanillé. Un joli gras bien enrobé, de l'onctuosité, du punch et un ciselé gourmand. L'ensemble équilibré et croquant se révèle d'une tension et d'une minéralité exemplaires !! Longue finale noisettes et amandes. Chardonnay bien balancé et judicieusement vinifié, du très beau boulot !! Respect ! Servir vers 10/11° sur crustacés, poissons grillés, fromages gras
 
-TVA à 20% inclus",,Vins blancs,19,EUR,
+TVA à 20% inclus",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-blancs/Chardonnay Maison Ventenac Préjugés.jpeg,Vins blancs,19,EUR,0036
 Côte du Rhône Style blanc 75 cl,"Robe jaune clair et limpide, légers reflets émeraude. Le nez est assez timide. En bouche, beaucoup de gras à l'attaque, de petits goûts d'amande blanche, un peu fenouil, un soupçon de iodé, fruits blancs autour. Un joli blanc joyeux et convivial. Servir vers 10/12° dans la jeunesse. Dégusté en janvier 2018
 
-TVA à 20% inclus",,Vins blancs,20,EUR,
+TVA à 20% inclus",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-blancs/Côte du Rhone Style Blanc.jpeg,Vins blancs,20,EUR,0037
 "Sancerre, Domaine Franck Millet (Loire) 75cl","Issu à 100% du Sauvignon, ce Vin blanc de Loire possède les saveurs typiques de son terroir.Le VinSa robe est d'un jaune d'or pâle, limpide et brillant. Il offre des parfums de fruits exotiques, d'agrumes et de fruits blancs sur de délicates notes florales. Sa fraîcheur et sa vivacité entrent en complète harmonie avec sa souplesse et sa rondeur. Une longue finale permet d'apprécier pleinement la perfection de sa personnalité.
 
-TVA à 20% inclus",,Vins blancs,28,EUR,
+TVA à 20% inclus",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-blancs/Sancerre Domaine Franck Millet.jpeg,Vins blancs,28,EUR,0038
 Petit Chablis Domaine Millet 75cl,"Vin fin et élégant qui présente des notes de fruits exotiques. Cépages : Chardonnay Une robe or pâle aux reflets turquoise. Le bouquet présente des notes végétales et des notes gourmandes et exotiques d'ananas et de poire. Rond et frais. Température de service : 10 et 12°
 
-TVA à 20% inclus",,Vins blancs,29,EUR,
+TVA à 20% inclus",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-blancs/Petit Chablis Domaine Millet.jpeg,Vins blancs,29,EUR,0039
 Bordeaux Jean Degave 75cl,"Vin harmonieux et gourmand, issu de raisins cultivé en agriculture biologique. Cépages : Merlot, Cabernet franc Robe pourpre. Nez élégant aux arômes de fruits rouges et noirs et de réglisse. Ample et riche, final rond. Température de service : 16-18°C
 
-TVA à 20% inclus",,Vins rouges,17,EUR,
+TVA à 20% inclus",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-rouges/Bordeaux Jean Degave 75cl.jpeg,Vins rouges,17,EUR,0040
 Cahors Château de Gaudou 75 cl,"Jolie robe profonde et dense aux reflets grenat. Le nez fin et discret nous aguiche par ses jolies petites notes végétales, herbes fraîches. La bouche est présente avec des tanins riches et soyeux. Le fruit noir est dominant, l'ensemble possède une belle maturité et nous offre une finale digeste. Un Gaudou 2014 en grande forme qui nous ravira vers 16° sur de l'agneau de pays.
 
-TVA à 20% inclus",,Vins rouges,19,EUR,
+TVA à 20% inclus",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-rouges/Cahors Château de Gaudou 75 cl.jpeg,Vins rouges,19,EUR,0041
 Brouilly André Vonnier Rouge 75cl,"Robe grenat violace. Nez complexe depices douces, de pivoines et de beaux fruits rouges. Ah Gamay, quand tu nous tiens ! Bouche ronde toute docile et fraiche soulignee de tanins deja fondus et genereux. Ici Beaujolais de finesse et de precision faÃ§on bouquet de fleurs. Parfums races perceptibles et finale fraiche et acidulee sur de petits fruits a noyaux. Superbe ! Servir vers 16Â° des laube sur tout un repas.
 
-TVA à 20% inclus",,Vins rouges,24,EUR,
+TVA à 20% inclus",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-rouges/Brouilly André Vonnier Rouge 75cl.jpeg,Vins rouges,24,EUR,0042
 Les Hauts de Malydure Saint-Emilion 75cl,"Un vin puissant et charpenté aux notes de fruits mûrs. Cépages : Merlot, Cabernet sauvignon, Cabernet franc Robe à la couleur pourpre. Arômes de fruits rouges, violettes et poivre. Température de service : 16-18°C.
 
-TVA à 20% inclus",,Vins rouges,29,EUR,
+TVA à 20% inclus",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-rouges/Les Hauts de Malydure Saint-Emilion 75cl.jpeg,Vins rouges,29,EUR,0043
 Château du Taillan Haut-Médoc 75cl,"Vin souple et corsé. Cépages : Merlot, Cabernet sauvignon, Cabernet franc Robe rubis intense. Le bouquet exhale des arômes de fruits des bois et de cassis mais aussi des notes de grains de café, de tabac, de cuir et d'expresso. Moyennement corsé, doté d'un équilibre parfait entre des tanins bien intégrés et une délicate acidité. La longue finale met en avant une dimension fruitée avec des notes de violette et de réglisse. Température de service : 16-18°C.
 
-TVA à 20% inclus",,Vins rouges,34,EUR,
+TVA à 20% inclus",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-rouges/Château du Taillan Haut-Médoc 75cl.jpeg,Vins rouges,34,EUR,0044
 Ventoux Terre et Ambre Armand Dartois 75 cl,"Notre sélection arbore une robe grenat sombre, intense aux reflets jeunes. Vous découvrirez au nez un bouquet gourmand et frais de fruits rouges et noirs mêlés de petites épices. En bouche, c'est un vin friand et franc, à la chair fruitée et à la texture vineuse terriblement gouleyante ! Les petits tanins et la fraîcheur se disputent l'équilibre tandis que les fruits noirs et la garrigue nous vendent du plaisir ! Ensemble juteux, délicieux, l'archétype du vin convivial au service de notre appétit ! Servir vers 16°, accompagné de charcuterie, de viande rouge ou d'un gibier à plumes.
 
-TVA à 20% inclus",,Vins rosés,15,EUR,
+TVA à 20% inclus",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-roses/Ventoux Terre et Ambre Armand Dartois 75 cl.jpeg,Vins rosés,15,EUR,0045
 Côtes-de-Provence Cuvée Marafiance Château Cavalier 75 cl,"Robe rose saumoné aux reflets orangés. Le nez est croquant et juteux rappelant l'abricot, la pêche jaune, la mandarine, la mangue. Délicieux ! En bouche, de la rondeur et de la pulpe de fruit, un léger gras bien équilibré. La chair est bien vineuse et complexe assurant une superbe tenue à table !! De fines touches d'épices douces apparaissent ensuite pour le punch et la structure. Ensemble gourmand et dynamique, à déguster dès à présent vers 10° sur tout un repas. Parfait !
 
-TVA à 20% inclus",,Vins rosés,19,EUR,
+TVA à 20% inclus",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-roses/Côtes-de-Provence Cuvée Marafiance Château Cavalier 75 cl.jpeg,Vins rosés,19,EUR,0046
 Estandon Côtes de Provence 75cl,"Vin de l'été. Cépages : Cinsault, Grenache , Syrah Robe rose pâle et cristalline. Le nez est fin et tendre, avec un beau bouquet floral. En bouche, une matière ronde, élégante et soyeuse de belle persistance, à la fois fraîche et équilibrée, nous charme. Température de service : 10°.
 
-TVA à 20% inclus",,Vins rosés,24,EUR,
+TVA à 20% inclus",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-roses/Estandon Côtes de Provence 75cl.jpeg,Vins rosés,24,EUR,0047
 M de Minuty Côtes de Provence 75cl,"Vin rosé gourmand et frais. Cépages : Grenache Robe légère et brillante. Nez très intense d'arômes gourmands d'écorces d'orange et de groseille. Souple avec une belle fraîcheur acidulée. Température de service : 8° à 10°.
 
-TVA à 20% inclus",,Vins rosés,33,EUR,
+TVA à 20% inclus",https://zyllio.github.io/zyllio-samples/le-room-service/products/vins-roses/M de Minuty Côtes de Provence 75cl.jpeg,Vins rosés,33,EUR,0048
