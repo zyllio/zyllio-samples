@@ -1,0 +1,11 @@
+﻿Titre intervention,Salle concernée,Technicien assigné,Type intervention,Priorité,Statut,Date prévue,Date réalisée,Description problème,Compte-rendu,Durée estimée,Durée réelle
+Projecteur image instable,Le Grand Rex,Karim Benali,Panne,Urgente,Planifiée,2026-06-06,,Image instable pendant les projections du soir,,2,
+Contrôle système son,Olympia,Sophie Martin,Maintenance,Normale,Planifiée,2026-06-07,,Vérification complète de la console son et des enceintes,,3,
+Remplacement câble réseau,Halle Tony Garnier,Mehdi Laurent,Panne,Haute,En cours,2026-06-04,,Perte intermittente de connexion réseau en régie,Diagnostic en cours sur baie réseau,2,1
+Vérification tableau électrique,Théâtre Mogador,Claire Dubois,Contrôle,Normale,Terminée,2026-06-01,2026-06-01,Contrôle préventif du tableau électrique principal,Aucun défaut détecté,2,2
+Réglage projecteur principal,Accor Arena,Antoine Moreau,Maintenance,Haute,Planifiée,2026-06-08,,Réglage luminosité et alignement du projecteur principal,,4,
+Calibration système audio,L'Aéronef,Nadia Petit,Maintenance,Normale,À planifier,2026-06-10,,Équilibrage audio avant événement live,,3,
+Intervention baie technique,Arkéa Arena,Julien Robert,Panne,Urgente,Planifiée,2026-06-05,,Alertes répétées sur équipements réseau salle principale,,2,
+Contrôle alimentation scène,Le Dôme,Fatima Leroy,Contrôle,Haute,Planifiée,2026-06-09,,Vérification alimentation électrique avant spectacle,,3,
+Maintenance cabine projection,Le Grand Rex,Karim Benali,Maintenance,Normale,Terminée,2026-05-28,2026-05-28,Maintenance mensuelle cabine projection,Nettoyage et vérification effectués,2,2
+Incident micro HF,Olympia,Sophie Martin,Panne,Haute,Terminée,2026-05-30,2026-05-30,Coupures intermittentes sur micro HF pendant répétition,Fréquence changée et test validé,1,1.5
