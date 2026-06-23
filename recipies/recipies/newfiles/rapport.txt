@@ -1,0 +1,49 @@
+Rapport de verification des recettes audio manquantes
+Date : 2026-06-23
+
+Contexte
+- Analyse du fichier `recipies/recipies/Recettes audio.csv`
+- Verification des donnees presentes dans :
+  - `recipies/recipies/newfiles/catalogue_recettes_audio_ingredients_etendu.json`
+  - `recipies/recipies/newfiles/catalogue_45_legumes_vapeur_thermochef.json`
+  - `recipies/recipies/900 Recettes.csv`
+  - `recipies/recipies/900 Recettes simplifiees.csv`
+  - anciens CSV dans `recipies/_oldies`
+
+Resume
+- Une premiere passe faisait ressortir 6 recettes comme manquantes.
+- Apres verification ciblee, 2 de ces 6 recettes ont bien ete retrouvees.
+- Il reste 4 recettes vraisemblablement absentes des sources JSON exploitees.
+
+Recettes retrouvees apres verification
+1. `Creme dessert chocolatee au thermochef`
+   - Retrouvee dans `catalogue_recettes_audio_ingredients_etendu.json`
+   - Retrouvee aussi dans `900 Recettes.csv`
+   - Retrouvee aussi dans `900 Recettes simplifiees.csv`
+   - Donnees disponibles : description + ingredients
+
+2. `Legumes, seitan, persil et menthe facon thermochef`
+   - Retrouvee dans `catalogue_recettes_audio_ingredients_etendu.json`
+   - Intitule present dans le JSON : `LEGUMES, SEITAN, PERSIL & MENTHE FACON THERMOCHEF`
+   - Donnees disponibles : ingredients
+
+Recettes encore manquantes a ce stade
+1. `Diots de savoie aux pommes de terre au thermochef`
+2. `Farfalles poulet pesto tout-en-un au thermochef`
+3. `Ratatouille en deux temps au thermochef`
+4. `Saucisses fumees aux lentilles au thermochef`
+
+Constat pour ces 4 recettes
+- Elles sont presentes dans `Recettes audio.csv`
+- Elles apparaissent aussi dans les anciens fichiers CSV audio de `recipies/_oldies`
+- Elles n'ont pas ete retrouvees avec des ingredients exploitables dans les fichiers JSON de `newfiles`
+- Elles n'ont pas ete retrouvees non plus dans `900 Recettes.csv` ou `900 Recettes simplifiees.csv` sous leur nom exact
+
+Nuances
+- `Ratatouille en deux temps au thermochef` a une recette voisine dans les JSON : `RATATOUILLE FACON THERMOCHEF`, mais ce n'est pas le meme intitule.
+- `Farfalles poulet pesto tout-en-un au thermochef` a des recettes proches de type one pot pasta, mais pas de correspondance exacte trouvee.
+- `Diots de savoie aux pommes de terre au thermochef` et `Saucisses fumees aux lentilles au thermochef` n'ont pas ete retrouvees avec des ingredients dans les catalogues verifies.
+
+Conclusion
+- Les 4 recettes ci-dessus restent les vraies manquantes a traiter dans les sources actuelles.
+- Les autres cas identifies precedemment relevaient surtout de variantes d'intitules, d'accents ou de ponctuation.
