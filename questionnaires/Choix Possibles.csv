@@ -1,0 +1,11 @@
+Identifiant,IdentifiantQuestion,ValeurOption,Ordre
+CHX001,QST002,Oui,1
+CHX002,QST002,Non,2
+CHX003,QST004,Oui completement,1
+CHX004,QST004,Partiellement,2
+CHX005,QST004,Pas du tout,3
+CHX006,QST005,0 a 1 jour,1
+CHX007,QST005,2 a 3 jours,2
+CHX008,QST005,4 a 5 jours,3
+CHX009,QST007,Tous les jours,1
+CHX010,QST007,Quelques fois par semaine,2

@@ -54,6 +54,7 @@ Gère l'ensemble des acteurs du système avec leurs rôles respectifs.
 | Identifiant | Texte | Identifiant unique de l'utilisateur |
 | Nom | Texte | Nom complet de l'utilisateur |
 | Email | Texte | Adresse électronique |
+| Photo | Texte | URL, chemin ou référence de la photo de profil |
 | Role | Texte | Rôle attribué (Demandeur, Interne, Repondant) |
 
 ### B. Table : Demandes Analyses

@@ -1,0 +1,11 @@
+Identifiant,Titre,Description,Statut,IdentifiantDemandeur,DateDemande
+DEM001,Satisfaction client Q3,Mesurer la satisfaction apres achat sur le troisieme trimestre,Approuve,USR001,2026-06-01
+DEM002,Engagement collaborateurs,Evaluer le niveau d engagement des equipes support,EnAttente,USR002,2026-06-03
+DEM003,Retour formation produit,Collecter les retours apres la nouvelle formation produit,Approuve,USR001,2026-06-05
+DEM004,Habitudes teletravail,Analyser les pratiques de teletravail des employes,Rejete,USR002,2026-06-07
+DEM005,Experience onboarding,Mesurer l experience des nouveaux arrivants,Approuve,USR001,2026-06-09
+DEM006,Qualite support interne,Identifier les irritants du support informatique,EnAttente,USR002,2026-06-11
+DEM007,Usage application mobile,Comprendre la frequence et les usages de l application mobile,Approuve,USR001,2026-06-13
+DEM008,Attentes evenement annuel,Recueillir les attentes pour l evenement d entreprise,Approuve,USR002,2026-06-15
+DEM009,Evaluation fournisseurs,Mesurer la satisfaction vis a vis des fournisseurs critiques,EnAttente,USR001,2026-06-17
+DEM010,Priorites RSE,Identifier les priorites RSE percues par les salaries,Approuve,USR002,2026-06-19

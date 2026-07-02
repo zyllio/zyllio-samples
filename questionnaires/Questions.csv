@@ -1,0 +1,11 @@
+Identifiant,IdentifiantQuestionnaire,Intitule,TypeReponse,OrdreAffichage,EstObligatoire
+QST001,QUE001,Quel est votre niveau global de satisfaction ?,Note,1,true
+QST002,QUE001,Recommanderiez vous notre service ?,ChoixUnique,2,true
+QST003,QUE002,Vous sentez vous reconnu dans votre travail ?,Note,1,true
+QST004,QUE003,La formation repond elle a vos attentes ?,ChoixUnique,1,true
+QST005,QUE004,Combien de jours teletravaillez vous par semaine ?,ChoixUnique,1,false
+QST006,QUE005,Le parcours d integration etait il clair ?,Note,1,true
+QST007,QUE007,A quelle frequence utilisez vous l application mobile ?,ChoixUnique,1,true
+QST008,QUE008,Quel format d activite preferez vous pour l evenement ?,ChoixMultiples,1,false
+QST009,QUE009,Comment evaluez vous la fiabilite du fournisseur ?,Note,1,true
+QST010,QUE010,Quelle initiative RSE vous semble prioritaire ?,Texte,1,true

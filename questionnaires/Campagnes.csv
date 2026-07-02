@@ -1,0 +1,11 @@
+Identifiant,IdentifiantQuestionnaire,TitreCampagne,DateDebut,DateFin,Statut
+CMP001,QUE001,Campagne satisfaction juin,2026-06-21,2026-06-30,Terminee
+CMP002,QUE002,Campagne engagement juillet,2026-07-01,2026-07-15,EnCours
+CMP003,QUE003,Campagne formation produit,2026-06-22,2026-07-05,EnCours
+CMP004,QUE004,Campagne teletravail printemps,2026-05-01,2026-05-20,Terminee
+CMP005,QUE005,Campagne onboarding cohortes,2026-06-25,2026-07-10,EnCours
+CMP006,QUE006,Campagne support IT,2026-07-05,2026-07-20,Planifiee
+CMP007,QUE007,Campagne usage mobile,2026-06-26,2026-07-12,EnCours
+CMP008,QUE008,Campagne evenement annuel,2026-06-28,2026-07-18,EnCours
+CMP009,QUE009,Campagne evaluation fournisseurs,2026-04-10,2026-04-30,Terminee
+CMP010,QUE010,Campagne priorites RSE,2026-07-02,2026-07-22,EnCours

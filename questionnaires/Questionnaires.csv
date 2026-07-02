@@ -1,0 +1,11 @@
+Identifiant,Titre,Description,Statut,IdentifiantConcepteur,DateCreation
+QUE001,Satisfaction client,Questionnaire de mesure de satisfaction post achat,Actif,USR003,2026-06-02
+QUE002,Engagement collaborateurs,Questionnaire interne sur l engagement et la motivation,Brouillon,USR004,2026-06-04
+QUE003,Formation produit,Questionnaire de retour sur la formation produit,Actif,USR003,2026-06-06
+QUE004,Teletravail,Questionnaire sur les habitudes et contraintes du teletravail,Archive,USR005,2026-06-08
+QUE005,Onboarding,Questionnaire de suivi des nouveaux arrivants,Actif,USR004,2026-06-10
+QUE006,Support interne,Questionnaire sur la qualite du support informatique,Brouillon,USR005,2026-06-12
+QUE007,Application mobile,Questionnaire d usage de l application mobile,Actif,USR003,2026-06-14
+QUE008,Evenement annuel,Questionnaire de preparation de l evenement annuel,Actif,USR004,2026-06-16
+QUE009,Fournisseurs critiques,Questionnaire d evaluation des fournisseurs,Archive,USR005,2026-06-18
+QUE010,Priorites RSE,Questionnaire de perception des enjeux RSE,Actif,USR003,2026-06-20
