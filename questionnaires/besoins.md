@@ -41,6 +41,7 @@ Tous les symboles techniques respectent les règles suivantes :
 * **Colonnes** : Mots capitalisés accolés sans espace ni caractère de soulignement (exemple : IdentifiantDemandeur).
 * **Langue** : Usage exclusif du français, sans accents dans les identifiants techniques pour préserver la compatibilité informatique.
 * **Types de données** : Nombre, Texte, Date, Booléen.
+* **Format des dates** : Toutes les dates doivent être stockées au format ISO 8601 (`YYYY-MM-DD` pour une date, `YYYY-MM-DDTHH:mm:ss` pour une date et heure).
 
 ---
 
@@ -67,7 +68,7 @@ Enregistre les requêtes initiales d'analyses des demandeurs.
 | Description | Texte | Description détaillée du besoin d'analyse |
 | Statut | Texte | État de la demande (EnAttente, Approuve, Rejete) |
 | IdentifiantDemandeur | Texte | Référence à l'utilisateur demandeur |
-| DateDemande | Date | Date de création de la demande |
+| DateDemande | Date | Date de création de la demande au format ISO 8601 (`YYYY-MM-DD`) |
 
 ### C. Table : Questionnaires
 Modélise la structure globale d'un questionnaire validé.
@@ -79,7 +80,7 @@ Modélise la structure globale d'un questionnaire validé.
 | Description | Texte | Consignes ou description générale |
 | Statut | Texte | État du questionnaire (Brouillon, Actif, Archive) |
 | IdentifiantConcepteur | Texte | Référence au gestionnaire interne concepteur |
-| DateCreation | Date | Date de création du questionnaire |
+| DateCreation | Date | Date de création du questionnaire au format ISO 8601 (`YYYY-MM-DD`) |
 
 ### D. Table : Questions
 Définit les questions associées à un questionnaire.
@@ -111,8 +112,8 @@ Permet la diffusion d'un questionnaire sur une période donnée à une liste de 
 | Identifiant | Texte | Identifiant unique de la campagne |
 | IdentifiantQuestionnaire | Texte | Référence au questionnaire diffusé |
 | TitreCampagne | Texte | Titre ou description de la campagne |
-| DateDebut | Date | Date d'activation de la campagne |
-| DateFin | Date | Date de clôture de la campagne |
+| DateDebut | Date | Date d'activation de la campagne au format ISO 8601 (`YYYY-MM-DD`) |
+| DateFin | Date | Date de clôture de la campagne au format ISO 8601 (`YYYY-MM-DD`) |
 | Statut | Texte | État de la campagne (Planifiee, EnCours, Terminee) |
 
 ### G. Table : Réponses
@@ -123,7 +124,7 @@ Représente la soumission globale des réponses d'un utilisateur pour une campag
 | Identifiant | Texte | Identifiant unique de la réponse globale |
 | IdentifiantCampagne | Texte | Référence à la campagne concernée |
 | IdentifiantRepondant | Texte | Référence à l'utilisateur répondant |
-| DateReponse | Date | Date et heure de validation des réponses |
+| DateReponse | Date | Date et heure de validation des réponses au format ISO 8601 (`YYYY-MM-DDTHH:mm:ss`) |
 
 ### H. Table : Details Réponses
 Stocke la réponse individuelle apportée par un répondant à une question précise.
